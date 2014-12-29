@@ -1,0 +1,50 @@
+﻿Raspberry Pi LPC1114 I/O Processor
+Pulse Width Modulation Motor Control
+By Philip Munts
+Munts Technologies
+
+Introduction
+Electric motors are pervasive in our industrial civilization.  Motors can open and close our doors, make our elevators go up and down, chill our refrigerators, and make our toys go.  They are among the more interesting devices one can control from a computer like the Raspberry Pi, whether for a robot, a vehicle, or even a piece of art.
+The Raspberry Pi LPC1114 I/O Processor Expansion Board has three terminals that can be configured as PWM (Pulse Width Modulation) outputs suitable for controlling DC (Direct Current) motors.  PWM is a technique for controlling the amount of energy delivered to a load (like a motor) by switching its power supply on and off very rapidly.
+The percentage of time that the power supply is switched on is called the duty cycle.  If the power supply is switched on most of the time (high duty cycle), maximum energy will be delivered to the load.  If the switch is off most of the time (low duty cycle), minimum energy will be delivered to the load.  Figure 1 shows oscilloscope traces of PWM signals at low (yellow) and high (blue) duty cycles.
+The LPC1114 timer subsystem can be configured to drive up to three PWM outputs without software control beyond setup and duty cycle adjustment.  This article will describe how to control both DC motors and remote control servo motors with the LPC1114 PWM outputs.
+DC Motors
+DC (Direct Current) motors always have power supply voltage and speed ratings.  At the specified power supply voltage, a motor will spin at the rated speed (assuming no load, a mechanical load will slow down the motor).  If the power supply voltage is less than the rated voltage, a DC motor will spin at a slower speed.  Therefore, we can control the speed of a DC motor by controlling the voltage we supply to it.  (Every motor has a low voltage limit, below which it will not spin reliably; if you need slower rotation you will need to use a gear train.)
+Because of both mechanical effects (inertia) and electrical effects (inductance), a DC motor's speed depends on its average power supply voltage.  We can therefore use a PWM signal to switch a motor's power supply on and off to control its speed.  A low PWM duty cycle will result in a low average voltage and a slow speed.  A high PWM duty cycle will result in a high average voltage and a high speed.
+The LPC1114 PWM outputs are incapable of delivering enough energy to control anything but the tiniest DC motors.  Therefore, it will be necessary to connect some sort of power switch or driver between the LPC1114 PWM output and the DC motor.  Many different DC motor driver chips and modules are available, capable of driving anything from small hobby motors to large industrial motors.
+One simple and inexpensive driver that will work for small DC hobby motors is the ULN2003.  This is an integrated circuit with 7 low side switches, meaning each switch will sink current to ground when you turn it on.  With a low side switch, you connect the low side of the load to the switch and the high side of the load to a positive supply voltage like +5V or +12V.
+The ULN2003 is rated at 50V and 500 mA.  It and its slightly larger companion device the ULN2803 (with 8 switches) are highly useful for driving all sorts of real world loads, including motors, LED's, relays, solenoids, etc.  There is also another companion device, the UDN2981, that is nearly pin compatible with the ULN2803 but contains 8 high side switches.  With a high side switch, you connect the high side of the load to the switch and the low side of the load to ground.  The UDN2981 is harder to find and more expensive than either the ULN2003 or the ULN2803, so I tend to use the ULN2003 or ULN2803 whenever possible.
+Figure 2 is the circuit diagram for connecting a small DC hobby motor.  Figure 3 is a photo of the test system I used for this article.
+Note that this arrangement can only spin the motor in one direction.  If you need to spin the motor in either direction, you will need to use a more complicated driver circuit called an H-Bridge.  The H-Bridge circuit has 4 switches, two low side, and two high side, and allows delivering either polarity voltage to the motor.  It is beyond the scope of this article.
+The following C code fragment illustrates how to control a DC motor with an LPC1114 PWM output:
+spiagent_open(SERVERNAME, &error);
+spiagent_pwm_set_frequency(100, &error);
+spiagent_pwm_configure(LPC1114_PWM4, &error);
+spiagent_pwm_put(pin, 50.0F, &error);
+
+The frequency parameter ranges from 50 to 50000 Hz.  The duty cycle parameter ranges from 0.0 to 100.0 (percent), with 0.0 selecting minimum power to the motor and 100.0 selecting maximum power.  See the LPC1114 I/O Processor Expansion Board User Guide (http://munts.com/rpi-lpc1114/doc/UserGuide.pdf) for more information about the SPI Agent Firmware API (Application Programming Interface).
+Small hobby motors seem to function best with a low PWM frequency.  Larger industrial motors may work with higher PWM frequencies.
+Servo Motors
+Servo motors have been used for many years in radio controlled model airplanes, cars, and boats.  They have three wires going in, V+ (4.8 to 6V for small servos, 12V or more for large servos), control signal, and ground.  Inside the servo unit is an electric motor, gears, and a control circuit.  Figure 4 illustrates some small servo motors.
+The servo motor control signal is a form of pulse duration modulation.  The servo motor expects a continuous train of control pulses 1.0 to 2.0 milliseconds long repeated 50 times a second.  The duration of the control pulse sets the position of the servo motor.  A control pulse width of 1.0 milliseconds sets the servo to one end of its rotation, 1.5 milliseconds sets the servo to the midpoint/zero/neutral position, and 2.0 milliseconds sets the servo to other end of its rotation.  If we constrain the PWM frequency to 50 Hz and the pulse width from 1.0 to 2.0 milliseconds (5 to 10% duty cycle), we can use the LPC1114 PWM outputs to control servo motors as well.
+Small servo motors typically have a 90 degree rotation, but some are geared for 180 degree or 360 degree rotation.  There are also linear servos available, with up to 300 mm stroke and 80 kg thrust, and continuous rotation servos that rotate at a speed and direction proportional to the duration of the control pulse.
+Since servo motors expect a 3V to 5V control signal, they are very easy to drive directly from the LPC1114 I/O Processor Expansion Board.  Just connect +5V, ground, and one of GPIO1, GPIO2, or GPIO3 to the servo.
+The following C code fragment illustrates how to control a servo motor with an LPC1114 PWM output:
+spiagent_open(SERVERNAME, &error);
+spiagent_pwm_set_frequency(50, &error);
+spiagent_pwm_configure(LPC1114_PWM4, &error);
+spiagent_servo_set_position(pin, 0.0F, &error);
+
+The position parameter ranges from -1.0 to +1.0, with 0.0 selecting the midpoint or neutral position.  The servo library functions limit the PWM frequency to 50 Hz and the pulse width to 1.0 to 2.0 milliseconds, as required by typical RC servos.  See the LPC1114 I/O Processor Expansion Board User Guide (http://munts.com/rpi-lpc1114/doc/UserGuide.pdf) for more information about the SPI Agent Firmware API (Application Programming Interface).
+Grounding
+For anything larger than a small hobby motor, make sure that the power and ground connections for the driver chip or module are directly connected to the system power supply.  Do not use the power and ground terminals on the expansion board.  Otherwise, electric current for the motor will flow through the expansion board and Raspberry Pi.  Neither of these were designed to carry much electric current.
+Links
+LPC1114 I/O Processor Expansion Board documentation and purchase information
+http://munts.com/rpi-lpc1114
+Wikipedia on Pulse Width Modulation
+http://en.wikipedia.org/wiki/Pulse-width_modulation
+ULN2003 data sheet
+http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+Servo City, a source for rotary and linear servos
+https://www.servocity.co
+
