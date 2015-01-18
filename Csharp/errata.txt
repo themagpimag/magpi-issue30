@@ -1,0 +1,1 @@
+In addition, I recently discovered a minor mistake in the first article. The creator of the Rpi.I2C.Net library is Max Shmelev, not Dmitry Mshmelev as written therein. I hope that can be corrected with minimal hassle?
