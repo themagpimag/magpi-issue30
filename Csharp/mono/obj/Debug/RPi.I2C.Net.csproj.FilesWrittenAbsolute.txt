@@ -1,0 +1,5 @@
+/home/pi/magpi/mono/new/obj/Debug/.NETFramework,Version=v4.0,Profile=Mono.AssemblyAttribute.cs
+/home/pi/magpi/mono/new/bin/RPi.I2C.Net.dll.mdb
+/home/pi/magpi/mono/new/bin/RPi.I2C.Net.dll
+/home/pi/magpi/mono/new/obj/Debug/RPi.I2C.Net.dll
+/home/pi/magpi/mono/new/obj/Debug/RPi.I2C.Net.dll.mdb
