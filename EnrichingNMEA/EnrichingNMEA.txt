@@ -1,0 +1,297 @@
+Enriching the on-board NMEA Stream with a Raspberry PI and Java
+
+The context
+
+Several electronic instruments are available on boats (sailing boats, motor boats). Those 
+instruments read, compute, and eventually provide various data used for navigation. The 
+idea here is to have an easy access to those data, display them on several kinds of devices 
+(and not only on the expensive displays sold by the nautical electronic providers), and 
+possibly add more data to the ones already managed and manipulated by your existing 
+electronic instruments.
+
+NMEA
+
+The electronic instruments available on boats are used to measure data like the boat speed 
+and heading, the wind speed and direction, read the boat position (GPS), all this kind of 
+things used for navigation. Some data are read from transducers (boat speed through water, 
+wind speed, compass heading, etc), and some are computed (true wind speed and direction, 
+true heading, etc). Those data are usually available in the NMEA format. NMEA stands for 
+National Marine Electronics Association. The definition of the NMEA strings is one of the 
+oldest electronic standards. The NMEA sentences (or strings) are human readable (i.e. it is 
+a text format, it can be some times a bit cryptic). They can be easily parsed by a computer 
+program, several such parsers can be found for free. Here is what an NMEA stream can look 
+like:
+
+$IIMWV,112,R,00.8,N,A*19
+$IIMWV,109,T,00.7,N,A*1A
+$IIMTA,31.5,C*02
+$IIRMB,A,0.23,R,,HMB-3   ,,,,,001.20,184,,V,A*1F
+$IIXDR,P,1.0156,B,0*71
+$WIMDA,29.991,I,1.016,B,31.5,C,,,,,,,,,,,,,,*3B
+$IIRMC,225158,A,3730.075,N,12228.854,W,,,021014,15,E,A*3C
+$IIVHW,,,355,M,00.0,N,,*67
+$IIVLW,08200,N,000.0,N*59
+$IIVWR,112,R,00.8,N,,,,*6B
+$IIGLL,3730.075,N,12228.854,W,225158,A,A*4C
+$IIHDG,356,,,15,E*16
+$IIMTW,+16.0,C*3F
+$IIMWV,111,R,00.9,N,A*1B
+$IIMWV,112,T,00.8,N,A*1F
+$IIRMC,225158,A,3730.076,N,12228.855,W,,,021014,15,E,A*3E
+$IIVHW,,,356,M,00.0,N,,*64
+$IIVLW,08200,N,000.0,N*59
+$IIVWR,111,R,00.9,N,,,,*69
+$IIGLL,3730.076,N,12228.855,W,225158,A,A*4E
+$IIHDG,356,,,15,E*16
+$IIMTW,+16.0,C*3F
+...
+          
+
+Hint: What is a parser?
+
+A parser is this piece of software that turns some text into some "object", or actually some "structure".
+An "object" is a programmatic structured entity - belonging to a specific program, written in a specific language.
+Let us take an example.
+Let us take the RMC NMEA string, present in the stream featured above.
+Its meaning is recommended minimum data for gps. (I know: where does the C come from?).
+Here is its structure, as described in the NMEA specification:
+
+A parser is this piece of software that turns some text into some "object", or actually some "structure".
+An "object" is a programmatic structured entity - belonging to a specific program, written in a specific language.
+Let us take an example.
+Let us take the RMC NMEA string, present in the stream featured above.
+Its meaning is recommended minimum data for gps. (I know: where does the C come from?).
+Here is its structure, as described in the NMEA specification:
+
+
+                  1      2 3        4 5         6 7     8     9      10    11
+           $GPRMC,123519,A,4807.038,N,01131.000,E,022.4,084.4,230394,003.1,W*6A
+                  |      | |        | |         | |     |     |      |     |
+                  |      | |        | |         | |     |     |      |     Variation sign
+                  |      | |        | |         | |     |     |      Variation value
+                  |      | |        | |         | |     |     Date DDMMYY
+                  |      | |        | |         | |     COG
+                  |      | |        | |         | SOG
+                  |      | |        | |         Longitude Sign
+                  |      | |        | Longitude Value
+                  |      | |        Latitude Sign
+                  |      | Latitude value
+                  |      Active or Void
+                  UTC
+                
+
+This is a good illustration of what an NMEA string can be.
+
+    It begins with the character $
+    Between the $ and the first comma, are 5 letters
+        2 characters for the device identifier (GP in this case)
+        3 characters for the sentence identifier (RMC in this case)
+    The 3 last characters are a checksum, used to confirm that the sentence is valid (*6A in this case)
+    Between the first comma and the checksum is the string to parse, as described above
+
+A json (JavaScript Object Notation) parser could turn that string into a json object like this:
+
+
+      {
+        type: 'RMC',
+        active: true,
+        cog: 84.4,
+        sog: 22.4,
+        declination: -3.1,
+        date: 764426119000,
+        pos: {
+          latitude: 48.1173,
+          longitude: 11.516666666666667
+        }
+      }
+                
+
+The object and the string are semantically 100% equivalent (that also means that the string can be fully re-generated from the object).
+Such an object can then be used in a program (a JavaScript one in this case, obviously). Depending on the language you use, you need a parser written in it.
+For information, Java and JavaScript are two totally different languages, as close to each other as Ham is close to Hamburger.
+In the object above:
+
+    cog is the Course Over Ground, in degrees
+    sog is the Speed Over Ground, in knots
+    date is an epoch (for computers, it is the number of milliseconds since January 1st 1970 at 00:00:00.000. All computers and languages know how to deal with that).
+    Here, 764426119000 is equivalent to Wed Mar 23 1994 12:35:19 UTC.
+    Dates and times management is a very vast topic. See this article. 
+
+In short, this is what an NMEA parser would be doing. See the Resources section for details about the Java parser used here.
+
+Several challenges
+
+Serial Port access
+    Many navigation stations deliver the NMEA data through a Serial interface, which is compatible with many devices (like laptop computers).
+    The unfortunate thing about the serial ports is that they are to be accessed exclusively. That means that when one program - running on a laptop for example - is reading the data emitted by the NMEA station, those data are not available for any other program until the serial connection is released by the program using it.
+    This can be painful when you want to simultaneously
+        Read the GPS data from a chart plotter (like OpenCPN)
+        Read the NMEA stream to display the data in a graphical interface
+        Read the GPS data from Airmail, to use a propagation chart to aim for the most appropriate SSB land-station
+        etc...
+    Introducing other data, other sensors
+    In some cases, you could be interested in monitoring data that are not managed by an NMEA station (like the batteries voltage).
+    You could also be interested in monitoring data managed by NMEA, but not by your NMEA station (like air temperature, atmospheric pressure).
+    Injecting those data in the NMEA Stream you read from your station would
+        Make them available for all the NMEA-aware programs reading the NMEA stream
+        Allow you to log them to monitor, display, or replay them
+    Note: You might be interested some computed data that are not returned by your NMEA station (like True Wind speed, direction, angle for example). They could be computed from existing data, and injected in the stream just like above.
+
+Power consumption
+
+A laptop can sound like an obvious solution for your on-board computing needs, but the power consumption of a laptop is not always negligible. The NMEA stations usually draw a very small amount of current, but a laptop power adaptor can draw between 1 and 3 Amps, which is a lot when you have limited energy available, like on a sail boat for example.
+
+Other devices
+
+The computer you would use to read the NMEA stream will probably sit close to the chart table, but you might very well be interested in visualizing the data it computes on deck, from existing displays, or from some wireless devices, like tablets or smart-phones. 
+
+Introducing the Raspberry Pi
+
+	Top
+The Raspberry PI is a credit-card-size computer that can be used to address all the challenges mentioned above.
+It is a fully featured Linux computer, that you can get for less than $40 (2014).
+Linux has no incompatibility with Java, hence Java runs just fine on the Raspberry PI.
+The choice of a language is a delicate topic; it has some close-to-religious dimension... You cannot convince someone who does not believe you that your language is better than his language. At least, I can't.
+I will spend no time trying to convince anyone to use Java rather than any other language.
+But I use Java at least because
+
+    I know it (and I like it)
+    It is free and Open Source
+    There is a huge Java community (9 million people in 2014), no question will remain un-answered
+    It is very scalable (runs on very small and very big machines)
+    Once it runs, it runs the same on all systems (Windows, Mac, Linux, etc)
+    It has gorgeous debugging (local and remote) capabilities
+    A jar file (Java ARchive) that runs somewhere will run the same anywhere Java runs, no re-compilation is required
+    Many good IDEs (Integrated Development Environment) are available for free
+
+This being said, all the softwares I wrote to run on the Raspberry PI (in this document) are written in Java. They are all in Open Source.
+
+Navigation Console
+
+The Navigation Console is a program I've been using on board for several years (I wrote it, 
+partly at sea). It provides - among other features - a graphical user interface to the 
+navigation data.
+
+img/console.jpg
+
+The Navigation Console, Swing GUI
+
+I have recently enhanced it to run in headless mode (i.e. without graphical user 
+interface), to run on the Raspberry PI. And it works just fine. In those headless 
+conditions, the role of the console is to read and compute the data, possibly log, and 
+re-broadcast them on one or more channels. For such a re-broadcasting to happen, the 
+Raspberry PI creates its own ad-hoc wireless network. Other devices will join this network, 
+and will then have access to the re-broadcasted data.
+
+img/IMAG0685.jpg
+
+The Raspberry PI at work on board, in the chart table.
+
+Notice on the picture above: the slice of Pi on top of the Raspberry PI, hosting the 
+battery monitoring device, and the small breadboard, with a BMP180 PCB plugged in it, and 
+connected to the Slice of Pi. We'll talk more about those two later in this document.
+
+Hint: What is a slice of PI?
+    No pastry..., it is a PCB (Printed Circuit Board), designed to fit on top of the Raspberry PI.
+    Just google it.
+
+We need to plug-in three USB sockets here:
+
+    One for the wireless network dongle
+    One for a small wireless keyboard
+    And most important, one for the NMEA input
+
+The device featured here is a Raspberry PI Model B, that comes with two USB ports. The more recent one B+ has 4 USB ports; this would cancel the need for the USB hub you can see on the picture, as we would have by default have more than the three USB sockets we need in this context.
+
+Re-broadcasting
+
+Many navigation programs provide the possibility to read the NMEA streams from other channels than the Serial connection. Those other protocols are usually TCP (Transfer Control Protocol) or UDP (User Defined Protocol). Also available for the same purpose: HTTP (Hyper Text Transfer Protocol), RMI (Remote Method Invocation), WebSocket...
+The idea here is to use a Serial port of the Raspberry PI (USB) to read the NMEA data from the station, and then to re-broadcast the data as they were read on another channel. All the channels mentioned above can be consumed simultaneously from several clients. This way, the data read by the Raspberry PI are simultaneously available to all the devices interested in reading them.
+The Navigation Console provides TCP, UDP, HTTP, and RMI servers. Those servers are very tiny, and do not overload the Raspberry PI.
+The HTML5 WebSocket protocol is also available, through node.js and a user-exit.
+Multiplexing
+Multiplexing is this technique that takes data from several several origins and merges them into a single channel.
+Here we read NMEA data from the NMEA station (already NMEA formatted, obviously), and the program puts them in a cache (technically, it is a HashMap, living in a singleton). Whatever component - like other components of the soft that would need the GPS position, all the different servers (TCP, UDP, etc) would read that cache as the single point of truth. Computed data are also read from the cache. As a matter of fact, all computed data (like True Wind Direction and Speed, Current Speed and Direction, Performance, etc) are re-calculated every time a new value is inserted into the cache by the NMEA reader.
+
+Two things to notice:
+
+    The HashMap is a Java dynamic structure
+    The cache also uses a Publish/Subscribe architecture that implements a listener pattern
+
+We will use those aspects to inject extra data in the cache.
+For example, you can read the battery voltage from some specific device you can build (Open Source as well), turn this value into an NMEA Sentence, and inject it in the cache. Whatever component has subscribed to the manageEvent event in its listener will be notified of the injection of the NMEA sentence.
+The same is true for any other data. I used a BMP180 PCB (from Adafruit) to get the air temperature and the atmospheric pressure (NB: unlike the battery voltage, those data do have an NMEA equivalent, but not available on the NMEA station I have on board). They are read from the sensors, turned into an NMEA string, and injected in the cache. See in the picture below the data prefixed with BAT (custom NMEA chain, BATtery), MTA (Air Temperature), MMB (Barometric Pressure). The Character Console featured below is reading the data from the cache they're injected in.
+
+Character Console
+
+img/IMAG0686.jpg
+
+The Character Console, on a 7" RCA screen, on board.
+
+This one provides for (almost) nothing an access to the data computed by the Raspberry PI. It can be customized by the user. The goal here is to have an access to those data, without having to turn on a laptop or any such demanding device. The only one to switch on is the screen itself, which can be turned back off when done reading.
+
+Other devices
+
+TCP and friends
+
+img/IMAG0687.jpg
+
+On the laptop, using TCP to get the data from the Raspberry PI, simultaneously using the Graphical Console, and OpenCPN.
+
+TCP and UDP are light protocols, designed for computer-to-computer communication. They are both based on a socket mechanism. Once a socket is established between two computers (a client, and a server), then the logic of the dialog will be implemented by the programs running on both client(s) and server, which they have to agree on (to understand each other). In our case, this is extremely simple, once a client is connected, the server is sending it all the valid NMEA strings it reads.
+
+HTTP
+
+HTTP has always been HTML's best friend. HTML is a markup language (widely used to design web pages), HTTP is a transport protocol that can convey HTML streams.
+HTTP is based on TCP, but is has been designed to be a request-response protocol. For the server to do something, a client has to ask first.
+As long as you have a browser on the device you want to use, then HTTP would be an obvious choice. To refresh the data, we would use AJAX, in order to avoid a refresh to be performed by the client.
+HTML5 provides elaborated graphic capabilities that will give us the possibility to come up with a nice graphical user interface.
+
+img/day.console.jpg
+
+The HTML5 console, as seen in a browser (laptop, tablet, smart-phone, ...)
+
+The HTML console is refreshed every seconds.
+
+WebSocket
+The WebSocket protocol has been introduced with the release of HTML5.
+It is also based on TCP.
+One of the drawbacks of HTTP is that it is a request-response (a.k.a. push-pull) protocol. You have to make a request to get a response. For example, if you want to get a flight status from some airline website, the first time you reach the page, it gives you the expected arrival time of the flight. Every time you want to see it this estimated time has changed, you must refresh your page. In other words, request it again.
+The WebSocket protocol precisely addresses (among others) this kind of issue. Once the client (i.e. your browser) is connected on the server, data will be pushed (by the server, to the client) as needed, without requiring the client to refresh its page. This clearly divides the traffic by two.
+The browser you use must be WebSocket aware though. As of now (2015), some browsers (like Internet Explorer 9) still do not support it.
+
+In the Navigation Console, the WebSocket interface is implemented as a user-exit.
+It requires a WebSocket server to be available. We can (fortunately) run it on the Raspberry PI. Node.js is the one we use, with its WebSocket module. Google it to see how to install all this, it is fast and easy.
+In short, here is how it is going:
+
+    An HTTP/WebSocket server is started on the Raspberry PI
+    A user-exit (listening to the cache) is pinging the WebSocket server everytime some data is inserted
+    A web page (WebSocket client) will reach the WebSocket server to display real-time data, pushed by the server, from as many clients as needed
+
+The WebSocket console looks exactly like the HTML5 one featured above. But it takes about half the resources. And the data are refreshed by the server.
+
+Summary of the architecture
+
+img/setup.jpg
+
+The full set. The Raspberry PI is the heart of the system.
+HTTP and WebSocket play the same role on the picture.
+
+The Raspberry PI is the only device connected to the NMEA Interface (the boat's instruments). It is the first to be turned on, and the last to be switched off. I've been running it continuously for weeks, without any glitch.
+
+The Raspberry PI fulfils two distinct functions:
+
+    It enriches the NMEA Stream read from the NMEA Station, by computing new data, and adding data read from the sensors it is connected to
+    The enriched stream is then re-broadcasted using non-exclusive protocols, so it can be read and used simultaneously by a variety of devices, on its own network.
+
+
+The Raspberry PI rebroadcasts the data using TCP, HTTP, and WebSocket (in this case). Data can also be logged on the Raspberry PI's SD card.
+The laptop uses TCP to consume the data, and can run simultaneously several programs using the NMEA data.
+The character console also runs on the Raspberry PI, but in another process than the one reading the data. This way, the character console can be stopped, without interrupting the logging and re-broadcasting performed by the NMEA Reader process.
+Tablets and smart-phones can join the wireless network, using HTTP or WebSocket to display the HTML5 Console.
+
+See on the picture above the central place taken by the Raspberry PI. It is acting as the main hub of all the system. It is the only one reading the NMEA data out of the NMEA station. In addition, it manages its own sensors to read extra data (in this case: battery voltage, atmospheric pressure and air temperature). All the data gathered by the Raspberry PI are re-broadcasted onto several channels, depending on the devices connected on the Raspberry PI's own ad-hoc wireless network. Those devices can join or leave the network at their leisure, the only piece remaining alive will be the Raspberry PI, maintaining all the infrastructure. And all this for between 0.13 and 0.19 Amps. The character console running on the 7" RCA screen preserves a rapid access to the data currently available on the Raspberry PI.
+
+>>> WHB: I have cut the article at Extra data, since this is probably already enough content <<<
+>>> The text needs to be condensed and all of the instructions needed to make the project 
+>>> work must be added <<<
