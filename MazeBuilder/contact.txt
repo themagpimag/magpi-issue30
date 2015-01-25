@@ -1,0 +1,46 @@
+Hi David,
+
+Here are the contact details of the author of the maze article.  (I
+will ask him for a photograph.)
+
+Thanks and best regards,
+
+Will
+
+
+---------- Forwarded message ----------
+From: TheMagPi Articles <articles.themagpi@gmail.com>
+Date: 18 January 2015 at 22:19
+Subject: Re: Submission in Python
+To: martinm@fni.com
+Cc: "articles@themagpi.com" <articles@themagpi.com>
+
+
+Hi Martin,
+
+Many thanks for your article.  It has just been transferred to our layout team.
+
+Best regards,
+
+Will
+
+On 14 November 2014 at 02:22,  <martinm@fni.com> wrote:
+> Hello all:
+>
+> For some time now, I have enjoyed reading your periodical on all things
+> Raspberry Pi. Having gotten as much out as I have, it seems only fair that I
+> offer something in return. Attached is a short Python program and and
+> article that explains my development process. I have run the program on a
+> Raspberry Pi, and confirmed it works there. I hope that it meets your
+> standards and that you are able to use it in your publication.
+>
+> The article is included in both MS word format and txt format, along with
+> the Python code.
+>
+> Please keep up the great work.
+>
+>
+>
+> respectfully
+>
+> Martin Meier
