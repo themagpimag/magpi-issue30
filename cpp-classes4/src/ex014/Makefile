@@ -1,25 +1,17 @@
-# W. H. Bell
-# A Makefile to build Bags.exe
-
 CC=g++
-TARGET=Bags
+TARGET=bags
 OBJECTS=main.o Bag.o ColouredBag.o BeanBag.o
-INCFLAGS=
 
-$(TARGET).exe: $(OBJECTS)
-	@echo "**"
+$(TARGET): $(OBJECTS)
 	@echo "** Linking Executable"
-	@echo "**"
-	$(CC) $(OBJECTS) -o $(TARGET).exe
+	$(CC) $(OBJECTS) -o $(TARGET)
 
 clean:
 	@rm -f *.o *~
 
 veryclean: clean
-	@rm -f $(TARGET).exe
+	@rm -f $(TARGET)
 
-%.o: %.cc
-	@echo "**"
+%.o: %.cpp
 	@echo "** Compiling C++ Source" 
-	@echo "**"
 	$(CC) -c $(INCFLAGS) $< 
