@@ -11,18 +11,19 @@
 // ColouredBag inherits from Bag
 class ColouredBag: public Bag {
 public:
-  ColouredBag(char c='0'):
-  m_bagColour(c){
+  ColouredBag(char c='0'): // Set the bag colour
+  Bag(),  // Set the volume of the bag to zero
+  m_bagColour(c){  // Set the bag colour
   }
-  char colour(void) {
+  char colour(void) {  // Return the bag colour
     return m_bagColour;
   }
-  void setColour(char c) {
+  void setColour(char c) { // Set the bag colour
     m_bagColour = c;
   }
 
-protected:
-  char m_bagColour;
+private:
+  char m_bagColour; // Variable to store a colour character
 };
 
 #endif

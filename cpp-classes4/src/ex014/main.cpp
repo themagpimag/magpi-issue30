@@ -1,7 +1,3 @@
-/* W. H. Bell
-** A program to introduce inheritance.
-*/
-
 #include <iostream>
 #include "Bag.h"
 #include "ColouredBag.h"
@@ -11,7 +7,7 @@ using namespace std;
 
 int main() {
   Bag bag(30.0);
-  
+
   ColouredBag colouredBag;
   colouredBag.setVolume(40.0);
   colouredBag.setColour('r');
