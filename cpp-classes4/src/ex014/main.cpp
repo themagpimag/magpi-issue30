@@ -18,18 +18,18 @@ int main() {
 
   BeanBag beanBag('b');
   beanBag.setVolume(50.0);
-  beanBag.fillWith(100);
+  beanBag.setBeans(100);
 
-  cout << "Volume of bag = " << bag.getVolume() << endl << endl;
-  cout << "Volume of colouredBag = " << colouredBag.getVolume() 
+  cout << "Volume of bag = " << bag.volume() << endl << endl;
+  cout << "Volume of colouredBag = " << colouredBag.volume() 
        << endl;
-  cout << "Colour of colouredBag = " << colouredBag.getColour() 
+  cout << "Colour of colouredBag = " << colouredBag.colour() 
        << endl << endl;
-  cout << "Volume of BeanBag = " << beanBag.getVolume() 
+  cout << "Volume of BeanBag = " << beanBag.volume() 
        << endl;
-  cout << "Colour of BeanBag = " << beanBag.getColour() 
+  cout << "Colour of BeanBag = " << beanBag.colour() 
        << endl;
-  cout << "Beans in BeanBag = " << beanBag.getNumBeans() 
+  cout << "Beans in BeanBag = " << beanBag.beans() 
        << endl;
 
   return 0;

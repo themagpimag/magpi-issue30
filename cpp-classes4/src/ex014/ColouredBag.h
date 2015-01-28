@@ -11,14 +11,17 @@
 // ColouredBag inherits from Bag
 class ColouredBag: public Bag {
 public:
-  /** A member function to set the bag colour. */
-  void setColour(char);
-
-  /** A member function to get the bag colour. */
-  char getColour(void);
+  ColouredBag(char c='0'):
+  m_bagColour(c){
+  }
+  char colour(void) {
+    return m_bagColour;
+  }
+  void setColour(char c) {
+    m_bagColour = c;
+  }
 
 protected:
-  /** A data member to store the bag colour */
   char m_bagColour;
 };
 

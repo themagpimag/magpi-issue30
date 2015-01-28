@@ -7,21 +7,20 @@
 
 class Bag {
 public:
-  /** Default constructor */
-  Bag();
+  Bag(double volume=0): 
+  m_volume(volume) {
+  }
 
-  /** Constructor with specified bag volume */
-  Bag(double volume);
+  double volume(void){
+    return m_volume;
+  }
 
-  /** A function to return the volume */
-  double getVolume(void);
-
-  /** A function to set the volume */
-  void setVolume(double volume);
+  void setVolume(double volume){
+    m_volume = volume;
+  }
 
 private:
-  /** A data member to store the volume */
-  double m_volume;
+  double m_volume; // A data member to store the volume
 };
 
 #endif
