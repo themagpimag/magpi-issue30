@@ -1,6 +1,6 @@
 CC=g++
-TARGET=bag
-OBJECTS=main.o
+TARGET=bags
+OBJECTS=main.o 
 
 $(TARGET): $(OBJECTS)
 	@echo "** Linking Executable"
