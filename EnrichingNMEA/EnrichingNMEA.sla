@@ -105,8 +105,9 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="91.4995275590553" YPOS="48.8739526562759" WIDTH="612.283464566929" HEIGHT="166.191314259943" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="20% Gray" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon141" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="91.4995275590553" YPOS="48.8739526562759" WIDTH="612.283464566929" HEIGHT="166.191314259943" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="20% Gray" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5925" LOCALSCY="0.5925" LOCALX="-4.78421210006977" LOCALY="-191.368484002791" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon141" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/html5.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <ImageEffect Code="3" Param="137"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="91.4995275834644" YPOS="217.009132354393" WIDTH="612.283464566929" HEIGHT="8.50394" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.01423506122473" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 8.50394 612.283 8.50394 612.283 8.50394 612.283 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 8.50394 612.283 8.50394 612.283 8.50394 612.283 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="5.66929133216499" gWidth="612.283464566929" gHeight="14.173231332165" LAYER="9" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -469,10 +470,10 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34708661126" YPOS="4484.52496062701" WIDTH="256.5272835" HEIGHT="730.1203937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 730.12 256.527 730.12 256.527 730.12 256.527 730.12 0 730.12 0 730.12 0 730.12 0 730.12 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 730.12 256.527 730.12 256.527 730.12 256.527 730.12 0 730.12 0 730.12 0 730.12 0 730.12 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="86" BACKITEM="74">
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34708661126" YPOS="4484.52496062701" WIDTH="256.5272835" HEIGHT="598.22503937299" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 598.225 256.527 598.225 256.527 598.225 256.527 598.225 0 598.225 0 598.225 0 598.225 0 598.225 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 598.225 256.527 598.225 256.527 598.225 256.527 598.225 0 598.225 0 598.225 0 598.225 0 598.225 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="86" BACKITEM="74">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="410.37437012126" YPOS="4484.52496062701" WIDTH="256.561063" HEIGHT="721.6164567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 721.616 256.561 721.616 256.561 721.616 256.561 721.616 0 721.616 0 721.616 0 721.616 0 721.616 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 721.616 256.561 721.616 256.561 721.616 256.561 721.616 0 721.616 0 721.616 0 721.616 0 721.616 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="85">
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="410.37437012126" YPOS="4484.52496062701" WIDTH="256.561063" HEIGHT="595.97503937299" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 595.975 256.561 595.975 256.561 595.975 256.561 595.975 0 595.975 0 595.975 0 595.975 0 595.975 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 595.975 256.561 595.975 256.561 595.975 256.561 595.975 0 595.975 0 595.975 0 595.975 0 595.975 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="85">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="363.29825984252" WIDTH="255.99937007874" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.999 0 255.999 0 255.999 0 255.999 0 255.999 447.75 255.999 447.75 255.999 447.75 255.999 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.999 0 255.999 0 255.999 0 255.999 0 255.999 447.75 255.999 447.75 255.999 447.75 255.999 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="88" BACKITEM="-1">
@@ -493,13 +494,9 @@
             <ITEXT CH=") Interface. It is the first to be turned on, and the last to be switched off. I've been running it continuously for weeks, without any glitch."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Raspberry Pi fulfils two distinct functions:"/>
+            <ITEXT CH="In this role the Raspberry Pi fulfils two primary functions. Firstly It enriches the NMEA Stream read from the NMEA Station, by calculating  new data values, and adding data read from the connected sensors. Secondly it re-broadcast the enhanced data stream on its own network, so it can be read and used simultaneously by a variety of devices."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="It enriches the NMEA Stream read from the NMEA Station, by computing new data, and adding data read from the connected sensors."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The enriched stream is then re-broadcast on its own network, so it can be read and used simultaneously by a variety of devices."/>
-            <para PARENT="Body text"/>
-            <ITEXT FCOLOR="Red" FSHADE="100" CH="** Does RPi also create the console display ?"/>
+            <ITEXT CH="Optionally the Raspberry Pi can also read its own data stream and format a character console which is discussed later."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="12" CH="The NMEA"/>
@@ -577,20 +574,12 @@
             <ITEXT CH="Here, 764426119000 is equivalent to Wed Mar 23 1994 12:35:19 UTC."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="13" CH="Serial Port access"/>
+            <ITEXT FONTSIZE="13" CH="Exclusive Serial Port Access"/>
             <para PARENT="Body sub-title"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="Many navigation stations deliver the NMEA data through a Serial interface, which is compatible with many devices (like laptop computers).     The unfortunate thing about the serial ports is that they require exclusive access. That means that when one program - running on a laptop for example - is reading the data emitted by the NMEA station, those data are not available for any other program until the serial connection is released by the program using it."/>
+            <ITEXT FONTSIZE="12" CH="Navigation stations usually deliver the NMEA data through a Serial interface, which is compatible with many devices (like laptop computers).     The unfortunate thing about the serial ports is that they require exclusive access. That means that when one program, on a laptop for example, is reading the data emitted by the NMEA station, the data stream is not available for any other program until the serial connection is released by the program that was using it."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This can be painful if you want to simultaneously:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Use the GPS data for a chart plotter (like OpenCPN)"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Read the NMEA stream to display the data in a graphical interface"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Read the GPS data from Airmail, to use a propagation chart to aim for the most appropriate SSB land-station"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="etc..."/>
+            <ITEXT CH="This can be painful if you want to use the data simultaneously in different applications on different platforms. For example displaying a chart plotter (like OpenCPN) while  presenting readings in a browser-based graphical interface and reading the GPS data from Airmail, to use a propagation chart to aim for the most appropriate SSB land-station."/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
@@ -612,69 +601,53 @@
             <ITEXT CH="Power consumption"/>
             <para PARENT="Body sub-title"/>
             <para PARENT="Body sub-title"/>
-            <ITEXT CH="A laptop can sound like an obvious solution for your on-board computing needs, but the power consumption of a laptop is not always negligible. The NMEA stations usually draw a very small amount of current, but a laptop power adaptor can draw between 1 and 3 Amps, which is a lot when you have limited energy available, like on a sail boat for example."/>
+            <ITEXT CH="A laptop can sound like an obvious solution for your on-board computing needs, but the power consumption of a laptop is not always negligible. The NMEA stations usually draw a very small amount of current, but a laptop power adaptor can draw between 1 and 3 Amps, which is a lot when you have limited energy available, like on a sail boat for example.   Using a Raspberry Pi as the only device running at all times, this can be reduced to 0.13 and 0.19 Amps with short increases when another device is switched on to use and display the data."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="13" CH="Other devices"/>
+            <ITEXT CH="The Java Language"/>
             <para PARENT="Body sub-title"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The computer you would use to read the NMEA stream will probably sit close to the chart table, but you might very well be interested in visualizing the data it computes on deck, from existing displays, or from some wireless devices, like tablets or smart-phones. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Java provides a number of libraries that make it an appropriate choice for this application    There is a huge Java community, a lot of open source material."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Java is very scalable     Once it runs, it runs the same on all systems (Windows, Mac, Linux, etc)"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="A jar file (Java ARchive) that runs somewhere will run the same anywhere Java runs, no re-compilation is required"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Many good IDEs (Integrated Development Environment) are available for free"/>
+            <ITEXT CH="Java provides a number of libraries that make it an appropriate choice for this application    There is a huge Java community, a lot of open source material. Java is very scalable, so once it runs, it runs the same on all systems (Windows, Mac, Linux, etc.). A jar file (Java ARchive) that runs somewhere will run the same anywhere Java runs, no re-compilation is required. Many good IDEs (Integrated Development Environment) are available for free, and although they are too demanding to run on the Raspberry PI it is possible to run remote debugging environment."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="All the software I wrote to run on the Raspberry Pi is written in Javaand is Open Source."/>
+            <ITEXT CH="All the software I wrote to run on the Raspberry Pi is written in Java and is Open Source."/>
             <para PARENT="Body text"/>
             <para/>
             <ITEXT FONTSIZE="12" CH="Navigation Console"/>
             <para PARENT="Body sub-title"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="The Navigation Console is a program I wrote and I've been using on board for several years. It provides, among other features, a graphical user interface to the navigation data."/>
+            <ITEXT FONTSIZE="12" CH="The Navigation Console is a program I wrote and I've been using on board for several years. When run on a laptop it can provide, among other features, a graphical user interface to the navigation data"/>
+            <ITEXT CH=" (as shown below)."/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT FONTSIZE="12" CH="I have recently enhanced it to run in headless mode (i.e. without graphical user interface), to run on the Raspberry Pi. When headless, the role of the Navigation Console is to read and compute the data, optionally save to a log, and then re-broadcast them on one or more channels. For such a re-broadcasting to happen, the Raspberry Pi creates its own ad-hoc wireless network. Other devices will join this network, and will then have access to the re-broadcasted data."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="The Navigation Console, Swing GUI"/>
+            <ITEXT FONTSIZE="13" CH="Multiplexing"/>
+            <ITEXT CH=" Data"/>
+            <para PARENT="Body sub-title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Multiplexing is a technique that takes data from several sources and merges them into a single channel. Here we read data from the NMEA station (already NMEA formatted, obviously), and the program puts them into a cache (technically, it is a Java dynamic structure called a HashMap, living in a singleton). The other software components, such as the different servers (TCP, UDP, etc) read that cache as the single point of truth. Computed data are also read from the cache. As a matter of fact, all computed data (like True Wind Direction and Speed, Current Speed and Direction, Performance, etc.) are re-calculated every time a new value is inserted into the cache by the NMEA reader. The cache also uses a Publish/Subscribe architecture that implements a listener pattern"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="I have recently enhanced it to run in headless mode (i.e. without graphical user interface), to run on the Raspberry Pi. And it works just fine. In those headless conditions, the role of the console is to read and compute the data, possibly log, and re-broadcast them on one or more channels. For such a re-broadcasting to happen, the Raspberry Pi creates its own ad-hoc wireless network. Other devices will join this network, and will then have access to the re-broadcasted data."/>
+            <ITEXT CH="We will use those aspects to inject extra data in the cache. For example, you can read the battery voltage from some equipment, turn this value into an NMEA Sentence, and inject it into the cache. There is not a specific NMEA sentance for Battery data, so I defined my own BATtery sentance. Any component that has subscribed to the manageEvent event in its listener will be notified of the injection of the NMEA sentence."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The same process can be followed for any other data source. I used a BMP180 PCB (from Adafruit) to get the air temperature and the atmospheric pressure. (Note that unlike the battery voltage, those data do have an NMEA equivalent, but are not available on the NMEA station I have on board). They are read from the sensors, turned into the appropriate NMEA string, and injected in the cache. See in the picture below the data prefixed with BAT (custom NMEA chain, BATtery), MTA (Air Temperature), MMB (Barometric Pressure). The Character Console featured below is reading the data from the cache they're injected in."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Re-broadcasting"/>
             <para PARENT="Body sub-title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Many navigation programs provide the possibility to read the NMEA streams from other channels than the Serial connection. Those other protocols are usually TCP (Transfer Control Protocol) or UDP (User Defined Protocol). Also available for the same purpose: HTTP (Hyper Text Transfer Protocol), RMI (Remote Method Invocation), WebSocket..."/>
+            <ITEXT FONTSIZE="13" CH="Many navigation programs provide the possibility to read the NMEA streams from channels other than the serial connection. Those other protocols are usually TCP (Transfer Control Protocol) or UDP (User Defined Protocol). Also available for the same purpose: HTTP (Hyper Text Transfer Protocol), RMI (Remote Method Invocation), WebSocket"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The idea here is to use a Serial port of the Raspberry Pi (USB) to read the NMEA data from the station, and then to re-broadcast the data as they were read on another channel. All the channels mentioned above can be consumed simultaneously from several clients. This way, the data read by the Raspberry Pi are simultaneously available to all the devices interested in reading them."/>
+            <ITEXT FONTSIZE="13" CH="The Raspberry Pi re-broadcast the merged data stream on one or more other channels. All the channels can be consumed simultaneously by several clients, so the data broadcast by the Raspberry Pi is simultaneously available to all interested devices."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Navigation Console provides TCP, UDP, HTTP, and RMI servers. Those servers are very tiny, and do not overload the Raspberry Pi."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The HTML5 WebSocket protocol is also available, through node.js and a user-exit."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="13" CH="Multiplexing"/>
-            <para PARENT="Body sub-title"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Multiplexing is this technique that takes data from several several origins and merges them into a single channel. Here we read NMEA data from the NMEA station (already NMEA formatted, obviously), and the program puts them in a cache (technically, it is a HashMap, living in a singleton). Whatever component - like other components of the soft that would need the GPS position, all the different servers (TCP, UDP, etc) would read that cache as the single point of truth. Computed data are also read from the cache. As a matter of fact, all computed data (like True Wind Direction and Speed, Current Speed and Direction, Performance, etc) are re-calculated every time a new value is inserted into the cache by the NMEA reader."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Two things to notice:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The HashMap is a Java dynamic structure"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The cache also uses a Publish/Subscribe architecture that implements a listener pattern"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="We will use those aspects to inject extra data in the cache. For example, you can read the battery voltage from some specific device you can build (Open Source as well), turn this value into an NMEA Sentence, and inject it in the cache. Whatever component has subscribed to the manageEvent event in its listener will be notified of the injection of the NMEA sentence."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The same is true for any other data. I used a BMP180 PCB (from Adafruit) to get the air temperature and the atmospheric pressure (NB: unlike the battery voltage, those data do have an NMEA equivalent, but not available on the NMEA station I have on board). They are read from the sensors, turned into an NMEA string, and injected in the cache. See in the picture below the data prefixed with BAT (custom NMEA chain, BATtery), MTA (Air Temperature), MMB (Barometric Pressure). The Character Console featured below is reading the data from the cache they're injected in."/>
+            <ITEXT FONTSIZE="13" CH="The Navigation Console provides TCP, UDP, HTTP, and RMI servers. Those servers are very tiny, and do not overload the Raspberry Pi. The HTML5 WebSocket protocol is also available, through node.js and a user-exit."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="12" CH="Character Console"/>
@@ -683,7 +656,8 @@
             <ITEXT FONTSIZE="12" CH="The Character Console, on a 7&quot; RCA screen, on board."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="This provides access to the data computed by the Raspberry Pi. It can be customized by the user. The goal here is to have an access to those data, without having to turn on a laptop. The only one to switch on is the screen itself, which can be turned back off when done reading."/>
+            <ITEXT FONTSIZE="12" CH="This provides access to the data computed by the Raspberry Pi. It can be customized by the user. The goal here is to have an access to those data, without having to turn on a laptop. The only thing to switch on is the screen itself, which can be turned back off when done reading."/>
+            <ITEXT CH=" The character console also runs on the Raspberry Pi, but in different process to than reading the data. This way, the character console can be stopped, without interrupting the logging and re-broadcasting performed by the NMEA Reader process."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="12" CH="Other devices"/>
@@ -744,7 +718,7 @@
             <para PARENT="Body text"/>
             <ITEXT CH="The laptop uses TCP to consume the data, and can run simultaneously several programs using the NMEA data."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The character console also runs on the Raspberry Pi, but in another process than the one reading the data. This way, the character console can be stopped, without interrupting the logging and re-broadcasting performed by the NMEA Reader process. Tablets and smart-phones can also be added into the wireless network, and by using HTTP or WebSocket they can also display the HTML5 Console."/>
+            <ITEXT CH=" Tablets and smart-phones can also be added into the wireless network, and by using HTTP or WebSocket they can also display the HTML5 Console."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="See on the picture above the central place taken by the Raspberry Pi. It is acting as the main hub of all the system. It is the only one reading the NMEA data out of the NMEA station. In addition, it manages its own sensors to read extra data (in this case: battery voltage, atmospheric pressure and air temperature). All the data gathered by the Raspberry Pi are re-broadcasted onto several channels, depending on the devices connected on the Raspberry Pi's own ad-hoc wireless network. Those devices can join or leave the network at their leisure, the only piece remaining alive will be the Raspberry Pi, maintaining all the infrastructure. And all this for between 0.13 and 0.19 Amps. The character console running on the 7&quot; RCA screen preserves a rapid access to the data currently available on the Raspberry Pi."/>
@@ -797,6 +771,23 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="410.596456692913" YPOS="3974.25" WIDTH="256.338976377953" HEIGHT="205.104330708664" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.22" LOCALSCY="0.22" LOCALX="-12.8847530422334" LOCALY="-12.8847530422334" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/setup.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.339 0 256.339 0 256.339 0 256.339 0 256.339 205.104 256.339 205.104 256.339 205.104 256.339 205.104 0 205.104 0 205.104 0 205.104 0 205.104 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.339 0 256.339 0 256.339 0 256.339 0 256.339 205.104 256.339 205.104 256.339 205.104 256.339 205.104 0 205.104 0 205.104 0 205.104 0 205.104 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347086614173" YPOS="5089.5" WIDTH="538.588346456693" HEIGHT="126" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 126 538.588 126 538.588 126 538.588 126 0 126 0 126 0 126 0 126 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 126 538.588 126 538.588 126 538.588 126 0 126 0 126 0 126 0 126 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="12" CH="This article is based on the project description which can be found at: "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="http://www.lediouris.net/RaspberryPI/_Articles/readme.html#03"/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="12" CH="For simplicity most of this software is available as a  pre-built Raspberry Pi archive :  "/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="https://code.google.com/p/weatherwizard/wiki/NewDowloadPage"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="12" CH="To create a build environment for this projects (and some of my others) see the instructions at: "/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="https://code.google.com/p/oliv-soft-project-builder/"/>
+            <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>

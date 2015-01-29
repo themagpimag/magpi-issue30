@@ -99,8 +99,8 @@ def print_asci_maze(maze):
 
 
 def main():
-    print  """\n\nMaze Builder. Shamlessly stolen
-    from "The Creative Atari" cp 1983\n\n"""
+    print  """\n\nMaze Builder. Inspired By
+    "The Creative Atari" cp 1983\n\n"""
 
     width = 0
     depth = 0
