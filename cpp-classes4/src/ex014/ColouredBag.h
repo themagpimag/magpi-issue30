@@ -1,7 +1,3 @@
-/* W. H. Bell
-** A simple object container.
-*/
-
 #ifndef COLOUREDBAG_H
 #define COLOUREDBAG_H
 

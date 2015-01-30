@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.1.svn">
-    <DOCUMENT ANZPAGES="5" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="5" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="7" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -27,14 +27,14 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
         <STYLE NAME="Body text" ALIGN="3" FONTSIZE="11" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Body title" FONT="FreeSans Bold" FONTSIZE="14" LANGUAGE="English"/>
         <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#e1ff1a"/>
         <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
@@ -131,7 +131,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="654.284409448819" YPOS="1716.00094486142" WIDTH="36.8503937007874" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="43"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="35"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -140,7 +140,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="104.363149606299" YPOS="834.11149604252" WIDTH="36.8503937007874" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="42"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="34"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -203,22 +203,18 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="235" WIDTH="375.777221679688" HEIGHT="60.5000000000004" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 60.5 375.777 60.5 375.777 60.5 375.777 60.5 0 60.5 0 60.5 0 60.5 0 60.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 60.5 375.777 60.5 375.777 60.5 375.777 60.5 0 60.5 0 60.5 0 60.5 0 60.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para LINESP="28"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="7 - Operator overloading"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="8 - Inheritance and polymorphism"/>
             <trail LINESP="28"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="360.080708665355" WIDTH="538.588346456693" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="27" BACKITEM="-1">
-            <ITEXT CH="The values contained in simple variables, such as "/>
-            <ITEXT FONT="Monaco Regular" CH="int"/>
-            <ITEXT CH=" or "/>
-            <ITEXT FONT="Monaco Regular" CH="float"/>
-            <ITEXT CH=", can be added together using the mathematical operators that were introduced in the C Cave article in Issue 4 of The MagPi.  This functionality can be extended to objects by the principle of operator overloading.  Before continuing, it may be helpful to read through the introduction to C++ classes in Issues 23 and 24 of The MagPi."/>
+            <ITEXT CH="Object-orientated languages such as Java, Python and C++ all allow inheritance structures.  The idea of inherance is that several classes may have a basic set of member functions or data members that are common between them.  Rather than implement these members functions or data members several times, they can instead be implemented in a base class.  The other classes then inherit from the base class, to include the member functions or data members."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Operators come in many shapes and sizes.  There are mathematical operators, binary operators, relational operators, pointer syntax, stream operators, etc..  Each of these can be implemented as a function that deals with objects of a particular class.  Since an operator that deals with objects is a function, the function could perform complicated operations to load data from disk or over the network before returning the result.  Hopefully, the author of the C++ class has written sensible operator functions or provided documentation."/>
+            <ITEXT CH="Inheritance structures can include a large number of classes.  As the number of classes involved becomes larger, the compilation time will increase and the effects of changing the base class design will be more dramatic.  Therefore, inheritance should be used carefully, where the base class design should be as robust as possible.  Unlike Java, C++ allows a derived class to inherit from several base classes.  However, this feature should be used sparingly, to avoid software from becoming too complicated for other developers to understand."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This tutorial introduces two simple mathematical and stream operator functions.  The tutorial assumes that "/>
+            <ITEXT CH="The syntax and usage of C++ classes is discussed in Issues 23, 24 and 27 of The MagPi.  This article builds on concepts introduced in these previous articles.  This tutorial assumes that "/>
             <ITEXT FONT="Monaco Regular" CH="g++"/>
             <ITEXT CH=" and "/>
             <ITEXT FONT="Monaco Regular" CH="make"/>
@@ -230,188 +226,23 @@
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Two-dimensional vector"/>
+            <ITEXT CH="Three layer inheritance"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The power of operator overloading can be demonstrated with a simple example of numerical operators.  In some  mathematical problems one might have to use a two-dimensional vector, which has x and y components.  From Issues 23 and 24, it is clear that a class can be written that contains x and y components as data members of a class.  However, one would ideally like to be able to add vectors together or subtract them in a straight forward manner.  This can be achieved by writing functions for the operators "/>
-            <ITEXT FONT="Monaco Regular" CH="+"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="-"/>
-            <ITEXT CH=".  Create a new file called "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector.h"/>
-            <ITEXT CH=" and add the source code at the top of the next page.  Then save the file."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This class declaration includes three operator functions that operate on objects: to add, subtract and assign values.  The class declaration also contains a constructor. The default values given in the constructor declaration are used if parameters are omitted when the constructor is called.  There is a function to return the resultant of the vector, a function to return the angle of the vector in the x-y plane, a function to allow the vector to be rotated about itself and two functions that return the values of x and y components respectively.  The class also contains two "/>
-            <ITEXT FONT="Monaco Regular" CH="private"/>
-            <ITEXT CH=" data members that are present to store the values of the x and y components of the vector."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" keyword is carefully used, to allow appropriate usage of the objects created.  For example, functions that do not change values stored in the data members can safely be "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=".  The "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" member functions are indicated by the keyword "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=", which is present just before the semicolon in each "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" function definition.  These functions can be called from a "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" object of "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=" type or from a normal object of "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=" type.  The operator functions use "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" references as parameters to avoid unnecesary copy constructors and to indicate that the operator will not change this parameter. "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Now that the header file has been created, the implementation of the other member functions of the "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=" class is needed.  Therefore, create a new file called "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector.cpp"/>
-            <ITEXT CH=" and add:"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="When a member function or data member is private within a class definition, then it can be accessed directly by any objects instantiated from the class but cannot be accessed from objects that are instantiated from other classes or from functions outside class definitions.  There is an exception to this, which is discussed later in this tutorial.  Writing operator functions as class member functions simplifies the content of the operator member functions, since the private data members can be directly accessed."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The assignment operator is the simplest of the three operator functions.  The values stored in the x and y components of the vector on the right hand side (rhs) of "/>
-            <ITEXT FONT="Monaco Regular" CH="x=y"/>
-            <ITEXT CH=" are assigned to the data members of the object (which is on the left hand side of this equation).  The "/>
-            <ITEXT FONT="Monaco Regular" CH="this"/>
-            <ITEXT CH=" pointer is used to refer to this specific instantiation of the class.  The addition and subtraction operators use the assignment operator to create a copy of the object before the values of the data members are changed.  When the object is instantiated without arguments, the default constructor parameters are used.  Then the assignment function is called to assign the values.  For the operators "/>
-            <ITEXT FONT="Monaco Regular" CH="+"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="-"/>
-            <ITEXT CH=" the equations are "/>
-            <ITEXT FONT="Monaco Regular" CH="z=x+y"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="z=x-y"/>
-            <ITEXT CH=", where all of the object types are the same, "/>
-            <ITEXT FONT="Monaco Regular" CH="y"/>
-            <ITEXT CH=" is passed into the member function as the "/>
-            <ITEXT FONT="Monaco Regular" CH="const"/>
-            <ITEXT CH=" reference "/>
-            <ITEXT FONT="Monaco Regular" CH="rhs"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="x"/>
-            <ITEXT CH=" refers to the object for which the member function is called."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The final piece of C++ needed to produce a working example is the "/>
-            <ITEXT FONT="Monaco Regular" CH="main()"/>
-            <ITEXT CH=" function.  Create a new file called "/>
-            <ITEXT FONT="Monaco Regular" CH="main.cpp"/>
-            <ITEXT CH=" and add the C++ code at the top of the next page."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The "/>
-            <ITEXT FONT="Monaco Regular" CH="main()"/>
-            <ITEXT CH=" function makes use of the three, four, five triangle, to help to make the value of the resultant and the angle more intuitive during debugging.  The example creates a vector called "/>
-            <ITEXT FONT="Monaco Regular" CH="vec1"/>
-            <ITEXT CH=" that has an x component of three and a y component of four.  This implies that the resultant is five.  The values in "/>
-            <ITEXT FONT="Monaco Regular" CH="vec1"/>
-            <ITEXT CH=" are then assigned to the values of "/>
-            <ITEXT FONT="Monaco Regular" CH="vec2"/>
-            <ITEXT CH=", which is therefore a numerical copy of the first vector.  The components of "/>
-            <ITEXT FONT="Monaco Regular" CH="vec2"/>
-            <ITEXT CH=" are printed, the resultant of "/>
-            <ITEXT FONT="Monaco Regular" CH="vec1"/>
-            <ITEXT CH=" is printed and the angle in the x-y plane is printed for "/>
-            <ITEXT FONT="Monaco Regular" CH="vec2"/>
-            <ITEXT CH=".  The function "/>
-            <ITEXT FONT="Monaco Regular" CH="angle()"/>
-            <ITEXT CH=" returns the  value in radians, which is then converted into degrees before being printed on the screen.  The vector "/>
-            <ITEXT FONT="Monaco Regular" CH="vec2"/>
-            <ITEXT CH=" is then rotated by 90 degrees and the resulting angle in the x-y plane is printed.  Finally, "/>
-            <ITEXT FONT="Monaco Regular" CH="vec2"/>
-            <ITEXT CH=" is subtracted from "/>
-            <ITEXT FONT="Monaco Regular" CH="vec1"/>
-            <ITEXT CH=" and the resulting x and y components are printed on the screen.  Once the operator functions have been written, the mathematical usage of the operators becomes intuitive."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="To complete the example program and produce an executable that can be run, create a file called "/>
-            <ITEXT FONT="Monaco Regular" CH="Makefile"/>
-            <ITEXT CH=" in the same directory as the other C++ source files and add: "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="where the lines should be indented by single tab characters and there should be no spaces in front of any other lines.  Save the file and then type "/>
-            <ITEXT FONT="Monaco Regular" CH="make"/>
-            <ITEXT CH=" to build the executable and "/>
-            <ITEXT FONT="Monaco Regular" CH="./op"/>
-            <ITEXT CH=" to run it.  More information on Makefiles can be found in Issue 7 of The MagPi."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Output stream operators"/>
-            <para PARENT="Body title"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="In the "/>
-            <ITEXT FONT="Monaco Regular" CH="main()"/>
-            <ITEXT CH=" function in the last example, each component of the vectors is printed by retrieving the value of the component and then printing it to the screen.   While this works, implementing these function calls in many places can quickly become a waste of time.  Therefore, writing a function that allows an object to be printed directly, e.g."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH=" std::cout &lt;&lt; vec1 &lt;&lt; std::endl;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="may save time.  Unlike the mathematical functions, this operator function is not part of the class.  However, since it relates to the class it is intuative to put it into the same header file as the "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=" class definition.  Open the "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector.h"/>
-            <ITEXT CH=" header file and modify the file to include the two output stream lines given below:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Then add the "/>
-            <ITEXT FONT="Monaco Regular" CH="iostream"/>
-            <ITEXT CH=" header file at the top:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The output stream operator function is not part of the class "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=".  To print the values stored in the "/>
-            <ITEXT FONT="Monaco Regular" CH="private"/>
-            <ITEXT CH=" data members of the "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector"/>
-            <ITEXT CH=" object, the output stream function needs to access these values.  While this is possible by calling the "/>
-            <ITEXT FONT="Monaco Regular" CH="x()"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="y()"/>
-            <ITEXT CH=" functions to retrieve these values, there is a small overhead for these function calls.  Therefore, to make the code slightly simpler, the output stream function is defined as a "/>
-            <ITEXT FONT="Monaco Regular" CH="friend"/>
-            <ITEXT CH=" within the class declaration.  This means that it will be able to access the "/>
-            <ITEXT FONT="Monaco Regular" CH="private"/>
-            <ITEXT CH=" data members as if they were "/>
-            <ITEXT FONT="Monaco Regular" CH="public"/>
-            <ITEXT CH=" data members.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="friend"/>
-            <ITEXT CH=" keyword can be used with classes as well as functions.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="friend"/>
-            <ITEXT CH=" keyword also enables access to "/>
-            <ITEXT FONT="Monaco Regular" CH="protected"/>
-            <ITEXT CH=" functions or data members and "/>
-            <ITEXT FONT="Monaco Regular" CH="private"/>
-            <ITEXT CH=" functions."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Now open the "/>
-            <ITEXT FONT="Monaco Regular" CH="TwoVector.cpp"/>
-            <ITEXT CH=" file and at the end of the file add:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This is the implementation that prints the values into the stream.  Next, try replacing the lines in the "/>
-            <ITEXT FONT="Monaco Regular" CH="main.cpp"/>
-            <ITEXT CH=" file that print the components with:"/>
+            <ITEXT CH="Open a text editor such as nano or emacs and create a file called Bag.h.  Then add the C++ code on the top of the next page and save the file.  This is the base class declaration and implementation.  Since the functionality of the member functions is very simplisitic, it has been implemented within the header file.  The class contains one data member that holds the volume of the bag.  There is a constructor that has a default value.  This implies that the constructor can be used with a value or without a value.  The two member functions return and set the data member value.  The data member is declared as private.  This implies that it will not be directly accessible in the derived class.  To allow direct access to the data member in the derived class, the data member should be declared as protected or public."/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" std::cout &lt;&lt; vec1 &lt;&lt; std::endl;"/>
-            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Now that a class has been written, another class can inherit from it.  Create another file called ColouredBag.h and add the C++ code given below."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The ColouredBag class is a simple container class that inherits from the Bag class.  This implies that it has one data member within the class declaration and one data member by inheritance.  The ColouredBag constructor calls the Bag constructor and sets the value of the data member.  There are two accessor functions in the ColouredBag class and two more that are inherited from the Bag class."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Inheritance stuctures can include several layers of classes.  To demonstrate this, create another file called BeanBag.h that contains the C++ code given below:"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" "/>
+            <para PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="956.505590555119" WIDTH="538.588346456693" HEIGHT="730.994409444881" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="39" BACKITEM="26">
@@ -458,14 +289,14 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="104.36314960626" YPOS="2597.89039368032" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="44"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="36"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1838.39503937032" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="47" BACKITEM="27">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086570867" YPOS="1503.75" WIDTH="538.5883465" HEIGHT="180.502913385827" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 180.503 538.588 180.503 538.588 180.503 538.588 180.503 0 180.503 0 180.503 0 180.503 0 180.503 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 180.503 538.588 180.503 538.588 180.503 538.588 180.503 0 180.503 0 180.503 0 180.503 0 180.503 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086570867" YPOS="1271.30905511811" WIDTH="538.5883465" HEIGHT="317.940944881893" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 317.941 538.588 317.941 538.588 317.941 538.588 317.941 0 317.941 0 317.941 0 317.941 0 317.941 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 317.941 538.588 317.941 538.588 317.941 538.588 317.941 0 317.941 0 317.941 0 317.941 0 317.941 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -490,208 +321,152 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="654.28440942126" YPOS="3479.77984249921" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="45"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="37"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2720.28448818921" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="59" BACKITEM="39">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614174" YPOS="954.15874015748" WIDTH="538.588346456693" HEIGHT="301.34125984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 301.341 538.588 301.341 538.588 301.341 538.588 301.341 0 301.341 0 301.341 0 301.341 0 301.341 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 301.341 538.588 301.341 538.588 301.341 538.588 301.341 0 301.341 0 301.341 0 301.341 0 301.341 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614174" YPOS="954.15874015748" WIDTH="538.588346456693" HEIGHT="273.716220472442" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 273.716 538.588 273.716 538.588 273.716 538.588 273.716 0 273.716 0 273.716 0 273.716 0 273.716 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 273.716 538.588 273.716 538.588 273.716 538.588 273.716 0 273.716 0 273.716 0 273.716 0 273.716 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #ifndef TWOVECTOR_H"/>
+            <ITEXT FONTSIZE="9" CH=" #ifndef BAG_H"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #define TWOVECTOR_H"/>
+            <ITEXT FONTSIZE="9" CH=" #define BAG_H"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" class TwoVector {"/>
+            <ITEXT FONTSIZE="9" CH=" class Bag {"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH=" public:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector(double x = 0., double y = 0.); // Constructor with default values "/>
+            <ITEXT FONTSIZE="9" CH="   Bag(double volume=0):  // Constructor, with default value"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double resultant(void) const; // Resultant"/>
+            <ITEXT FONTSIZE="9" CH="   m_volume(volume) {"/>
+            <ITEXT CH=" // Set the value of the private data member m_volume"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double angle(void) const; // Angle of vector in x-y plane"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   void rotate(double theta); // Rotate the two vector about itself"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector operator+(const TwoVector&amp; twoVector) const; // Addition"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector operator-(const TwoVector&amp; twoVector) const; // Subtraction"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector&amp; operator=(const TwoVector&amp; twoVector); // Assignment"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double x(void) const { return m_x; } // Return the x component"/>
+            <ITEXT FONTSIZE="9" CH="   double volume(void){  // Return the volume of this bag"/>
+            <ITEXT CH=" object"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double y(void) const { return m_y; } // Return the y component"/>
+            <ITEXT FONTSIZE="9" CH="     return m_volume;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   void setVolume(double volume){  // Set the volume of this bag object "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     m_volume = volume;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH=" private:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double m_x;"/>
-            <ITEXT CH=" // x component of the vector"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double m_y;"/>
-            <ITEXT CH=" // y component of the vector"/>
+            <ITEXT FONTSIZE="9" CH="   double m_volume; // A data member to store the volume"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH=" };"/>
-            <para PARENT="Code"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH=" #endif"/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614174" YPOS="1505.67023622047" WIDTH="538.588346456693" HEIGHT="176.579763779527" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 176.58 538.588 176.58 538.588 176.58 538.588 176.58 0 176.58 0 176.58 0 176.58 0 176.58 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 176.58 538.588 176.58 538.588 176.58 538.588 176.58 0 176.58 0 176.58 0 176.58 0 176.58 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="60" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614174" YPOS="1270.39464566929" WIDTH="538.588346456693" HEIGHT="324.855354330709" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 324.855 538.588 324.855 538.588 324.855 538.588 324.855 0 324.855 0 324.855 0 324.855 0 324.855 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 324.855 538.588 324.855 538.588 324.855 538.588 324.855 0 324.855 0 324.855 0 324.855 0 324.855 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &quot;TwoVector.h&quot;"/>
+            <ITEXT CH=" #ifndef COLOUREDBAG_H"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &lt;cmath&gt;"/>
+            <ITEXT CH=" #define COLOUREDBAG_H"/>
             <para PARENT="Code"/>
+            <ITEXT CH=" // Include the base class."/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" TwoVector::TwoVector(double x, double y): "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_x(x),"/>
-            <ITEXT CH="  // assign the value of x to m_x"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_y(y) {"/>
-            <ITEXT CH=" // assign the value of y to m_y"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH=" #include &quot;Bag.h&quot;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" double TwoVector::resultant(void) const {"/>
+            <ITEXT CH=" class ColouredBag: public Bag {  // ColouredBag inherits from Bag"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double r = std::pow(m_x,2) + std::pow(m_y,2);"/>
-            <ITEXT CH=" // The sum of the squares of m_x and m_y"/>
+            <ITEXT CH=" public:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   if(r &gt; 0.) r = std::sqrt(r);"/>
-            <ITEXT CH="  // The sqrt only makes sense for values greater than zero"/>
+            <ITEXT CH="   ColouredBag(char c='0'): // Set the bag colour"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return r;"/>
+            <ITEXT CH="   Bag(),  // Set the volume of the bag to zero"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH="   m_bagColour(c){  // Set the bag colour"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" double TwoVector::angle(void) const {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double r = resultant();"/>
-            <ITEXT CH="  // Get the resultant"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   if(r &lt;= 0.) return 0.;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return std::acos(m_x/r); // angle in radians"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH="   }"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" void TwoVector::rotate(double theta) {"/>
+            <ITEXT CH="   char colour(void) {  // Return the bag colour"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double x = m_x, y = m_y; // Store the current values;"/>
+            <ITEXT CH="     return m_bagColour;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_x = x*std::cos(theta) - y*std::sin(theta);"/>
-            <ITEXT CH="  // Rotate the x component"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_y = x*std::sin(theta) + y*std::cos(theta);"/>
-            <ITEXT CH="  // Rotate the y component"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH="   }"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" TwoVector TwoVector::operator+(const TwoVector&amp; rhs) const {"/>
+            <ITEXT CH="   void setColour(char c) { // Set the bag colour"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector twoVector = *this; // Copy this object"/>
-            <ITEXT CH=" using the assignment operator"/>
+            <ITEXT CH="     m_bagColour = c;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   twoVector.m_x += rhs.m_x;"/>
-            <ITEXT CH="  // Add the m_x value in this object to the other object"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   twoVector.m_y += rhs.m_y;"/>
-            <ITEXT CH="  // Add the m_y value in this object to the other object "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return twoVector;"/>
-            <ITEXT CH="  // Return the resulting vector"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH="   }"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" TwoVector TwoVector::operator-(const TwoVector&amp; rhs) const {"/>
+            <ITEXT CH=" private:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector twoVector = *this; // Copy this object"/>
+            <ITEXT CH="   char m_bagColour; // Variable to store a colour character"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   twoVector.m_x -= rhs.m_x;"/>
-            <ITEXT CH="  // Subtract the m_x value from the other object from this class"/>
+            <ITEXT CH=" };"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   twoVector.m_y -= rhs.m_y;"/>
-            <ITEXT CH="  // Subtract the m_y value from the other object from this class"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return twoVector;"/>
-            <ITEXT CH="  // Return the resulting vector"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" TwoVector&amp; TwoVector::operator=(const TwoVector&amp; rhs) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_x = rhs.m_x;"/>
-            <ITEXT CH="  // Assign the m_x value from the other object"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   m_y = rhs.m_y;"/>
-            <ITEXT CH="  // Assign the m_y value from the other object"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return *this;"/>
-            <ITEXT CH="  // Return the value of this object"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT CH=" #endif"/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347086570867" YPOS="2719.55968503935" WIDTH="538.5883465" HEIGHT="297.605984251988" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 297.606 538.588 297.606 538.588 297.606 538.588 297.606 0 297.606 0 297.606 0 297.606 0 297.606 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 297.606 538.588 297.606 538.588 297.606 538.588 297.606 0 297.606 0 297.606 0 297.606 0 297.606 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" "/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.347086570867" YPOS="1872.00062992128" WIDTH="538.5883465" HEIGHT="322.803149606278" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 322.803 538.588 322.803 538.588 322.803 538.588 322.803 0 322.803 0 322.803 0 322.803 0 322.803 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 322.803 538.588 322.803 538.588 322.803 538.588 322.803 0 322.803 0 322.803 0 322.803 0 322.803 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &quot;TwoVector.h&quot;"/>
+            <ITEXT FONTSIZE="9" CH=" #ifndef BEANBAG_H"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &lt;iostream&gt;"/>
+            <ITEXT FONTSIZE="9" CH=" #define BEANBAG_H"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &lt;cmath&gt;"/>
+            <ITEXT FONTSIZE="9" CH=" // Include the base class"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" using namespace std;"/>
+            <ITEXT FONTSIZE="9" CH=" #include &quot;ColouredBag.h&quot;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" int main() {"/>
+            <ITEXT FONTSIZE="9" CH=" class BeanBag: public ColouredBag {"/>
+            <ITEXT CH="  "/>
+            <ITEXT FONTSIZE="9" CH=" // BeanBag inherits from ColouredBag"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector vec1(3.,4.);"/>
-            <ITEXT CH=" // Using the 3,4,5 triangle."/>
+            <ITEXT FONTSIZE="9" CH=" public:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   TwoVector vec2 = vec1; // Copy vec1"/>
+            <ITEXT FONTSIZE="9" CH="   BeanBag(char colour='0', int beans=0): // Constructor with default values"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   std::cout &lt;&lt; &quot;vec2{x=&quot; &lt;&lt; vec2.x() "/>
+            <ITEXT FONTSIZE="9" CH="     ColouredBag(colour),  // Set the value of the colour, by calling the constructor"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             &lt;&lt; &quot;, y=&quot; &lt;&lt; vec2.y() &lt;&lt; &quot;}&quot; &lt;&lt; std::endl;"/>
+            <ITEXT FONTSIZE="9" CH="     m_beans(beans) {  // Set the number of beans"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   std::cout &lt;&lt; &quot;vec1.resultant()=&quot; &lt;&lt; vec1.resultant() &lt;&lt; std::endl;"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   std::cout &lt;&lt; &quot;vec2.angle()=&quot; &lt;&lt; (vec2.angle()/M_PI)*180. &lt;&lt; &quot; degrees&quot; &lt;&lt; std::endl;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   vec2.rotate(M_PI/2.0); // Rotate anti-clockwise by 90 degrees"/>
+            <ITEXT FONTSIZE="9" CH="   int beans(void){  // Return the number of beans"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   std::cout &lt;&lt; &quot;After rotation vec2{x=&quot; &lt;&lt; vec2.x() &lt;&lt; &quot;, y=&quot; &lt;&lt; vec2.y() "/>
+            <ITEXT FONTSIZE="9" CH="     return m_beans;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             &lt;&lt; &quot;}, vec2.angle()=&quot; &lt;&lt; (vec2.angle()/M_PI)*180. &lt;&lt; &quot; degrees&quot; &lt;&lt; std::endl;"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   vec1 = vec1 - vec2;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" "/>
+            <ITEXT FONTSIZE="9" CH="   void setBeans(int beans){ // Set the number of beans"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   std::cout &lt;&lt; &quot;vec1-vec2 = {x=&quot; &lt;&lt; vec1.x() "/>
+            <ITEXT FONTSIZE="9" CH="     m_beans = beans;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             &lt;&lt; &quot;, y=&quot; &lt;&lt; vec1.y() &lt;&lt; &quot;}&quot; &lt;&lt; std::endl;"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return 0;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
+            <ITEXT FONTSIZE="9" CH=" private:"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int m_beans;  // The number of beans in the bag"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" };"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" #endif"/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -724,47 +499,47 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="104.36314960626" YPOS="4361.66929131811" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="46"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="38"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="128.34708661126" YPOS="3602.17393700811" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="47">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.347086570867" YPOS="1837.18173231261" WIDTH="538.5883465" HEIGHT="417.149606270068" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 417.15 538.588 417.15 538.588 417.15 538.588 417.15 0 417.15 0 417.15 0 417.15 0 417.15 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 417.15 538.588 417.15 538.588 417.15 538.588 417.15 0 417.15 0 417.15 0 417.15 0 417.15 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="49">
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347086570867" YPOS="1835.25" WIDTH="538.5883465" HEIGHT="417.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 417.75 538.588 417.75 538.588 417.75 538.588 417.75 0 417.75 0 417.75 0 417.75 0 417.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 417.75 538.588 417.75 538.588 417.75 538.588 417.75 0 417.75 0 417.75 0 417.75 0 417.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="128.347086570867" YPOS="3834.66236215428" WIDTH="538.5883465" HEIGHT="101.666378003189" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 101.666 538.588 101.666 538.588 101.666 538.588 101.666 0 101.666 0 101.666 0 101.666 0 101.666 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 101.666 538.588 101.666 538.588 101.666 538.588 101.666 0 101.666 0 101.666 0 101.666 0 101.666 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" CC=g++"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   friend std::ostream&amp; operator&lt;&lt;(std::ostream&amp; os, const TwoVector&amp; vec); // New line to add"/>
+            <ITEXT FONTSIZE="9" CH=" TARGET=bag"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" OBJECTS=main.o"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" private:"/>
+            <ITEXT FONTSIZE="9" CH=" $(TARGET): $(OBJECTS)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double m_x;"/>
-            <ITEXT CH=" // x component of the vector"/>
+            <ITEXT FONTSIZE="9" CH="   @echo &quot;** Linking Executable&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double m_y;"/>
-            <ITEXT CH=" // y component of the vector"/>
+            <ITEXT FONTSIZE="9" CH="   $(CC) $(OBJECTS) -o $(TARGET)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" };"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" std::ostream&amp; operator&lt;&lt;(std::ostream&amp; os, const TwoVector&amp; vec);"/>
-            <ITEXT CH=" // New line to add"/>
+            <ITEXT FONTSIZE="9" CH="clean:"/>
             <para PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="128.347086570867" YPOS="3971.59149601384" WIDTH="538.5883465" HEIGHT="48.4085039861648" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 48.4085 538.588 48.4085 538.588 48.4085 538.588 48.4085 0 48.4085 0 48.4085 0 48.4085 0 48.4085 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 48.4085 538.588 48.4085 538.588 48.4085 538.588 48.4085 0 48.4085 0 48.4085 0 48.4085 0 48.4085 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="@rm -f *.o *~"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" #ifndef TWOVECTOR_H"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" #define TWOVECTOR_H"/>
+            <ITEXT FONTSIZE="9" CH="veryclean: clean"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" #include &lt;iostream&gt;"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="@rm -f $(TARGET)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="%.o: %.cpp"/>
+            <para PARENT="Code"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="@echo &quot;** Compiling C++ Source&quot; "/>
+            <para PARENT="Code"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="$(CC) -c $(INCFLAGS) $&lt; "/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -780,53 +555,81 @@
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.347086570867" YPOS="563" WIDTH="538.5883465" HEIGHT="21.0957480314961" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.347086570867" YPOS="591.346456692914" WIDTH="538.5883465" HEIGHT="21.0957480314961" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708657126" YPOS="954.75" WIDTH="538.5883465" HEIGHT="294.460629882672" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 294.461 538.588 294.461 538.588 294.461 538.588 294.461 0 294.461 0 294.461 0 294.461 0 294.461 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 294.461 538.588 294.461 538.588 294.461 538.588 294.461 0 294.461 0 294.461 0 294.461 0 294.461 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708657126" YPOS="954.75" WIDTH="538.5883465" HEIGHT="267.455669291339" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 267.456 538.588 267.456 538.588 267.456 538.588 267.456 0 267.456 0 267.456 0 267.456 0 267.456 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 267.456 538.588 267.456 538.588 267.456 538.588 267.456 0 267.456 0 267.456 0 267.456 0 267.456 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347086570867" YPOS="3208.56787397714" WIDTH="538.5883465" HEIGHT="230.99118114094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 230.991 538.588 230.991 538.588 230.991 538.588 230.991 0 230.991 0 230.991 0 230.991 0 230.991 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 230.991 538.588 230.991 538.588 230.991 538.588 230.991 0 230.991 0 230.991 0 230.991 0 230.991 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" CC=g++"/>
+            <ITEXT CH=" #include &lt;iostream&gt;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" TARGET=op"/>
+            <ITEXT CH=" #include &quot;Bag.h&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" OBJECTS=main.o TwoVector.o"/>
+            <ITEXT CH=" #include &quot;ColouredBag.h&quot;"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" $(TARGET): $(OBJECTS)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   @echo &quot;** Linking Executable&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   $(CC) $(OBJECTS) -o $(TARGET)"/>
+            <ITEXT CH=" #include &quot;BeanBag.h&quot;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" clean:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   @rm -f *.o *~"/>
+            <ITEXT CH=" using namespace std;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" veryclean: clean"/>
+            <ITEXT CH=" int main() {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   @rm -f $(TARGET)"/>
+            <ITEXT CH="   Bag bag(30.0);"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" %.o: %.cpp"/>
+            <ITEXT CH="   ColouredBag colouredBag;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   @echo &quot;** Compiling C++ Source&quot; "/>
+            <ITEXT CH="   colouredBag.setVolume(40.0);"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   $(CC) -c $(INCFLAGS) $&lt; "/>
+            <ITEXT CH="   colouredBag.setColour('r');"/>
             <para PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.34708657126" YPOS="3751.97637799518" WIDTH="538.5883465" HEIGHT="21.09574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   BeanBag beanBag('b');"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   beanBag.setVolume(50.0);"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   beanBag.setBeans(100);"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Volume of bag = &quot; &lt;&lt; bag.volume() &lt;&lt; endl &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Volume of colouredBag = &quot; &lt;&lt; colouredBag.volume() "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Colour of colouredBag = &quot; &lt;&lt; colouredBag.colour() "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       &lt;&lt; endl &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Volume of BeanBag = &quot; &lt;&lt; beanBag.volume() "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Colour of BeanBag = &quot; &lt;&lt; beanBag.colour() "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  cout &lt;&lt; &quot;Beans in BeanBag = &quot; &lt;&lt; beanBag.beans() "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       &lt;&lt; endl;"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  return 0;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="}"/>
+            <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.347086570867" YPOS="4275.385826837" WIDTH="538.5883465" HEIGHT="21.09574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 21.0957 538.588 21.0957 538.588 21.0957 538.588 21.0957 0 21.0957 0 21.0957 0 21.0957 0 21.0957 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708657126" YPOS="1872.25393705119" WIDTH="538.5883465" HEIGHT="318.496062948811" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 318.496 538.588 318.496 538.588 318.496 538.588 318.496 0 318.496 0 318.496 0 318.496 0 318.496 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 318.496 538.588 318.496 538.588 318.496 538.588 318.496 0 318.496 0 318.496 0 318.496 0 318.496 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
