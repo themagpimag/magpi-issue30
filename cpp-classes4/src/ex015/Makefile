@@ -1,6 +1,6 @@
 CC=g++
-TARGET=bags
-OBJECTS=main.o 
+TARGET=trans
+OBJECTS=main.o TwoVector.o MatrixTransform.o
 
 $(TARGET): $(OBJECTS)
 	@echo "** Linking Executable"
