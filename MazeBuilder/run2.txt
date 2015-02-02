@@ -1,0 +1,19 @@
+Maze Builder. Inspired By
+    "The Creative Atari" 1983
+
+
+What should the width be (2-10)?10
+What should the depth be (2-10)?5
+Your maze will be 10 by 5
+Am building a 10 by 5 maze
++s+-+-+-+-+-+-+-+-+-+
+| |     |       |   |
++ +-+-+ +-+ +-+ + + +
+|       |   | |   | |
++-+-+-+ + +-+ + +-+ +
+|     |   |   | |   |
++-+-+ +-+-+ +-+ +-+-+
+|     |     |       |
++ +-+-+ + +-+ +-+ + +
+|       |     |   | |
++-+-+-+-+-+-+-+-+-+f+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SCRIBUSUTF8NEW Version="1.4.3.svn">
+<SCRIBUSUTF8NEW Version="1.4.1.svn">
     <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -30,16 +30,13 @@
         <COLOR NAME="pale python green" RGB="#e7ebad" Spot="0" Register="0"/>
         <COLOR NAME="python green" RGB="#8c7529" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
         <STYLE NAME="Body text" ALIGN="3" LINESP="15" FONTSIZE="11" LANGUAGE="English"/>
         <STYLE NAME="Body title" LINESP="16" FONT="FreeSans Bold" FONTSIZE="14" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
         <STYLE NAME="Code" LINESP="11" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
-        <STYLE NAME="Copy of Body text (1)" ALIGN="3" LANGUAGE="English"/>
-        <STYLE NAME="Copy of Body text (2)" ALIGN="3" LANGUAGE="English"/>
-        <STYLE NAME="Copy of Body text (3)" ALIGN="3" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="0" DRUCKEN="0" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
@@ -185,32 +182,53 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614174" YPOS="359.080708665355" WIDTH="538.588346456693" HEIGHT="446.419291334645" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="16" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 446.419 538.588 446.419 538.588 446.419 538.588 446.419 0 446.419 0 446.419 0 446.419 0 446.419 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 446.419 538.588 446.419 538.588 446.419 538.588 446.419 0 446.419 0 446.419 0 446.419 0 446.419 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="36" BACKITEM="-1">
-            <ITEXT FONTSIZE="12" CH="My education in programming truly began when I traded my hard-earned money for a copy of “The Creative Atari”. Sure, I knew my way around the BASIC programming language, but so did most kids back in the mid-eighties. And like most kids back then, I was far more interested in typing in the games than I was in actually learning something. Luckily for me, this new tome didn’t just contain a few BASIC programs. Each programmer had been thoughtful enough to include a write up with his contribution that not only explained the nuts and bolts of the code, but took us deep into the development process. And they did it in such a way that it stuck with me for the next thirty years."/>
+            <ITEXT FONTSIZE="12" CH="My education in programming truly began when I traded my hard-earned money for a copy of “The Creative Atari”.  Sure, I knew my way around the BASIC programming language, but so did most kids back in the mid-eighties.  Similar to most kids back then, I was far more interested in typing in the games than I was in actually learning something.  Luckily for me, this new tome was not just a collection of few BASIC programs. Instead, each programmer had been thoughtful enough to include a write up with his contribution that not only explained the nuts and bolts of the code, but took us deep into the development process.  These articles were written in such a way that it stuck with me for the next thirty years."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
+            <ITEXT CH="Maze Master"/>
+            <para PARENT="Body title"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="Maze Master"/>
-            <para PARENT="Body title" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="“Maze Master” was a fun little offering by Fred Brunyate, which would give the player a new maze each time it was run. Having a limited supply of quarters had already prodded me to attempt to program my own games. A program that generated a random maze with only one path from start to finish would give me lot to work with. Even better, was that Fred’s explanation gave me everything I needed to adapt this concept to an entertaining dungeon-crawler game. Years later, while learning C, I’d write a version of the maze builder in this new language. I would repeat that process when learning Python.  Clearly, Fred had provided me with a fun little exercise in learning new programming languages. I’d like to pass it on now, so that others may benefit."/>
-            <para PARENT="Body text" LINESP="16"/>
-            <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="The process Fred provided is pretty straight-forward. Start at any point within a 2 dimensional array. Mark the block you are standing in, so you cannot move back into it. Now look at the four squares around you, and see which ones you can move into. Once you have made that list of potential moves, pick one at random. Repeat that process until there is nowhere left for you to move. Once you have boxed yourself into a dead end, simply choose a new position in the array that you have already been in and continue moving. Choosing a location, in which you have already been, insures that all the maze branches are connected together. Repeat this process until all the squares in the array have been tagged."/>
+            <ITEXT FONTSIZE="12" CH="“Maze Master” was a fun little offering by Fred Brunyate, which would give the player a new maze each time it was run.  Having a limited supply of quarters had already prodded me to attempt to program my own games.  A program that generated a random maze with only one path from start to finish would give me lot to work with.  Even better, was that Fred’s explanation gave me everything I needed to adapt this concept to an entertaining dungeon-crawler game.  Years later, while learning C, I wrote a version of the maze builder in C.  Now learning Python, I repeated the process and produced another maze builder.  Clearly, Fred had provided me with a fun little exercise to encourage me while learning new programming languages.  This article contains the Python version, such that that others may benefit."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="In Python"/>
-            <para PARENT="Body title" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="Python is a great choice for this exercise. If you look at the program listing, you can see that I have divided it up into three main parts:  build_maze, print_maze, and main. Starting with main, we can see that the first thing that happens is the program asks the user how big the maze should be. With that information, the code then initializes the 2-D array of the requested size to all ‘0’s.  "/>
+            <ITEXT FONTSIZE="12" CH="The ideas Fred provided are pretty straight-forward.  Start at any point within a two-dimensional array. Mark the block you are standing in, so you cannot move back into it.  Now look at the four squares around you, and see which ones you can move into.  Once you have made that list of potential moves, pick one at random.  Repeat that process until there is nowhere left for you to move.  Once you have boxed yourself into a dead end, simply choose a new position in the array that you have already been in and continue moving.  Choosing a location, in which you have already been, insures that all the maze branches are connected together.  Repeat this process until all the squares in the array have been tagged."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="The main loop in maze_builder first checks to see if there are any cells left in the array that have not been moved into. If there are still some available, it makes a list of possible moves (left, right, up, and down) based on what is around the cell it is in. The program then makes a random choice based on the list is has compiled. Now things begin to get a little confusing. The same array that keeps tracks of whether or not a cell has been moved into, also keeps track of how the walls on each cell are set up. This program will only concern itself with the lower wall and the right wall of each cell, with the upper wall being handled by the cell above and the left wall being defined by the cell to the left. A value of 4 means both the lower and the right wall of a cell are in place. A value of 1, means that both the lower wall and right wall are absent. Values of 2 and 3 correspond to only the right wall or lower wall respectively. Based on which random direction the program has decided move in, it will update both the cell is it currently in and the cell it moves into."/>
+            <ITEXT CH="In Python"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text" LINESP="16"/>
+            <ITEXT FONTSIZE="12" CH="Python is a great choice for this exercise. If you look at the program listing, you can see that I have divided it up into three main parts:  "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="build_maze"/>
+            <ITEXT FONTSIZE="12" CH=", "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="print_maze"/>
+            <ITEXT FONTSIZE="12" CH=", and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="main"/>
+            <ITEXT FONTSIZE="12" CH=". Starting with "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="main"/>
+            <ITEXT FONTSIZE="12" CH=", we can see that the first thing that happens is that the program asks the user how big the maze should be.  With that information, the programme then initialises the two-dimensional array of the requested size to all ‘0’s.  "/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="The last part of the program is print_asci_maze. All this does is print out the completed maze based on the array it is fed. Back in my Atari days, I had solid block graphics that made excellent walls and intersections. As I am still feeling out Python’s capabilities, I have decided to just use the characters +, -, and | for now. "/>
+            <ITEXT FONTSIZE="12" CH="The main loop in the programme first checks to see if there are any cells left in the array that have not been moved into.  If there are still some available, it makes a list of possible moves (left, right, up, and down) based on what is around the cell it is in.  The program then makes a random choice based on the list it has compiled.  Now things begin to get a little confusing.  The same array that keeps tracks of whether or not a cell has been moved into, also keeps track of how the walls on each cell are set up. This program will only concern itself with the lower wall and the right wall of each cell, with the upper wall being handled by the cell above and the left wall being defined by the cell to the left.  A value of 4 means that both the lower and the right-hand wall of a cell are in place.  A value of 1, means that both the lower wall and right-hand wall are absent.  Values of 2 and 3 correspond to only the right-hand wall or lower wall respectively.  Based on which random direction the program has decided move in, it will update both the cell it is currently in and the cell it moves into."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT FONTSIZE="12" CH="Hopefully you have enjoyed this exercise as much as I have. But more importantly I hope that any budding programmers will come away with an understanding of the application of a simple concept can be applied to help you learn new languages. Keep on coding!"/>
+            <ITEXT FONTSIZE="12" CH="The last part of the program is "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="print_asci_maze"/>
+            <ITEXT FONTSIZE="12" CH=".  All this does is print out the completed maze, based on the array it is fed.  Back in my Atari days, I had solid block graphics that made excellent walls and intersections.  As I am still feeling out Python’s capabilities, I have decided to just use the characters "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="+"/>
+            <ITEXT FONTSIZE="12" CH=", "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="-"/>
+            <ITEXT FONTSIZE="12" CH=", and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="12" CH="|"/>
+            <ITEXT FONTSIZE="12" CH=" for now. "/>
             <para PARENT="Body text" LINESP="16"/>
+            <para PARENT="Body text" LINESP="16"/>
+            <ITEXT FONTSIZE="12" CH="Hopefully, you have enjoyed this exercise as much as I have.  More importantly, I hope that any budding programmers will come away with an understanding of the application of a simple concept that can be applied to help you learn new languages.  Keep on coding!"/>
+            <para PARENT="Body text" LINESP="16"/>
+            <ITEXT CH="where "/>
+            <ITEXT FONT="Monaco Regular" CH="S"/>
+            <ITEXT CH=" is the start and "/>
+            <ITEXT FONT="Monaco Regular" CH="F"/>
+            <ITEXT CH=" is the finish.  Every time the program is run, the maze is different!"/>
             <para LINESP="16"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -284,228 +302,238 @@
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086570867" YPOS="954.505590551418" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="16" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="19">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1838.39503937032" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="11.3385826771654" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="42" BACKITEM="-1">
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="import random"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="def build_maze(maze):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    deep = len(maze)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    wide = len(maze[0])"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    print &quot;Am building a&quot;,wide,&quot;by&quot;,deep,&quot;maze&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    x = 0"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    y = 0"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    maze[y][x]= 4"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    total = wide*deep"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    blocks_tagged = 1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    while (blocks_tagged &lt; total):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        options=[]"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        if (x &gt; 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (maze[y][x-1] == 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                options.append(&quot;left&quot;)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        if (x &lt; wide-1):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (maze[y][x+1] == 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                options.append(&quot;right&quot;)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        if (y &gt; 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (maze[y-1][x] == 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                options.append(&quot;up&quot;)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        if (y &lt; deep-1):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (maze[y+1][x] == 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                options.append(&quot;down&quot;)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        if (options):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            choice_index = random.randrange(len(options))"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            choice = options[choice_index]"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            blocks_tagged +=1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (choice == 'down'):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[y][x] == 3):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    maze[y][x] =1               "/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[y][x] == 4):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    maze[y][x] =2"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                y = y + 1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                maze[y][x] = 4"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (choice == 'up'):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                y = y -1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                maze[y][x]=2"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (choice == 'right'):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[y][x] == 4):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    maze[y][x] = 3"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[y][x] == 2):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    maze[y][x] = 1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                x = x+1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                maze[y][x] = 4"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (choice == 'left'):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                x = x -1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                maze[y][x] = 3           "/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        else:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            while(1):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                y = random.randrange(deep)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                x = random.randrange(wide)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[y][x] &gt; 0):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    break"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="       "/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="def print_asci_maze(maze):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    deep = len(maze)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    wide = len(maze[0])"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    right_wall = (0,2,4)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    bottom_wall = (0,3, 4)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="      "/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    # print top border"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    row = &quot;+s+&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    for index in range (0,wide-1):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        row +=&quot;-+&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    print row"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    for index1 in range (0,deep):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        # print upper half of row"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        row = &quot;|&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        for index in range (0,wide):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (maze[index1][index] in right_wall):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                row += &quot; |&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            else:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                row += &quot;  &quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        print row"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        # print lower half of row"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        row = &quot;+&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        for index in range (0,wide):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            if (index == wide-1) and (index1==deep-1):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                row +=&quot;f+&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="            else:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                if (maze[index1][index] in bottom_wall):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    row +=&quot;-+&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                else:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="                    row += &quot; +&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        print row"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="def main():"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    print  &quot;&quot;&quot;\n\nMaze Builder. "/>
-            <ITEXT CH="Inspired by"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    &quot;The Creative Atari&quot; cp 1983\n\n&quot;&quot;&quot;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    width = 0"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    depth = 0"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    while (width &lt; 2) or (width &gt; 10):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        width = int(raw_input(&quot;What should the width be (2-10)?&quot;))"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    while (depth &lt; 2) or (depth &gt; 10):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        depth = int(raw_input(&quot;What should the depth be (2-10)?&quot;))"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    print  &quot;Your maze will be&quot;,width,&quot;by&quot;,depth"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    # set up a list of lists referenced as maze[row][column]"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    maze = [0 for index in range (0, depth)]"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    for index in range (0, depth):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="        maze[index] = [0]*width"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    build_maze(maze)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="    print_asci_maze(maze)"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="10" CH="main()"/>
-            <para PARENT="Code"/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="12" CH="  Martin's Maze Builder code. Download from"/>
-            <para PARENT="Body text" ALIGN="0"/>
-            <ITEXT FONTSIZE="12" CH="  "/>
-            <ITEXT FONTSIZE="12" FCOLOR="Blue" FSHADE="100" CH="https://github.com/themagpimag/magpi-issue30/blob/master/MazeBuilder/python/maze_builder.py"/>
-            <trail PARENT="Body text" ALIGN="0"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1838.39503937032" WIDTH="538.5883465" HEIGHT="710.739448818658" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Monaco Regular" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="11.3385826771654" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 710.739 538.588 710.739 538.588 710.739 538.588 710.739 0 710.739 0 710.739 0 710.739 0 710.739 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 710.739 538.588 710.739 538.588 710.739 538.588 710.739 0 710.739 0 710.739 0 710.739 0 710.739 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="42" BACKITEM="-1">
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="#!/usr/bin/env python"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="import random"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="def build_maze(maze):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  deep = len(maze)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  wide = len(maze[0])"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  print &quot;Am building a&quot;,wide,&quot;by&quot;,deep,&quot;maze&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  x = 0"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  y = 0"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  maze[y][x]= 4"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  total = wide*deep"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  blocks_tagged = 1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  while (blocks_tagged &lt; total):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    options=[]"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    if (x &gt; 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (maze[y][x-1] == 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        options.append(&quot;left&quot;)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    if (x &lt; wide-1):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (maze[y][x+1] == 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        options.append(&quot;right&quot;)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    if (y &gt; 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (maze[y-1][x] == 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        options.append(&quot;up&quot;)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    if (y &lt; deep-1):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (maze[y+1][x] == 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        options.append(&quot;down&quot;)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    if (options):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      choice_index = random.randrange(len(options))"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      choice = options[choice_index]"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      blocks_tagged +=1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (choice == 'down'):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[y][x] == 3):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          maze[y][x] =1         "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[y][x] == 4):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          maze[y][x] =2"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        y = y + 1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        maze[y][x] = 4"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (choice == 'up'):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        y = y -1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        maze[y][x]=2"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (choice == 'right'):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[y][x] == 4):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          maze[y][x] = 3"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[y][x] == 2):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          maze[y][x] = 1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        x = x+1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        maze[y][x] = 4"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (choice == 'left'):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        x = x -1"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        maze[y][x] = 3       "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    else:"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      while(1):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        y = random.randrange(deep)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        x = random.randrange(wide)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[y][x] &gt; 0):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          break"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="def print_asci_maze(maze):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  deep = len(maze)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  wide = len(maze[0])"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  right_wall = (0,2,4)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  bottom_wall = (0,3, 4)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    "/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  # print top border"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  row = &quot;+s+&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  for index in range (0,wide-1):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    row +=&quot;-+&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  print row"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  for index1 in range (0,deep):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    # print upper half of row"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    row = &quot;|&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    for index in range (0,wide):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (maze[index1][index] in right_wall):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        row += &quot; |&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      else:"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        row += &quot;  &quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    print row"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    # print lower half of row"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    row = &quot;+&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    for index in range (0,wide):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      if (index == wide-1) and (index1==deep-1):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        row +=&quot;f+&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="      else:"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        if (maze[index1][index] in bottom_wall):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          row +=&quot;-+&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="        else:"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="          row += &quot; +&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    print row"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT CH="# The main function"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="def main():"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  print  &quot;&quot;&quot;\n\nMaze Builder. Inspired By"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  &quot;The Creative Atari&quot; 1983\n\n&quot;&quot;&quot;"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  width = 0"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  depth = 0"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  while (width &lt; 2) or (width &gt; 10):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    width = int(raw_input(&quot;What should the width be (2-10)?&quot;))"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  while (depth &lt; 2) or (depth &gt; 10):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    depth = int(raw_input(&quot;What should the depth be (2-10)?&quot;))"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  print  &quot;Your maze will be&quot;,width,&quot;by&quot;,depth"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  # set up a list of lists referenced as maze[row][column]"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  maze = [0 for index in range (0, depth)]"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  for index in range (0, depth):"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="    maze[index] = [0]*width"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  build_maze(maze)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  print_asci_maze(maze)"/>
+            <para PARENT="Code" LINESP="10"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="if __name__ == '__main__':"/>
+            <para PARENT="Code" LINESP="10"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="8" CH="  main()"/>
+            <para PARENT="Code" LINESP="10"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="91.49952755926" YPOS="2657.16566929121" WIDTH="612.2834646" HEIGHT="36.8503937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -524,7 +552,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347091674805" YPOS="2720.28442382812" WIDTH="538.588317871094" HEIGHT="551.21557617188" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="11.3385826771654" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 551.216 538.588 551.216 538.588 551.216 538.588 551.216 0 551.216 0 551.216 0 551.216 0 551.216 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 551.216 538.588 551.216 538.588 551.216 538.588 551.216 0 551.216 0 551.216 0 551.216 0 551.216 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="37">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347091674805" YPOS="2720.28442382812" WIDTH="538.588317871094" HEIGHT="518.96557617188" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Monaco Regular" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="11.3385826771654" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 518.966 538.588 518.966 538.588 518.966 538.588 518.966 0 518.966 0 518.966 0 518.966 0 518.966 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 518.966 538.588 518.966 538.588 518.966 538.588 518.966 0 518.966 0 518.966 0 518.966 0 518.966 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="37">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="654.28409452126" YPOS="3468.44125979921" WIDTH="36.8503937" HEIGHT="36.8503937" RADRECT="0" FRTYPE="1" CLIPEDIT="1" PWIDTH="1.417322835" PCOLOR="python green" PCOLOR2="20% Gray" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="36.8504 18.4252 36.8504 28.6015 18.4252 36.8504 28.6015 36.8504 18.4252 36.8504 8.24924 36.8504 0 18.4252 0 28.6015 0 18.4252 0 8.24924 18.4252 0 8.24924 0 18.4252 0 28.6015 0 36.8504 18.4252 36.8504 8.24924 " NUMCO="16" COCOOR="36.8504 18.4252 36.8504 28.6015 18.4252 36.8504 28.6015 36.8504 18.4252 36.8504 8.24924 36.8504 0 18.4252 0 28.6015 0 18.4252 0 8.24924 18.4252 0 8.24924 0 18.4252 0 28.6015 0 36.8504 18.4252 36.8504 8.24924 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -542,7 +570,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="413.34708662126" YPOS="90.6988189025197" WIDTH="279.6529134" HEIGHT="34.08377953" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Regular" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="For Python"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="written in Python"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -550,31 +578,102 @@
             <ITEXT FONTSIZE="14" CH="A Challenge !"/>
             <para PARENT="Body title" ALIGN="1" LINESP="13" OpticalMargins="0"/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
-            <ITEXT FONTSIZE="11" CH="The author has deliberately kept this script simple, using text characters to draw his maze makes the code very portable. But MagPi readers are all hackers at heart, our valued editor would love to see what they can do with this code. Instead of poking things like &quot;-+&quot; into the variable, 'row', how about using some of the very many unicode characters ?  "/>
+            <ITEXT FONTSIZE="11" CH="The author has deliberately kept this script simple, using text characters to draw his maze implies that the code is very portable.  However, MagPi readers are all hackers at heart, our valued editor would love to see what they can do with this code. Instead of poking things like &quot;-+&quot; into the variable, 'row', how about using some of the very many unicode characters ?  "/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
-            <ITEXT FONTSIZE="11" CH="As a hint, try firing up your python environment and typing &quot;print unichr(0x2588)&quot;, don't like that &quot;character&quot; ? Try 0x254b. Nearby numbers produce similar characters. There are a lot of alternatives scattered across the unicode set."/>
+            <ITEXT FONTSIZE="11" CH="As a hint, try firing up your python environment and typing &quot;print unichr(0x2588)&quot;, don't like that &quot;character&quot; ? Try 0x254b.  Nearby numbers produce similar characters.  There are a lot of alternatives scattered across the unicode set."/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
-            <ITEXT FONTSIZE="11" CH="We may be able to convince the Editor to publish the best versions so please send your effort into editor@themagpi.com"/>
+            <ITEXT FONTSIZE="11" CH="We may be able to convince the Editor to publish the best versions so please send your effort into articles@themagpi.com"/>
             <para PARENT="Body text" LINESP="13" OpticalMargins="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="139.347086614173" YPOS="1386" WIDTH="245.152913385827" HEIGHT="267.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="screenshot.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 245.153 0 245.153 0 245.153 0 245.153 0 245.153 267.75 245.153 267.75 245.153 267.75 245.153 267.75 0 267.75 0 267.75 0 267.75 0 267.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 245.153 0 245.153 0 245.153 0 245.153 0 245.153 267.75 245.153 267.75 245.153 267.75 245.153 267.75 0 267.75 0 267.75 0 267.75 0 267.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="1412.66929133858" WIDTH="538.588346456693" HEIGHT="243.237165354331" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 243.237 538.588 243.237 538.588 243.237 538.588 243.237 0 243.237 0 243.237 0 243.237 0 243.237 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 243.237 538.588 243.237 538.588 243.237 538.588 243.237 0 243.237 0 243.237 0 243.237 0 243.237 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="400.819527559055" YPOS="1385.28440944882" WIDTH="246.614102362205" HEIGHT="269.96559055118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="screenshot_2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 269.966 246.614 269.966 246.614 269.966 246.614 269.966 0 269.966 0 269.966 0 269.966 0 269.966 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 269.966 246.614 269.966 246.614 269.966 246.614 269.966 0 269.966 0 269.966 0 269.966 0 269.966 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="1413.59645669291" WIDTH="255.652913385827" HEIGHT="240.944881889764" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 240.945 255.653 240.945 255.653 240.945 255.653 240.945 0 240.945 0 240.945 0 240.945 0 240.945 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 240.945 255.653 240.945 255.653 240.945 255.653 240.945 0 240.945 0 240.945 0 240.945 0 240.945 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" Maze Builder. Inspired By"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH="     &quot;The Creative Atari&quot; 1983"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" What should the width be (2-10)?10"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" What should the depth be (2-10)?5"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" Your maze will be 10 by 5"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" Am building a 10 by 5 maze"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" +s+-+-+-+-+-+-+-+-+-+"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" |   |     |   |     |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" +-+ +-+-+ +-+ + +-+ +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" | |       |   | |   |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" + + +-+-+-+ + + + +-+"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" | |         | | | | |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" + + +-+-+-+ + + + + +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" |   |   |   |   | | |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" +-+ + +-+ + +-+-+ + +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" |   |     |     |   |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="11" CH=" +-+-+-+-+-+-+-+-+-+f+"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="138.75" YPOS="1663.5" WIDTH="508.337244094488" HEIGHT="21.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 508.337 0 508.337 0 508.337 0 508.337 0 508.337 21.75 508.337 21.75 508.337 21.75 508.337 21.75 0 21.75 0 21.75 0 21.75 0 21.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 508.337 0 508.337 0 508.337 0 508.337 0 508.337 21.75 508.337 21.75 508.337 21.75 508.337 21.75 0 21.75 0 21.75 0 21.75 0 21.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="11" CH="Start at S and Finish at F. Every maze is different !"/>
-            <trail PARENT="Body text"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="144.75" YPOS="3249.60661417323" WIDTH="510.841181102362" HEIGHT="15.1433858267701" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://github.com/themagpimag/magpi-issue30/blob/master/MazeBuilder/python/maze_builder.py" ANZIEL="3" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.841 0 510.841 0 510.841 0 510.841 0 510.841 15.1434 510.841 15.1434 510.841 15.1434 510.841 15.1434 0 15.1434 0 15.1434 0 15.1434 0 15.1434 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.841 0 510.841 0 510.841 0 510.841 0 510.841 15.1434 510.841 15.1434 510.841 15.1434 510.841 15.1434 0 15.1434 0 15.1434 0 15.1434 0 15.1434 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="411.811653540393" YPOS="1413.59645665433" WIDTH="255.6529134" HEIGHT="240.944881889764" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 240.945 255.653 240.945 255.653 240.945 255.653 240.945 0 240.945 0 240.945 0 240.945 0 240.945 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 240.945 255.653 240.945 255.653 240.945 255.653 240.945 0 240.945 0 240.945 0 240.945 0 240.945 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" Maze Builder. Inspired By"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="     &quot;The Creative Atari&quot; 1983"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" "/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" What should the width be (2-10)?10"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" What should the depth be (2-10)?5"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" Your maze will be 10 by 5"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" Am building a 10 by 5 maze"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" +s+-+-+-+-+-+-+-+-+-+"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" | |     |       |   |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" + +-+-+ +-+ +-+ + + +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" |       |   | |   | |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" +-+-+-+ + +-+ + +-+ +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" |     |   |   | |   |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" +-+-+ +-+-+ +-+ +-+-+"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" |     |     |       |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" + +-+-+ + +-+ +-+ + +"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" |       |     |   | |"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" +-+-+-+-+-+-+-+-+-+f+"/>
+            <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
