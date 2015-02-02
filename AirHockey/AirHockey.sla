@@ -279,7 +279,7 @@
             <ITEXT CH="In a normal game of air hockey, each player is not allowed to reach into the other half of the table.  Therefore, the paddles are not allowed to be moved to the other side of the table.  The paddles are also not allowed to be moved off the side of the table.  These restrictions are implemented by adding an if statement to each of the paddle control scripts."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="When a moving object hits another object, the object it hits is given an impulse.  For example, when a ball is hit with a bat the ball is sent into the air.  If the bat is not moving and then the ball will just bounce off it.  To simulate the effect of an impulse, the velocity component of the puck is incremented according to the direction the paddle is moving when it is hit by the puck."/>
+            <ITEXT CH="When a moving object hits another object, the object it hits is given an impulse.  For example, when a ball is hit with a bat the ball is sent into the air.  If the bat is not moving, then the ball will just bounce off it.  To simulate the effect of an impulse, the velocity component of the puck is incremented according to the direction the paddle is moving when it is hit by the puck."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Possible extensions"/>
