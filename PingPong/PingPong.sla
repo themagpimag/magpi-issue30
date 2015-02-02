@@ -18,25 +18,26 @@
         <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
         <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Magpi Pink" RGB="#bc1142" Spot="0" Register="0"/>
+        <COLOR NAME="RPi Green" RGB="#017301" Spot="0" Register="0"/>
         <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
-        <COLOR NAME="Theme" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Theme" RGB="#5fa700" Spot="0" Register="0"/>
         <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
-        <STYLE NAME="Body text" ALIGN="3" LANGUAGE="English"/>
+        <STYLE NAME="Body text" ALIGN="3" LINESP="14" FONTSIZE="12" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Body title" FONT="FreeSans Bold" FONTSIZE="14" LANGUAGE="English"/>
-        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="Code" LINESP="12" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#e1ff1a"/>
-        <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="0" DRUCKEN="0" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="0" LEVEL="5" NAME="Header_and_footer" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="8" LEVEL="6" NAME="Page_Number_Right" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#5500ff"/>
         <LAYERS NUMMER="7" LEVEL="7" NAME="Page_Number_Left" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#55557f"/>
@@ -49,8 +50,16 @@
         <LAYERS NUMMER="12" LEVEL="4" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff6470"/>
         <LAYERS NUMMER="13" LEVEL="8" NAME="Image" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffaa00"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="FreeSans Bold"/>
+            <Subset Name="FreeSans Regular"/>
+            <Subset Name="Monaco Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
@@ -85,8 +94,11 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="19.8425 575.433 " HorizontalGuides="19.8425 822.047 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="19.8425 575.433 " HorizontalGuides="19.8425 822.047 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="19.8425 575.433 " HorizontalGuides="19.8425 822.047 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="91.4995275590553" YPOS="48.8739526562759" WIDTH="612.283464566929" HEIGHT="166.191314259943" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="20% Gray" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon141" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="91.4995275590553" YPOS="48.8739526562759" WIDTH="612.283464566929" HEIGHT="166.191314259943" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="20% Gray" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.35" LOCALSCY="0.25" LOCALX="-299.662542182227" LOCALY="-578.267716535433" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon141" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF2689.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 166.191 612.283 166.191 612.283 166.191 612.283 166.191 0 166.191 0 166.191 0 166.191 0 166.191 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <ImageEffect Code="3" Param="22"/>
+            <ImageEffect Code="4" Param="29"/>
+            <ImageEffect Code="5" Param="0 1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="91.4995275834644" YPOS="217.009132354393" WIDTH="612.283464566929" HEIGHT="8.50394" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.01423506122473" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 8.50394 612.283 8.50394 612.283 8.50394 612.283 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 8.50394 612.283 8.50394 612.283 8.50394 612.283 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="5.66929133216499" gWidth="612.283464566929" gHeight="14.173231332165" LAYER="9" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -164,7 +176,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="514.688031496064" YPOS="134.367464074479" WIDTH="145.825511811024" HEIGHT="126.549921259843" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1.41732283464567" PCOLOR="Black" PCOLOR2="20% Gray" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0565" LOCALSCY="0.0565" LOCALX="-602.048637725594" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon2440" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF2702.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 137.322 0 137.322 0 137.322 0 142.018 0 145.826 8.50394 145.826 3.80734 145.826 8.50394 145.826 8.50394 145.826 118.046 145.826 118.046 145.826 118.046 145.826 122.743 137.322 126.55 142.018 126.55 137.322 126.55 137.322 126.55 8.50394 126.55 8.50394 126.55 8.50394 126.55 3.80734 126.55 0 118.046 0 122.743 0 118.046 0 118.046 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 145.826 0 145.826 0 145.826 0 145.826 0 145.826 126.55 145.826 126.55 145.826 126.55 145.826 126.55 0 126.55 0 126.55 0 126.55 0 126.55 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="10.6742936251852" gYpos="10.9549523533976" gWidth="153" gHeight="193.248031453543" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="514.688031496064" YPOS="134.367464074479" WIDTH="145.825511811024" HEIGHT="126.549921259843" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1.41732283464567" PCOLOR="Black" PCOLOR2="20% Gray" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.06" LOCALSCY="0.06" LOCALX="-661.417322834646" LOCALY="-141.732283464567" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon2440" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF2702.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 137.322 0 137.322 0 137.322 0 142.018 0 145.826 8.50394 145.826 3.80734 145.826 8.50394 145.826 8.50394 145.826 118.046 145.826 118.046 145.826 118.046 145.826 122.743 137.322 126.55 142.018 126.55 137.322 126.55 137.322 126.55 8.50394 126.55 8.50394 126.55 8.50394 126.55 3.80734 126.55 0 118.046 0 122.743 0 118.046 0 118.046 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 145.826 0 145.826 0 145.826 0 145.826 0 145.826 126.55 145.826 126.55 145.826 126.55 145.826 126.55 0 126.55 0 126.55 0 126.55 0 126.55 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="10.6742936251852" gYpos="10.9549523533976" gWidth="153" gHeight="193.248031453543" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <ImageEffect Code="3" Param="24"/>
             <ImageEffect Code="4" Param="15"/>
@@ -180,23 +192,23 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="409.403149606299" YPOS="61.2148031496063" WIDTH="324.971220472441" HEIGHT="51.6727559055118" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.4" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 316.467 0 316.467 0 316.467 0 321.164 0 324.971 8.50394 324.971 3.80734 324.971 8.50394 324.971 8.50394 324.971 43.1688 324.971 43.1688 324.971 43.1688 324.971 47.8654 316.467 51.6728 321.164 51.6728 316.467 51.6728 316.467 51.6728 8.50394 51.6728 8.50394 51.6728 8.50394 51.6728 3.80734 51.6728 0 43.1688 0 47.8654 0 43.1688 0 43.1688 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 324.971 0 324.971 0 324.971 0 324.971 0 324.971 51.6728 324.971 51.6728 324.971 51.6728 324.971 51.6728 0 51.6728 0 51.6728 0 51.6728 0 51.6728 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="453" YPOS="61.2148017883301" WIDTH="281.374359130859" HEIGHT="51.6727561950684" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.4" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 272.87 0 272.87 0 272.87 0 277.567 0 281.374 8.50394 281.374 3.80734 281.374 8.50394 281.374 8.50394 281.374 43.1688 281.374 43.1688 281.374 43.1688 281.374 47.8654 272.87 51.6728 277.567 51.6728 272.87 51.6728 272.87 51.6728 8.50394 51.6728 8.50394 51.6728 8.50394 51.6728 3.80734 51.6728 0 43.1688 0 47.8654 0 43.1688 0 43.1688 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 272.87 0 272.87 0 272.87 0 277.567 0 281.374 8.50394 281.374 3.80734 281.374 8.50394 281.374 8.50394 281.374 43.1688 281.374 43.1688 281.374 43.1688 281.374 47.8654 272.87 51.6728 277.567 51.6728 272.87 51.6728 272.87 51.6728 8.50394 51.6728 8.50394 51.6728 8.50394 51.6728 3.80734 51.6728 0 43.1688 0 47.8654 0 43.1688 0 43.1688 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="413.34708662126" YPOS="72.2047243826773" WIDTH="279.65291338874" HEIGHT="28.4153543574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="430.354960637008" YPOS="72.2047243826773" WIDTH="279.65291338874" HEIGHT="28.4153543574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="PING PONG"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="413.34708662126" YPOS="90.6988188976379" WIDTH="279.6529134" HEIGHT="34.0837795275591" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Regular" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="The sub-header Text Goes Here"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="430.354960637008" YPOS="90.6988188976379" WIDTH="279.6529134" HEIGHT="34.0837795275591" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Regular" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="Hardware reaction testing game"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="220.080703735352" WIDTH="375.777221679688" HEIGHT="75.4192962646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="222.915349404643" WIDTH="375.777221679688" HEIGHT="75.4192962646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para LINESP="28"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="???"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="Build a hardware based &quot;tennis&quot; game and test your reactions"/>
             <trail LINESP="28"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -204,10 +216,10 @@
             <ITEXT CH="Introduction"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="I was approximately 10 years old when I received my first TV game console. It was a gift from a long time friend of my parents who lived in France. At that time there was not anything like this game in Portugal."/>
+            <ITEXT CH="I was approximately 10 years old when I received my first TV game console. It was a gift from a long time friend of my parents who lived in France. At that time there was nothing like this game in Portugal."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The main game was a simple tennis match, which was composed of two small vertical bars on each side of the screen and a square as a ball. It was the leading edge of technology - all in black and white! I loved it and played for years."/>
+            <ITEXT CH="The main game was a simple tennis match, which was composed of two small vertical bars on each side of the screen and a square as a ball. It was the leading edge of technology - all in black and white! I loved it and played it for years."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="I remembered those times and decided to build a hardware based Ping Pong look-alike project using my new Raspberry Pi B+. I also wanted to see the reaction of my kids (Tiago age 13 and Sara age 11) who are used to playing with modern games consoles."/>
@@ -216,296 +228,601 @@
             <ITEXT CH="I was pleased to see how excited they were while I was building it and also to play with it. I hope you will have some fun with it too."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Rules"/>
+            <ITEXT CH="Rules of the game"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="A point is won when the other player is unable to press the button in time to send the “ball” (represented by a lit LED) to the opposite side, or if the other player presses their button too soon. The player who wins the point starts the next serve."/>
+            <ITEXT CH="A point is won when the other player does not press the button in time to return the “ball” (represented by a lit LED) to the opposite side, or if the other player presses their button too soon. The player who wins the point starts the next serve."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="A game is won after 9 points is scored (instead of 11 in the real game). A match should consist of any odd number of games (usually five or seven)."/>
+            <ITEXT CH="A game is won after 9 points is scored. A match should consist of any odd number of games (usually five or seven)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="For the first serve, the starting player is randomly selected. The time between LED jumps is random to make it more difficult to predict. The buzzer will sound every time a point is won."/>
+            <ITEXT CH="For the first serve the starting player is randomly selected. The time between LED jumps is random to make it more difficult to predict. The buzzer will sound every time a point is won."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Before you start"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This project was made using a RPi B+ (Raspberry Pi B+) with the Raspbian distribution."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="In the following hyperlinks you can find more information on how to start using your RPi and preparing the microSD card."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="http://www.raspberrypi.org/help/quick-start-guide"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="http://www.raspberrypi.org/help/noobs-setup"/>
+            <ITEXT CH="This project requires the use of a Raspberry Pi A+/B+ as it uses some of the new GPIO pins. It is assumed you are already using a Raspbian distribution."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The software part of this project was done using a programming language called Python, which is very easy to learn."/>
+            <ITEXT CH="The software for this project was written using Python, an easy to learn programming language. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="If you want to learn more about the RPi or Python programming check out the Recommend resources section below."/>
+            <ITEXT CH="If you want to learn more about Python programming, check out "/>
+            <ITEXT FCOLOR="Blue" CH="http://www.python.org"/>
+            <ITEXT CH=" and also the book &quot;Welcome to Python for You and Me&quot; at  "/>
+            <ITEXT FCOLOR="Blue" CH="http://pymbook.readthedocs.org/en/ latest/"/>
+            <ITEXT CH="."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You can find this project's breadboard design and Python source code at http://fritzing.org/projects/ping-pong-with-raspberry-pi"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Just download the ping-pongv1.py file to your home directory in the RPi, usually /home/pi."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="There are several ways to do this, but the easiest is to connect your RPi to the Internet using it's LAN port, access the GUI (Graphical User Interface) in your RPi (startx at the RPi command line) and use the Internet browser to download the file. Then copy it to your home directory."/>
+            <ITEXT CH="When you are learning Python it is usually better to type in the code yourself and a full listing is provided, starting on page 13. This helps you to understand what is going on and how the program works. However you can also download the Python code, plus the breadboard design shown below, from "/>
+            <ITEXT FCOLOR="Blue" CH="http://fritzing.org/projects/ ping-pong-with-raspberry-pi"/>
+            <ITEXT CH="."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Parts needed"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="1x RPi B+ with a microSD card and a USB charger."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="1x Buzzer (I used a 8-15V 85dB magnetic)"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="2x 7 segment display 13mm, red, common cathode"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="2x Push-button 4 pins 3.5mm"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="6x Red LED 5mm"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="1x 220 Ohms resistor for the buzzer"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="9x 1K Ohms resistor for the LEDs, push-buttons and displays"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="1x Breadboard (aka Protoboard)"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Several coloured single-core cables (male-female and male-male)"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
+            <ITEXT CH="1x Raspberry Pi A+/B+ "/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="1x buzzer (I used a 8-15V 85dB Mag)"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="2x 7-segment red display 13mm, red, common cathode"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="2x 4-pin push button (3.5mm)"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="6x red LED 5mm"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="1x 220R resistor for the buzzer"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="9x 1k resistors for the LEDs, push-buttons and displays"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="1x breadboard (aka Protoboard)"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="You also need several coloured jumper cables (male-female and male-male)"/>
+            <para PARENT="Body text" ALIGN="3"/>
+            <para PARENT="Body text" ALIGN="3"/>
             <ITEXT CH="Hardware"/>
+            <para PARENT="Body title" ALIGN="3"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The easiest way to assemble the circuit is to follow the picture below with the breadboard design."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The Raspberry Pi has 2 different voltages in its GPIO (General Purpose Input Output) pins - 5V and 3.3V (or 3V3). All pins only work with 3V3, except the 5V and Ground (GND) pins."/>
+            <para PARENT="Body text"/>
+            <ITEXT FONT="FreeSans Bold" CH="NOTE:"/>
+            <ITEXT CH=" You should be careful to never connect a 5V pin to a 3V3 pin, nor should you connect a 3V3 or 5V pin to a GND pin."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Because of that, I like to follow some safe rules when building circuits for my Raspberry Pi:"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="1) Use coloured cables to ease identification (red for 5V, orange for 3V3 and black for GND)"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="2) Assemble everything before connecting the Raspberry Pi"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <ITEXT CH="3) After completing all the assembly work, double check everything before powering the Raspberry Pi."/>
+            <para PARENT="Body text" ALIGN="0"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="It may sound basic and boring, but it will save time searching for malfunctions and it may save your Raspberry Pi from getting damaged. Of course, the great thing about the Raspberry Pi is that if it should get damaged, it does not cost much to get another!"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="I like to have a coloured printout of the GPIO pinout near my Raspberry Pi to make it easy to assemble and double check everything. You can find one at "/>
+            <ITEXT FCOLOR="Blue" CH="http://www.raspberrypi-spy.co.uk/ 2014/07/raspberry-pi-b-gpio-header-details-and-pinout/"/>
+            <ITEXT CH="."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Circuit description"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The easiest way to assemble everything is to follow the picture with the breadboard design."/>
+            <ITEXT CH="In the following description a high signal means 3V3 and a low signal means 0V (GND)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The RPi has 2 different voltages in it's GPIO (General Purpose Input Output) pins. 5V and 3.3V (aka 3V3)."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="All pins work only with 3V3 (except the 5V and GND)."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This is very important. You should be careful to never connect a 5V pin to a 3V3 pin. Neither should you connect a 3V3 or 5V pin to a GND pin."/>
+            <ITEXT CH="The 1k resistors are there to limit the electrical current and to protect the Raspberry Pi GPIO pins. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Because of that, I like to follow some safe rules when building circuits with my RPi:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="1st – Use coloured cables to ease identification (red for 3V3 or 5V, black for GND, are the de facto standards);"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="2nd - Assemble everything before powering the RPi;"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="3rd - After completing all the assembly, double check everything before powering the RPi."/>
+            <ITEXT CH="The red LEDs are lit by activating a high signal on their anode/positive side (this is the longer leg). The LEDs are connected to GND. When either push-button is pressed it allows the 3V3 voltage to be delivered to the anode of the LED."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="I know it sounds basic and boring, but it can save your RPi from malfunctioning, blocking or worse, be damaged."/>
+            <ITEXT CH="The buzzer is very simple. Just apply a high signal to its positive pin (it should be marked) and it will sound until the signal is dropped. If the buzzer does not sound or sounds very weak, try removing the 220R resistor."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="I like to have a coloured printout of the GPIO pinout near my RPi to make it easy to assemble and double check everything."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="You can find it here"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="http://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/"/>
+            <ITEXT CH="The 7-segment displays I selected for this project have individual anode/positive pins but a common cathode/negative/GND pin. Think of them as having 7 different LEDs (plus one for the decimal point, which is not used in this project)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="A high signal means 3V3 and a low signal means 0V (GND)."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The resistors are there to limit the electrical current and to protect the RPi GPIO pins. They have no polarity (there is no positive or negative pins)."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The red LEDs are lit by activating a high signal on their anode/positive pin (this is the bigger leg)."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The push-buttons, when pressed, allow the 3V3 voltage to be delivered to the pins on the other side, as one would expect."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The buzzer is very simple. Just apply a high signal to it's positive pin (it should be marked) and it will sound until the signal is dropped."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="If the buzzer doesn't sound or sounds very weak, try removing the resistor."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The 7 segment displays I selected for this project have individual anode/positive pins but common cathode/negative/GND pins."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Think of them as having 7 different LEDs (plus one for the decimal point, which is not used in this project)."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="If the displays are too dim replace the 1K Ohms resistor with a 220 Ohms."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Teaser"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="If you did all the assembly, you can try the game right now by using the command"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="sudo python ~/ping-pongv1.py"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="at the RPi command line."/>
+            <ITEXT CH="If the displays are too dim replace the 1k resistor beside the left display with a 220R resistor."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Software"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="In this project, everything is controlled by the RPi through a Python program."/>
+            <ITEXT CH="If you are typing in the Python code you can do so from the command line with,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You can edit the source code using the command"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" nano ~/ping-pongv1.py"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="nano ~/ping-pongv1.py"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="when using the RPi command line, or if using the GUI you can edit it with the Python's IDLE editor."/>
+            <ITEXT CH="or if you are using the GUI then you can use the Python IDLE editor."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The main part of the program starts at line 156. I'll explain it by blocks, to be easier to understand."/>
+            <ITEXT CH="The program is listed on the next page. After various functions are defined, the main part of the program starts with the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="try"/>
+            <ITEXT CH=" block. Here the pin numbering system is defined and any warnings about the previous state of the pins is disabled. Then it defines which pins are used for input and output and sets all output pins with a low signal (0V)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The first block defines the pin numbering system, like the comment (#) states :) and disables any warnings over previous state of the pins."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="It defines which pins are for input and output and sets all output pins to low signal."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="try:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    GPIO.setmode(GPIO.BOARD)  # setup pin numbering system"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    GPIO.setwarnings(False)"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    set_in_pins(IN)  # setup input pins"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    set_out_pins(OUT)  # setup output pins"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    all_low(OUT)  # clear all output pins"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The second block creates a variable to keep track of the current position of the “ball” and randomly defines the starting player. In doing that it also defines the game direction (right or left), which is used later to test for the first/last position. You can guess what the show_scores() function does, right?"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    cur_pos = random.choice([FIRST, LAST])  # define 1st LED to be lit"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    if cur_pos == FIRST:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        direction = RIGHT"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    else:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        direction = LEFT"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    show_scores()"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Next is the inner core of the program."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This block starts with a loop that repeats itself until one of the players reaches the maximum score possible per game (9 points). Next it turns the “ball” LED on and waits some time to allow the players to press the buttons. After that it turns the LED off. Then it checks if the “ball” is in the final position (in either side), if not, it checks if either player pressed the button before due time, in which case the player loses and a function called end_service() is called to sound the buzzer and update the displays. Otherwise it increases the “ball” position."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    while player_1 &lt; MAX_SCORE and player_2 &lt; MAX_SCORE:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        # light LED (ball) and pause for a little time to allow the players to"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        # press the button"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        led_on(cur_pos)"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        led_off(cur_pos)"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        if ((direction == RIGHT and cur_pos &lt; LAST) or  # not in last position"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            (direction == LEFT and cur_pos &gt; FIRST)):  # not in first position"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            if is_on(BUTTON_1):  # if button 1 was pressed player 1 loses"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                player_2 += 1"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                cur_pos = LAST"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                direction = LEFT"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                end_service()"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            elif is_on(BUTTON_2):  # if button 2 was pressed player 2 loses"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                player_1 += 1"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                cur_pos = FIRST"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                direction = RIGHT"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                end_service()"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            else:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                cur_pos += direction  # updates position"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This block starts with an else clause from the first if statement after the loop. This only executes if the ball is in the first or last position. It checks if the player pressed the button on time or not. If he did it updates the ball position in the other direction, if he didn't the score is increased for the other player and the position and direction are updated for the new game. Next the same end_service() function as before is called to sound the buzzer and update the displays."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="        else:  # it is the first or last position"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            if ((cur_pos == LAST and is_on(BUTTON_2)) or"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                (cur_pos == FIRST and is_on(BUTTON_1))):"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                direction *= -1  # change direction"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                cur_pos += direction"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="            else:  # player didn't push button on time"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                if cur_pos == FIRST:  # player 1 loses"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    player_2 += 1"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    cur_pos = LAST"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    direction = LEFT"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                else:  # player 2 loses"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    player_1 += 1"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    cur_pos = FIRST"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                    direction = RIGHT"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="                end_service()"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The last block from the main part. The out_sequence() function is called after a player reached the maximum score (and exited the loop explained above). It is just an LED special effect to show the end of the game. The last command is the GPIO.cleanup() which is used to restore all the pins to it's pre-game state, as a good practice."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    out_sequence()"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="except KeyboardInterrupt as error:"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    pass"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="finally:  # always executed"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    GPIO.cleanup()  # restores all pins pre-game state"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The main part is enclosed in a try-except-finally block to make sure the GPIO.cleanup() function is called, even if there is an error or the user interrupts the program."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Above the main part is where libraries of functions (called modules in Python) are imported, global constants (all caps) and variables are created and functions are defined."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="To understand the DISPLAY_1, DISPLAY2 and DIGITS_MASKS constants, check the 7 segment display documentation, otherwise they might seem strange."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Due to space restrictions I can't explain the entire source code, I hope you can understand and take this as a challenge to learn in the Recommended resources or elsewhere what every line does."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="I would like to end by thanking the MagPi team for their amazing effort in giving us this regular source of information and learning."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="And a spacial thank you for this opportunity to show and explain my project."/>
-            <trail PARENT="Body text"/>
+            <ITEXT CH="The second block sets the variable "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="cur_pos"/>
+            <ITEXT CH=" to keep track of the current position of the “ball” and randomly defines the starting player. In doing so it also defines the game direction (right or left), which is used later to test for the first/last position. You can probably guess what the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="show_scores()"/>
+            <ITEXT CH=" function does!"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="In the next block, the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="while"/>
+            <ITEXT CH=" loop is the inner core of the program. This loop repeats itself until one of the players reaches the maximum score of 9 points. First it turns the “ball” LED on and waits for a period of time to allow the players to press their button. Then it turns the LED off and checks if the “ball” is in the final position on either side. "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="If the &quot;ball&quot; is not in the final position, it checks if either player pressed their button early. If either button is pressed that player loses and a function called "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="end_service()"/>
+            <ITEXT CH=" is called to sound the buzzer and update the displays. If no button is pressed then it increases the “ball” position."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The next block starts with the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="else"/>
+            <ITEXT CH=" clause, from the first "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="if"/>
+            <ITEXT CH=" statement after the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="while"/>
+            <ITEXT CH=" loop. This indicates that the &quot;ball&quot; is in the first or last position. It checks if the player pressed the button on time or not. If they did it changes the &quot;ball&quot; direction, but if they did not then the score is increased for the other player and the position and direction are updated for the new game. As before, the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="end_service()"/>
+            <ITEXT CH=" function is called to sound the buzzer and update the displays."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="out_sequence()"/>
+            <ITEXT CH=" function is called when a player reaches the maximum score. It is an LED special effect to show the end of the game. "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The last command is "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="GPIO.cleanup()"/>
+            <ITEXT CH=" which is used to restore all the pins to their pre-game state, as good practice."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The main part is enclosed in a "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="try-except-finally"/>
+            <ITEXT CH=" block to make sure the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="GPIO.cleanup()"/>
+            <ITEXT CH=" function is called, even if there is an error or the user interrupts the program."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The start of the listing is where libraries of functions are imported, global constants (all caps) and variables are created and functions are defined. To understand the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="DISPLAY_1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="DISPLAY_2"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="DIGITS_MASKS"/>
+            <ITEXT CH=" constants please refer to the 7-segment display documentation and to "/>
+            <ITEXT FCOLOR="Blue" CH="https://en.wikipedia.org/ wiki/Seven-segment_display"/>
+            <ITEXT CH=". "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Due to space restrictions I cannot explain the entire source code, but hopefully you will take this as a challenge to learn and understand what the code is doing."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Play the game"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Once the hardware is built and checked and the code has been entered, to play the game enter the following on the command line:"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH=" sudo python ~/ping-pongv1.py"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Python source code"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" #!/usr/bin/env python"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" &quot;&quot;&quot;Ping-pong."/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" This is a ping-pong look-alike but the maximum"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" score is 9 instead of 11 due to the use of a  "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" 7-segment display."/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" For the first service, the starting player is "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" randomly selected. The time between LED jumps "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" is random to make it more difficult to  "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" predict. The buzzer will sound every time a "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" point is won.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" import random"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" import time"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" import RPi.GPIO as GPIO"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # Constants use BOARD pin numbering system"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" BUTTON_1 = 7"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" BUTTON_2 = 40"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" IN = [BUTTON_1, BUTTON_2]  # input pins"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" LEDS = [11, 13, 15, 18, 22, 29]"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" FIRST = 0  # first position"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" LAST = len(LEDS) - 1  # last position"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" BUZZER = 16"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # pins are ordered by letter according to"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # the 7-segment display documentation"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" DISPLAY_1 = [21, 19, 12, 10, 8, 23, 24]"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" DISPLAY_2 = [36, 35, 33, 32, 31, 37, 38]"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" OUT = LEDS + [BUZZER] + DISPLAY_1 + DISPLAY_2 "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # output pins"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # masks are ordered by letter according "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # to the 7 segment display documentation"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" DIGITS_MASKS = {0: [1, 1, 1, 1, 1, 1, 0],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  1: [0, 1, 1, 0, 0, 0, 0],"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  2: [1, 1, 0, 1, 1, 0, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  3: [1, 1, 1, 1, 0, 0, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  4: [0, 1, 1, 0, 0, 1, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  5: [1, 0, 1, 1, 0, 1, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  6: [1, 0, 1, 1, 1, 1, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  7: [1, 1, 1, 0, 0, 0, 0],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  8: [1, 1, 1, 1, 1, 1, 1],"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  9: [1, 1, 1, 0, 0, 1, 1]}"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # LED direction"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" RIGHT = 1"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" LEFT = -1"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" # global score vars"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" MAX_SCORE = 9"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" player_1 = 0"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" player_2 = 0"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def set_in_pins(pins):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Setup input pins.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   for pin in pins:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     GPIO.setup(pin, GPIO.IN, GPIO.PUD_DOWN) # "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" activates pull down resistor"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def set_out_pins(pins):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Setup output pins.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   for pin in pins:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     GPIO.setup(pin, GPIO.OUT)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def pin_low(pin):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Put low 0V signal on pin.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   GPIO.output(pin, GPIO.LOW)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def all_low(pins_lst):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Put low 0V on all pins in list.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   for pin in pins_lst:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pin_low(pin)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def show_digit(digit=0, display=DISPLAY_1):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Show digit in specififed display.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   # enumerate returns pos and value from mask"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   for pos, value in enumerate(DIGITS_MASKS "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" [digit]):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     GPIO.output(display[pos], value)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def show_scores():"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Shows players scores.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   show_digit(player_1, DISPLAY_1) # show "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" player 1 score on 1st display"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   show_digit(player_2, DISPLAY_2) # show "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" player 2 score on 2nd display"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def pin_high(pin):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Activates high 3V3 signal on pin.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   GPIO.output(pin, GPIO.HIGH)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def led_on(pos):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Switch LED on and pauses.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   pin_high(LEDS[pos])"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   if pos in [FIRST, LAST]: # first or last LED"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pause = 0.3 # time for button response"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   else:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pause = random.choice([0.5, 1, 1.5, 2]) # "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" random delay"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   time.sleep(pause)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def led_off(pos):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Switch LED off.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   pin_low(LEDS[pos])"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def is_on(pin):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;True if pin has a high signal.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   return GPIO.input(pin) == GPIO.HIGH"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def buzzer(pin, pause=1):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Activates buzzer.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   pin_high(pin)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   time.sleep(pause)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   pin_low(pin)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def end_service():"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Buzzes and updates scores.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   buzzer(BUZZER)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   show_scores()"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   time.sleep(2)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" def out_sequence(pause=1):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   &quot;&quot;&quot;Shows LED sequence from inside out.&quot;&quot;&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   nr_leds = len(LEDS)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   for pos in range(nr_leds / 2, 0, -1): # "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" reverse order"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     # activate pair"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pin_high(LEDS[pos - 1])"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pin_high(LEDS[-pos + nr_leds])"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     time.sleep(pause)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     # deactivate pair"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pin_low(LEDS[pos - 1])"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     pin_low(LEDS[-pos + nr_leds])"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="  time.sleep(pause)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" try:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   GPIO.setmode(GPIO.BOARD) # BOARD numbering"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   GPIO.setwarnings(False)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   set_in_pins(IN) # setup input pins"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   set_out_pins(OUT) # setup output pins"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   all_low(OUT) # clear all output pins"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   cur_pos = random.choice([FIRST, LAST]) # "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" define first LED to be lit"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   if cur_pos == FIRST:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     direction = RIGHT"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   else:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     direction = LEFT"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   show_scores()"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   while player_1 &lt; MAX_SCORE and player_2 &lt; "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" MAX_SCORE:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     # light LED (ball) and pause for a time to"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     # allow the players to press the button"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     led_on(cur_pos)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     led_off(cur_pos)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     if ((direction == RIGHT and cur_pos &lt; "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" LAST) or # not in last position"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         (direction == LEFT and cur_pos &gt; "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" FIRST)): # not in first position"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       if is_on(BUTTON_1): # if button 1 was "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" pressed player 1 loses"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         player_2 += 1"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         cur_pos = LAST"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         direction = LEFT"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         end_service()"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       elif is_on(BUTTON_2): # if button 2 was "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" pressed player 2 loses"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         player_1 += 1"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         cur_pos = FIRST"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         direction = RIGHT"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         end_service()"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       else:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         cur_pos += direction # update pos."/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     else: # it is the first or last position"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       if ((cur_pos == LAST and  "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" is_on(BUTTON_2)) or"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           (cur_pos == FIRST and "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" is_on(BUTTON_1))):"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         direction *= -1 # change direction"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         cur_pos += direction"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       else: # didn't push button on time"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         if cur_pos == FIRST: # player 1 loses"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           player_2 += 1"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           cur_pos = LAST"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           direction = LEFT"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         else: # player 2 loses"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           player_1 += 1"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           cur_pos = FIRST"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="           direction = RIGHT"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         end_service()"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   out_sequence()"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" except KeyboardInterrupt as error:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   pass"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" finally: # always executed"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   GPIO.cleanup()  # restore to pre-game state"/>
+            <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="956.505590555119" WIDTH="538.588346456693" HEIGHT="730.994409444881" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="39" BACKITEM="26">
@@ -613,6 +930,54 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="128.34708661126" YPOS="3602.17393700811" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="46">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="128.347091674805" YPOS="1399.5" WIDTH="538.588317871094" HEIGHT="289.721069335938" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.416219720147677" LOCALSCY="0.416219720147677" LOCALX="0" LOCALY="22.0772249202731" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Ping-pongv1.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 289.721 538.588 289.721 538.588 289.721 538.588 289.721 0 289.721 0 289.721 0 289.721 0 289.721 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 289.721 538.588 289.721 538.588 289.721 538.588 289.721 0 289.721 0 289.721 0 289.721 0 289.721 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="550.709290187566" YPOS="679.497314453125" WIDTH="116.226142883301" HEIGHT="15.5026769638062" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://www.python.org" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text56" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 116.226 0 116.226 0 116.226 0 116.226 0 116.226 15.5027 116.226 15.5027 116.226 15.5027 116.226 15.5027 0 15.5027 0 15.5027 0 15.5027 0 15.5027 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 116.226 0 116.226 0 116.226 0 116.226 0 116.226 15.5027 116.226 15.5027 116.226 15.5027 116.226 15.5027 0 15.5027 0 15.5027 0 15.5027 0 15.5027 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="410.250008266179" YPOS="711.084645669291" WIDTH="256.685424804688" HEIGHT="25.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://pymbook.readthedocs.org/en/latest/" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text57" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 25.5 256.685 25.5 256.685 25.5 256.685 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 25.5 256.685 25.5 256.685 25.5 256.685 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="982" WIDTH="256.402923583984" HEIGHT="28.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://fritzing.org/projects/ping-pong-with-raspberry-pi" ANZIEL="1" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text58" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 28.5 256.403 28.5 256.403 28.5 256.403 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 28.5 256.403 28.5 256.403 28.5 256.403 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="410.250008266179" YPOS="1304.02362204724" WIDTH="256.685424804688" HEIGHT="43.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/" ANZIEL="1" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text59" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 43.5 256.685 43.5 256.685 43.5 256.685 43.5 0 43.5 0 43.5 0 43.5 0 43.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 43.5 256.685 43.5 256.685 43.5 256.685 43.5 0 43.5 0 43.5 0 43.5 0 43.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347091674805" YPOS="2326.03346456694" WIDTH="257.152923583984" HEIGHT="21" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 21 257.153 21 257.153 21 257.153 21 0 21 0 21 0 21 0 21 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 21 257.153 21 257.153 21 257.153 21 0 21 0 21 0 21 0 21 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="410.627163030189" YPOS="2535.63818551611" WIDTH="257.152923583984" HEIGHT="32.3933868408203" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Seven-segment_display" ANZIEL="3" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text61" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 32.3934 257.153 32.3934 257.153 32.3934 257.153 32.3934 0 32.3934 0 32.3934 0 32.3934 0 32.3934 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 32.3934 257.153 32.3934 257.153 32.3934 257.153 32.3934 0 32.3934 0 32.3934 0 32.3934 0 32.3934 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.34709167126" YPOS="2870.28543305115" WIDTH="257.1529236" HEIGHT="21" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 21 257.153 21 257.153 21 257.153 21 0 21 0 21 0 21 0 21 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 21 257.153 21 257.153 21 257.153 21 0 21 0 21 0 21 0 21 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347091674805" YPOS="2943.986328125" WIDTH="257.152923583984" HEIGHT="506.880126953125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 506.88 257.153 506.88 257.153 506.88 257.153 506.88 0 506.88 0 506.88 0 506.88 0 506.88 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 506.88 257.153 506.88 257.153 506.88 257.153 506.88 0 506.88 0 506.88 0 506.88 0 506.88 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="410.677795410156" YPOS="2719.52783203125" WIDTH="257.152923583984" HEIGHT="731.338623046875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="410.67779542126" YPOS="3601.66956431262" WIDTH="257.1529236" HEIGHT="731.338623" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.630551326772" YPOS="3601.66956430811" WIDTH="257.1529236" HEIGHT="731.338623" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="30" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 731.339 257.153 731.339 257.153 731.339 257.153 731.339 0 731.339 0 731.339 0 731.339 0 731.339 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
