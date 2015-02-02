@@ -1,36 +1,25 @@
-/* W. H. Bell
-** A simple object container.
-*/
-
 #ifndef BEANBAG_H
 #define BEANBAG_H
 
-// Include the base class.
+// Include the base class
 #include "ColouredBag.h"
-
-// A precompiler statement to define the bean volume.
-#define BEAN_VOLUME 5.4
 
 // BeanBag inherits from ColouredBag
 class BeanBag: public ColouredBag {
 public:
-  /** Constructor specifying the bag colour. */
-  BeanBag(char colour);
-
-  /** Add more beans.  The member function returns the number of 
-  ** beans which have been added. */
-  int fillWith(int );
-
-  /** Remove beans. The member function returns the number of
-   ** beans which have been removed. */
-  int removeBeans(int );
-
-  /** A function to return the number of beans in the bean bag. */
-  int getNumBeans(void);
+  BeanBag(char colour='0', int beans=0): // Constructor with default values
+    ColouredBag(colour),  // Set the value of the colour, by calling the constructor
+    m_beans(beans) {  // Set the number of beans
+  }
+  int beans(void){  // Return the number of beans
+    return m_beans;
+  }
+  void setBeans(int beans){ // Set the number of beans
+    m_beans = beans;
+  }
 
 private:
-  /** A data member to store the number of beans. */
-  int m_beans;
+  int m_beans;  // The number of beans in the bag
 };
 
 #endif

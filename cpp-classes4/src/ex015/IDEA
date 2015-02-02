@@ -1,6 +1,0 @@
-The polymorphic method could be a string formatting class.
-  * It could use the << operator
-
-Alternatively, the polymorphic method could be a transform.
-  * The transform could affect the vector mentioned in the previous 
-    tutorial.

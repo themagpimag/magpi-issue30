@@ -1,0 +1,32 @@
+Many games require sprites to bounce on a surface.  While Scratch provides a block that causes a sprite to bounce on the edge of the screen, games often require interactions with  other edges.  In this month's article, a simple air hockey arcade game is introduced.  There are two paddles and two sets of controls, one for each player.  If the puck touches the sides of the table or one of the paddles, it will bounce off the surface.  The first player to get to seven goals wins the game.
+
+
+Bouncing
+
+When a sprite bounces off a surface, the surface behaves as a mirror flipping the velocity.  The surface can have a perfect bounce where no energy is lost, or a non-perfect bounce where energy is lost as a function of the velocity of the bouncing sprite at the point of impact with the surface.  The game in this article includes a perfect bounce, since it is the simplest option the implement.
+
+Bouncing in scratch can be implemented by checking if a sprite touches a specific colour.  This implies that games can be constructed without using the position of the bouncing sprite on the screen.  When a sprite moves more than one unit of distance at a time the "touching color" sensor can fire twice before the sprite leaves the coloured area.  This implies that a simple if statement might cause the velocity to mirror twice and the sprite to fail to bounce correctly.
+
+The puck
+
+The velocity of the puck is described by two components, vx and vy.  At the start of the game, they are set to random values.  The scores for each player are reset to zero and the bounce_x and bounce_y variables are set to 0.  The player scores are variables that belong to the puck and the other variables are global such that they can be modified by the paddle sprite programs.  The starting position of the puck is chosen and the main loop begins.
+
+The main loop continues until either one of the players has seven points.  Inside the main loop there are two if-else statements that check the bounce_x and bounce_y variables.  The purpose of these tests is to prevent the "touching color" from being true twice due to the sprite moving more than one pixel at a time.
+
+The puck only bounces if it is not already bouncing in the x or y direction.  The sides of the table and the sides of the paddles were chosen to be the same colours, whereas the colours of the goals were chosen to be specific for each player.  If the puck touches a surface then the associated velocity component is reflected.  For example, if it bounces into the right-hand side, the x component of the velocity is mirrored and the y component of the velocity is unaffected.  
+
+After the two if-else statements, the velocity components are used to move the puck to the next position on the screen.  When the main loop exits, the program checks to see which player has won and prints either one of the two winning messages.
+
+Paddles
+
+Two paddle sprites were created, one for each player.  To help the players recognise which paddle is which, the bulk of the two paddles are coloured differently.  The first player is assigned the cursor keys to move the paddle around and the second player is  assigned w,s,a and d.  When the green flag is clicked, the two paddles move to their default positions along the x-axis.
+
+In a normal game of air hockey, each player is not allowed to reach into the other half of the table.  Therefore, the paddles are not allowed to be moved to the other side of the table.  The paddles are also not allowed to be moved off the side of the table.  These restrictions are implemented by adding an if statement to each of the paddle control scripts.
+
+When a moving object hits another object, the object it hits is given an impulse.  For example, when a ball is hit with a bat the ball is sent into the air.  If the bat is not moving and then the ball will just bounce off it.  To simulate the effect of an impulse, the velocity component of the puck is incremented according to the direction the paddle is moving when it is hit by the puck.
+
+Possible extensions
+
+Try changing the speed and effect of the impulse of the paddles.  Try starting the game without an initial puck velocity, where the puck is in range of one of the two players.
+
+Bouncing can be used for several different games.  For example, a vehicle that drives from the left to the right of the screen could bounce over the surface of some terrain.

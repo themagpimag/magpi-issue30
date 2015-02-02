@@ -1,7 +1,3 @@
-/* W. H. Bell
-** A simple object container.
-*/
-
 #ifndef COLOUREDBAG_H
 #define COLOUREDBAG_H
 
@@ -11,15 +7,19 @@
 // ColouredBag inherits from Bag
 class ColouredBag: public Bag {
 public:
-  /** A member function to set the bag colour. */
-  void setColour(char);
+  ColouredBag(char c='0'): // Set the bag colour
+  Bag(),  // Set the volume of the bag to zero
+  m_bagColour(c){  // Set the bag colour
+  }
+  char colour(void) {  // Return the bag colour
+    return m_bagColour;
+  }
+  void setColour(char c) { // Set the bag colour
+    m_bagColour = c;
+  }
 
-  /** A member function to get the bag colour. */
-  char getColour(void);
-
-protected:
-  /** A data member to store the bag colour */
-  char m_bagColour;
+private:
+  char m_bagColour; // Variable to store a colour character
 };
 
 #endif
