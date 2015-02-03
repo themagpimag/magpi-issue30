@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SCRIBUSUTF8NEW Version="1.4.1.svn">
+<SCRIBUSUTF8NEW Version="1.4.3.svn">
     <DOCUMENT ANZPAGES="6" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="-45" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -28,11 +28,12 @@
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
-        <STYLE NAME="Body text" ALIGN="3" LANGUAGE="English"/>
+        <STYLE NAME="Body text" ALIGN="3" FONT="FreeSans Regular" FONTSIZE="12" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Body title" FONT="FreeSans Bold" FONTSIZE="14" LANGUAGE="English"/>
-        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="10" LANGUAGE="English"/>
-        <STYLE NAME="New Style" LANGUAGE="English"/>
+        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
+        <STYLE LANGUAGE="English"/>
+        <STYLE NAME="Figure caption" FONT="FreeSans Bold" FONTSIZE="11" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#e1ff1a"/>
@@ -214,18 +215,19 @@
             <ITEXT CH="Background"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Various commercial electronic instruments are available for boats to read, compute, and display various data used for navigation. My idea was to have easy access to the data, and allow display of the data on several kinds of devices, not just the expensive commercial displays sold by the nautical equipment providers. I also wanted to be able to add more data sources and display the merged information."/>
+            <ITEXT CH="Various commercial electronic instruments are available for boats to read, compute, and display different data used for navigation.  My idea was to provide easy access to the data and allow display of the data on several kinds of devices, not just the expensive commercial displays sold by the nautical equipment providers.  I also wanted to be able to add more data sources and display the merged information."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Raspberry Pi setup inside the chart table."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="In this picture, the Raspberry Pi is fitted with a Slice of Pi break-out board to host the battery monitoring device, also visible is the small breadboard, with a BMP180 barometric pressure and temperature sensor board."/>
+            <ITEXT FONTSIZE="12" CH="Raspberry Pi setup inside the chart table"/>
+            <para PARENT="Figure caption" ALIGN="1"/>
+            <para PARENT="Body text" ALIGN="1"/>
+            <ITEXT CH="In the picture above, the Raspberry Pi is fitted with a Slice of Pi break-out board to host the battery monitoring device, also visible is the small breadboard, with a BMP180 barometric pressure and temperature sensor board."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The Raspberry Pi is the only device connected to the boat's NMEA (National Marine Electronics Association) Interface. It is the first to be turned on, and the last to be switched off. I've been running it continuously for weeks, without any glitch."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="In this role the Raspberry Pi fulfils two primary functions. Firstly It enriches the NMEA Stream read from the NMEA Station, by calculating  new data values, and adding data read from the connected sensors. Secondly it re-broadcast the enhanced data stream on its own network, so it can be read and used simultaneously by a variety of devices."/>
+            <ITEXT CH="In this role the Raspberry Pi fulfils two primary functions. Firstly it enriches the NMEA Stream read from the NMEA Station, by calculating  new data values, and adding data read from the connected sensors. Secondly it re-broadcasts the enhanced data stream on its own network, so it can be read and used simultaneously by a variety of devices."/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Optionally the Raspberry Pi can also read its own data stream and format a character console display, this is discussed later."/>
             <para PARENT="Body text"/>
@@ -233,76 +235,96 @@
             <ITEXT CH="The NMEA format"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The electronic instruments available on boats are used to measure data like the boat speed and heading, the wind speed and direction, read the boat position (GPS), all the kind of things required for navigation. Some data are read from transducers (boat speed through water, wind speed, compass heading, etc), and some are computed (true wind speed and direction, true heading, etc). Those data are usually available in the NMEA format. The definition of the NMEA strings is one of the oldest electronic standards. The NMEA sentences strings are human readable, that is it is a text format although it can be a bit cryptic. Here is an example of what an NMEA stream looks like:"/>
+            <ITEXT CH="The electronic instruments available on boats are used to measure data like the boat speed, position and heading, the wind speed and direction, all the kind of things required for navigation. Some data are read from transducers (boat speed through water, wind speed, compass heading, etc.), and some are computed (true wind speed and direction, true heading, etc.). Those data are usually available in the NMEA format. The definition of the NMEA strings is one of the oldest electronic standards. The NMEA sentences strings are human readable, that is it is a text format although it can be a bit cryptic. Here is an example of what an NMEA stream looks like:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="$IIMWV,112,R,00.8,N,A*19"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$IIMWV,109,T,00.7,N,A*1A"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$IIMTA,31.5,C*02"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$IIRMB,A,0.23,R,,HMB-3   ,,,,,001.20,184,,V,A*1F"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$IIXDR,P,1.0156,B,0*71"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$WIMDA,29.991,I,1.016,B,31.5,C,,,,,,,,,,,,,,*3B"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="$IIRMC,062658,A,1111.464,S,14235.335,W,05.6,226,231110,10,E,A*0A"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="... "/>
-            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH=" $IIMWV,112,R,00.8,N,A*19"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" $IIMWV,109,T,00.7,N,A*1A"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" $IIMTA,31.5,C*02"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" $IIRMB,A,0.23,R,,HMB-3,,,,,001.20,184,,V,A*1F"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" $IIXDR,P,1.0156,B,0*71"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" $WIMDA,29.991,I,1.016,B,31.5,C,,,,,,,,,,,,,,* "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" 3B"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" FEATURES="inherit outline shadowed" TXTSHX="6" TXTSHY="-5" CH=" $IIRMC,062658,A,1111.464,S,14235.335,W,05.6,2"/>
+            <para PARENT="Code"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" FEATURES="inherit outline shadowed" TXTSHX="6" TXTSHY="-5" CH=" 26,231110,10,E,A*0A"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" ... "/>
+            <para PARENT="Code"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
             <ITEXT CH="Extracting the data"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The information we want can be extracted from the NMEA data stream using a suitable parser, which is a piece of software that turns text into a programming language &quot;structure&quot;.  As an example, let us take an RMC (Recommended Minimum) NMEA sentence, the stream shown above:  "/>
+            <ITEXT CH="The information we want can be extracted from the NMEA data stream using a suitable parser, which is a piece of software that turns text into a programming language &quot;structure&quot;.  As an example, let us take an RMC (Recommended Minimum) NMEA sentence, the sentence shown in bold above:  "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" A JSON (JavaScript Object Notation) parser could turn that string into a JSON object like this:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" {"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    type: 'RMC',"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    active: true,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    cog: 226,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    sog: 5.6,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    declination: 10.0,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    date: 1290493618000,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    pos: {"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="      latitude: -11.191066,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="      longitude: -142.5889166"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="    }"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="  }"/>
-            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH=" {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   type: 'RMC',"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   active: true,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   cog: 226,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   sog: 5.6,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   declination: 10.0,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   date: 1290493618000,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   pos: {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     latitude: -11.191066,"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     longitude: -142.5889166"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" }"/>
+            <para PARENT="Code"/>
             <ITEXT CH="             "/>
             <para PARENT="Body text"/>
             <ITEXT CH="Such an object can then be used in a program, the language you want to use will determine the parser you need. In the object above:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="cog (Course Over Ground ) 226º"/>
+            <ITEXT CH="cog"/>
+            <nbspace/>
+            <ITEXT CH="(Course Over Ground ) 226º"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="sog (Speed Over Ground) 5.6 knots"/>
+            <ITEXT CH="sog"/>
+            <nbspace/>
+            <ITEXT CH="(Speed Over Ground) 5.6 knots"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="dec (Declination) 10º E"/>
+            <ITEXT CH="dec"/>
+            <nbspace/>
+            <ITEXT CH="(Declination) 10º E"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="date (number of milliseconds since January 1st 1970 at 00:00:00.000) 1290493618000 is equivalent to 23-Nov-2010 06:26:58 UTC."/>
+            <ITEXT CH="date"/>
+            <nbspace/>
+            <ITEXT CH="(Date milliseconds since 00:00:00 Jan 1st 1970) 1290493618000 is 23-Nov-2010 06:26:58 UTC."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="pos"/>
+            <nbspace/>
+            <ITEXT CH="(Position  decimal degrees from deg/min)"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="        (Latitude) 11º 11.464' South "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="        (Longitude) 142º 35.335' West"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Exclusive serial port access"/>
-            <para PARENT="Body text"/>
+            <para PARENT="Body title"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Navigation stations usually deliver the NMEA data through a Serial interface, which is compatible with many devices (like laptop computers). The unfortunate thing about serial ports is that they require exclusive access. That means that when one program, on a laptop for example, is reading the data sent by the NMEA station, the data stream is not available for any other program until the serial connection is released by the program that was using it."/>
             <para PARENT="Body text"/>
@@ -316,7 +338,7 @@
             <para PARENT="Body text"/>
             <ITEXT CH="In some cases, you could be interested in monitoring data that are not managed by an NMEA station (like battery voltage). You could also be interested in monitoring data managed by NMEA, but not by your NMEA station (like air temperature, atmospheric pressure)."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Injecting those data in the NMEA Stream you read from your station would make them available for all programs reading the NMEA stream and allow you to log them to monitor, display, or replay them"/>
+            <ITEXT CH="Injecting those data in the NMEA Stream you read from your station would make them available for all programs reading the NMEA stream and allow you to log them to monitor, display, or replay them."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Note: You might be interested in some computed data that are not returned by your NMEA station (like True Wind speed, direction, angle for example). These results could be computed from the existing data, and injected into the broadcast stream."/>
@@ -352,7 +374,9 @@
             <ITEXT CH="Multiplexing the data"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Multiplexing is a technique that takes data from several sources and merges them into a single channel. Here we read data from the NMEA station (already NMEA formatted, obviously), and the program puts them into a cache (technically, it is a Java dynamic structure called a HashMap, living in a singleton). The other software components, such as the different servers (TCP, UDP, etc) read that cache as the single point of truth. Computed data are also read from the cache. As a matter of fact, all computed data (like True Wind Direction and Speed, Current Speed and Direction, Performance, etc.) are re-calculated every time a new value is inserted into the cache by the NMEA reader. The cache also uses a Publish/Subscribe architecture that implements a listener pattern"/>
+            <ITEXT CH="Multiplexing is a technique that takes data from several sources and merges them into a single channel. Here we read data from the NMEA station (already NMEA formatted, obviously), and the program puts them into a cache (technically, it is a Java dynamic structure called a HashMap, living in a singleton). The other software components, such as the different servers (TCP, UDP, etc) read that cache as the single point of truth. Computed data are also read from the cache. As a matter of fact, all computed data (like True Wind Direction and Speed, Current Speed and Direction, Performance, etc.) are re-calculated every time a new value is inserted into the cache by the NMEA reader. The cache also uses a Publish/Subscribe architecture that implements a listener "/>
+            <ITEXT FONTSIZE="12" CH="pattern"/>
+            <ITEXT CH="."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="We will use those aspects to inject extra data in the cache. For example, you can read the battery voltage from some equipment, turn this value into an NMEA Sentence, and inject it into the cache. There is not a specific NMEA sentence for Battery data, so I defined my own BATtery sentence. Any component that has subscribed to the manageEvent event in its listener will be notified of the injection of the NMEA sentence."/>
@@ -364,7 +388,7 @@
             <ITEXT CH="Re-broadcasting"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Many navigation programs provide the possibility to read the NMEA streams from channels other than the serial connection. Those other protocols are usually TCP (Transfer Control Protocol) or UDP (User Defined Protocol). Also available for the same purpose: HTTP (Hyper Text Transfer Protocol), RMI (Remote Method Invocation), WebSocket"/>
+            <ITEXT CH="Many navigation programs provide the possibility to read the NMEA streams from channels other than the serial connection. Those other protocols are usually TCP (Transfer Control Protocol) or UDP (User Defined Protocol). Also available for the same purpose: HTTP (Hyper Text Transfer Protocol), RMI (Remote Method Invocation), WebSocket."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The Raspberry Pi re-broadcast the merged data stream on one or more other channels. All the channels can be consumed simultaneously by several clients, so the data broadcast by the Raspberry Pi is simultaneously available to all interested devices."/>
@@ -374,18 +398,17 @@
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The Character Console"/>
-            <para PARENT="Body text"/>
+            <para PARENT="Body title"/>
             <ITEXT CH="The Character Console on a 7&quot; screen."/>
-            <para PARENT="Body text"/>
+            <para PARENT="Figure caption" ALIGN="1"/>
             <ITEXT CH="  "/>
-            <para PARENT="Body text"/>
+            <para PARENT="Body text" ALIGN="1"/>
             <ITEXT CH="This provides access to the data computed by the Raspberry Pi and can be customized by the user. The goal here is to have an access to those data, without having to turn on a laptop. The only thing to switch on and off is the screen. The Character Console process is also running on the Raspberry Pi, but is separate to the Navigation Console process that is reading and re-broadcasting the data. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Other devices"/>
             <para PARENT="Body title"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The laptop can use TCP to receive data from the Raspberry Pi and present it simultaneously in my Graphical Console, and the popular open source package OpenCPN (Open Chart Plotter Navigator) ."/>
+            <ITEXT CH="The laptop can use TCP to receive data from the Raspberry Pi and present it simultaneously in my Graphical Console, and the popular open source package OpenCPN (Open Chart Plotter Navigator)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="TCP and UDP are both light protocols, designed for computer-to-computer communication. They are both based on a socket mechanism. Once a socket is established between two computers (a client, and a server), then the logic of the dialog will be implemented by the programs running on both client(s) and server, which they have to agree on (to understand each other). In our case, this is extremely simple, once a client is connected, the server is sending it all the valid NMEA strings it reads."/>
@@ -398,15 +421,15 @@
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The HTML5 console displayed in a browser"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The HTML5 console can be viewed on any device with a browser such as a laptop, tablet, smart-phone etc."/>
+            <para PARENT="Figure caption" ALIGN="1"/>
+            <para PARENT="Figure caption" ALIGN="1"/>
+            <ITEXT CH="The HTML5 console can be viewed on any device with a browser such as a laptop, tablet, smart-phone, etc."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="WebSocket"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The WebSocket protocol has been introduced with the release of HTML5. It is also based on TCP. One of the drawbacks of HTTP is that it is a request-response (a.k.a. push-pull) protocol. You have to make a request to get a response. For example, if you want to get a flight status from some airline website, the first time you reach the page, it gives you the expected arrival time of the flight. Every time you want to see it this estimated time has changed, you must refresh your page. In other words, request it again."/>
+            <ITEXT CH="The WebSocket protocol has been introduced with the release of HTML5. It is also based on TCP. One of the drawbacks of HTTP is that it is a request-response (a.k.a. push-pull) protocol. You have to make a request to get a response. For example, if you want to get a flight status from some airline website, the first time you reach the page, it gives you the expected arrival time of the flight. Every time you want to see if this estimated time has changed, you must refresh your page. In other words, request it again."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The WebSocket protocol precisely addresses (among others) this kind of issue. Once the client (i.e. your browser) is connected to the server, data will be pushed (by the server, to the client) as needed, without requiring the client to refresh its page. This clearly divides the traffic by two. The browser you use must be WebSocket aware though. As of now (2015), some browsers (like Internet Explorer 9) still do not support it."/>
@@ -442,7 +465,7 @@
             <ITEXT CH="Those devices can join or leave the network at their leisure, without disturbing the others. The only piece remaining active will be the Raspberry Pi, maintaining all the infrastructure. And all this for between 0.13 and 0.19 Amps. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="It is interesting though, to notice that this architecture is the exact same one that was used during the recent 34th America's Cup by those fantastic multi-million$  boats.  Well, now you can get to the data, you can analyse them and the next America's Cup is all yours."/>
+            <ITEXT CH="It is interesting though, to notice that this architecture is the exact same one that was used during the recent 34th America's Cup by those fantastic multi-million dollar boats.  Well, now you can get to the data, you can analyse them and the next America's Cup is all yours."/>
             <para PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -581,23 +604,23 @@
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34708661126" YPOS="4484.06338582701" WIDTH="538.5883465" HEIGHT="347.90480314937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 347.905 538.588 347.905 538.588 347.905 538.588 347.905 0 347.905 0 347.905 0 347.905 0 347.905 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 347.905 538.588 347.905 538.588 347.905 538.588 347.905 0 347.905 0 347.905 0 347.905 0 347.905 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="53">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="128.347086614173" YPOS="536.5" WIDTH="256.74937007874" HEIGHT="175.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="-401.574803149606" LOCALY="-165.354330708661" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0685.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 175.5 256.749 175.5 256.749 175.5 256.749 175.5 0 175.5 0 175.5 0 175.5 0 175.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 175.5 256.749 175.5 256.749 175.5 256.749 175.5 0 175.5 0 175.5 0 175.5 0 175.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="128.347086614173" YPOS="536.5" WIDTH="256.74937007874" HEIGHT="175.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="-401.574803149606" LOCALY="-165.354330708661" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0685.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 175.5 256.749 175.5 256.749 175.5 256.749 175.5 0 175.5 0 175.5 0 175.5 0 175.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 175.5 256.749 175.5 256.749 175.5 256.749 175.5 0 175.5 0 175.5 0 175.5 0 175.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="410.186062992127" YPOS="1876.75" WIDTH="256.74937007874" HEIGHT="152.596771653545" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.18" LOCALSCY="0.18" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/console.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 152.597 256.749 152.597 256.749 152.597 256.749 152.597 0 152.597 0 152.597 0 152.597 0 152.597 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 152.597 256.749 152.597 256.749 152.597 256.749 152.597 0 152.597 0 152.597 0 152.597 0 152.597 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="410.186062992127" YPOS="1868.75" WIDTH="256.74937007874" HEIGHT="152.596771653545" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.18" LOCALSCY="0.18" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/console.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 152.597 256.749 152.597 256.749 152.597 256.749 152.597 0 152.597 0 152.597 0 152.597 0 152.597 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 152.597 256.749 152.597 256.749 152.597 256.749 152.597 0 152.597 0 152.597 0 152.597 0 152.597 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="409.846456692914" YPOS="3223.40155511811" WIDTH="257.088976377953" HEIGHT="148.654488188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="-188.976377952756" LOCALY="-94.488188976378" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0687.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.089 0 257.089 0 257.089 0 257.089 0 257.089 148.654 257.089 148.654 257.089 148.654 257.089 148.654 0 148.654 0 148.654 0 148.654 0 148.654 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.089 0 257.089 0 257.089 0 257.089 0 257.089 148.654 257.089 148.654 257.089 148.654 257.089 148.654 0 148.654 0 148.654 0 148.654 0 148.654 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="409.846456692914" YPOS="3163.873996063" WIDTH="257.088976377953" HEIGHT="148.654488188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="-188.976377952756" LOCALY="-94.488188976378" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0687.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.089 0 257.089 0 257.089 0 257.089 0 257.089 148.654 257.089 148.654 257.089 148.654 257.089 148.654 0 148.654 0 148.654 0 148.654 0 148.654 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.089 0 257.089 0 257.089 0 257.089 0 257.089 148.654 257.089 148.654 257.089 148.654 257.089 148.654 0 148.654 0 148.654 0 148.654 0 148.654 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="409.436062992127" YPOS="2770.81133858268" WIDTH="257.49937007874" HEIGHT="147.40157480315" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1289" LOCALSCY="0.1289" LOCALX="-857.650745557503" LOCALY="-109.955223789424" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0686.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.499 0 257.499 0 257.499 0 257.499 0 257.499 147.402 257.499 147.402 257.499 147.402 257.499 147.402 0 147.402 0 147.402 0 147.402 0 147.402 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.499 0 257.499 0 257.499 0 257.499 0 257.499 147.402 257.499 147.402 257.499 147.402 257.499 147.402 0 147.402 0 147.402 0 147.402 0 147.402 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="411.811653543307" YPOS="2799.75" WIDTH="255.12377952756" HEIGHT="149.644015748033" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1289" LOCALSCY="0.1289" LOCALX="-876.080462789313" LOCALY="-92.558474798868" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/IMAG0686.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 149.644 255.124 149.644 255.124 149.644 255.124 149.644 0 149.644 0 149.644 0 149.644 0 149.644 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 149.644 255.124 149.644 255.124 149.644 255.124 149.644 0 149.644 0 149.644 0 149.644 0 149.644 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="128.347086614173" YPOS="4011" WIDTH="256.74937007874" HEIGHT="105" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.27" LOCALSCY="0.27" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/day.console.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 105 256.749 105 256.749 105 256.749 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 105 256.749 105 256.749 105 256.749 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="128.347086614173" YPOS="4019.50393700787" WIDTH="256.74937007874" HEIGHT="105" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.27" LOCALSCY="0.27" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/day.console.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 105 256.749 105 256.749 105 256.749 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.749 0 256.749 0 256.749 0 256.749 0 256.749 105 256.749 105 256.749 105 256.749 105 0 105 0 105 0 105 0 105 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -686,11 +709,11 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="1421.25" WIDTH="256.402913385827" HEIGHT="168.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 168.75 256.403 168.75 256.403 168.75 256.403 168.75 0 168.75 0 168.75 0 168.75 0 168.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 168.75 256.403 168.75 256.403 168.75 256.403 168.75 0 168.75 0 168.75 0 168.75 0 168.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="1452.25787401575" WIDTH="256.402913385827" HEIGHT="168.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 168.75 256.403 168.75 256.403 168.75 256.403 168.75 0 168.75 0 168.75 0 168.75 0 168.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 168.75 256.403 168.75 256.403 168.75 256.403 168.75 0 168.75 0 168.75 0 168.75 0 168.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="1079.25" WIDTH="257.152913385827" HEIGHT="148.624960629922" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 148.625 257.153 148.625 257.153 148.625 257.153 148.625 0 148.625 0 148.625 0 148.625 0 148.625 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 148.625 257.153 148.625 257.153 148.625 257.153 148.625 0 148.625 0 148.625 0 148.625 0 148.625 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="1114.08464566929" WIDTH="257.152913385827" HEIGHT="139.294251968505" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 139.294 257.153 139.294 257.153 139.294 257.153 139.294 0 139.294 0 139.294 0 139.294 0 139.294 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 139.294 257.153 139.294 257.153 139.294 257.153 139.294 0 139.294 0 139.294 0 139.294 0 139.294 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
