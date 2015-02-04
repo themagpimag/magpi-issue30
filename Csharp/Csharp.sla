@@ -334,7 +334,8 @@
             <ITEXT CH="which reports that a device with address 0x77 has been detected.  This device is the BMP180 sensor, where the address is hardcoded at the factory."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Using Rpi.I2C.Net"/>
+            <ITEXT CH="Using I2C with C#"/>
+            <para PARENT="Body title"/>
             <para PARENT="Body title"/>
             <ITEXT CH="We’ll need a copy of the Rpi.I2C.Net.dll file, which contains classes written by Max Shmelev. These classes allow I2C communication from within a C# (dotNet, actually) app. In addition, a native shared library called libnativei2c.so is needed to get the Rpi.I2C.Net.dll file to work. Max provided excellent instructions on how to compile this from source at [2], as well as a copy of the libnativei2c.so file targeting Arch Linux (Alarmpi). Pre-compiled versions of the Rpi.I2C.Net.dll and libnativei2c.so files are provided at [3] and [4] respectively, the latter targeting Raspbian.  If you need to make any changes to the Rpi.I2C.Net code, then [5] will be of some use (for setting up Visual Studio to target Mono, which is needed to compile the assembly)."/>
             <para PARENT="Body text"/>
