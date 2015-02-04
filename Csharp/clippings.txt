@@ -1,0 +1,43 @@
+This article aims to show you how to get up and running with C# on the Pi, with a practical view to interfacing with a BMP180 pressure and temperature sensor (a breakout board from Sparkfun Electronics is used, available at [8]). It is assumed that Microsoft Visual Studio 2012/2013 (any edition) is used, and the Pi is running the Raspbian Wheezy distribution.
+
+
+the latest version of Mono available (3.2.8), type the following command in the terminal:
+
+
+
+To test a C#/dotNet app, you could simply copy it over (it would be an .exe file on Windows) perhaps via WinSCP or your preferred method. Navigate to the directory where you placed the file, and type the following command:
+
+mono <appname>.exe
+
+This will invoke the Mono runtime with your app’s name as an argument, which would cause Mono to load and run your program. For a console app, you’d see any Console output and be able to interact with it directly within the terminal. For a Windows Forms app, ensure that you’re in the X environment (startx, anyone?) beforehand. You can then double-click the executable to run it.
+
+Note that if your program relies on any external assemblies (DLL files which are not part of the default dotNet set), you’ll need to copy them across to the same directory the app itself is placed before running the command. If you don’t, you’ll most likely end up with a nasty error about assemblies not being found. Another caveat is that apps running on Mono must not rely on Windows-only technology (such as DirectX, Win32 or similar) for obvious reasons.
+
+
+For brevity, I won’t detail the working principle of the I2C bus or how to get set up for I2C here. An excellent guide can be found at [1]. In a nutshell, you should’ve gone through the following steps:
+1 Removing the i2c-bcm2708 kernel module from the blacklist
+2 Adding “i2c-dev” to the end of the /etc/modules file so it is loaded on boot (optional).
+
+The last step is recommended, especially for deployment scenarios. If you choose not to do so, be sure to type “sudo modprobe i2c-dev” at the command-line BEFORE attempting ANY I2C communications. The command will load the I2C driver and create the necessary /dev entry, without which I2C communications would be impossible.
+
+Next, we’ll need to install some diagnostic tools to make sure we’re good to go. They come in a package called i2c-tools, so to install we type the following command at the terminal:
+
+
+
+This will install the i2c-tools package, which contains a program (amongst others) called i2cdetect, which is used for…detecting I2C devices. 
+
+Max provided excellent instructions on how to compile this from source at [2], as well as a copy of the libnativei2c.so file targeting Arch Linux (Alarmpi). Pre-compiled versions of the Rpi.I2C.Net.dll and libnativei2c.so files are provided at [3] and [4] respectively, the latter targeting Raspbian.  If you need to make any changes to the Rpi.I2C.Net code, then [5] will be of some use (for setting up Visual Studio to target Mono, which is needed to compile the assembly).
+
+For your own subsequent programs, place the files from [3] and [4] in the same folder as your custom app. That is all that is required to use Rpi.I2C.Net, assuming you’re on Raspbian. For any other distribution, the libnativei2c.so file might need to be recompiled on the target OS to be on the safe side. See [2] for further details.
+
+Links
+[1] https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+[2] https://github.com/mshmelev/RPi.I2C.Net 
+[3] https://www.dropbox.com/s/8u5q8cm2e3wxj31/RPi.I2C.Net.dll?dl=0 
+[4] https://www.dropbox.com/s/1uep265if4mbvpf/libnativei2c.so?dl=0 
+[5] http://erictummers.wordpress.com/2012/01/25/target-mono-from-visual-studio/
+[6] https://www.dropbox.com/s/n06ba8vsyopwidi/Pi_I2CTest.exe?dl=0  
+[7] https://www.dropbox.com/s/5hfkzvwcc7519zl/Pi_I2CTest.zip?dl=0 
+[8] https://www.sparkfun.com/products/11824 
+
+
