@@ -1,0 +1,3 @@
+cd ~/RPi.I2C.Net/RPi.I2C.Net
+xbuild RPi.I2C.Net.csproj  # This will produce one warning, but will compile
+cp RPi.I2C.Net/RPi.I2C.Net/bin/Debug/RPi.I2C.Net.dll .
