@@ -1,0 +1,10 @@
+sudo raspi-config
+Advanced Options
+I2C
+Yes (to enable the ARM I2C interface)
+Ok
+Yes (to load the I2C kernel module by default)
+Ok
+Finish
+Would you like to reboot now? "Yes" or "No" - ans: Yes
+
