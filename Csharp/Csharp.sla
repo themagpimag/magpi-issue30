@@ -464,7 +464,11 @@
             <ITEXT CH="natlib"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="or by copying libnativei2c.so and RPi.I2C.Net.dll into the present working directory where the mono program is being run."/>
+            <ITEXT CH="or by copying "/>
+            <ITEXT FONT="Monaco Regular" CH="libnativei2c.so"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" CH="RPi.I2C.Net.dll"/>
+            <ITEXT CH=" into the present working directory where the mono program is being run."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body title"/>
@@ -493,7 +497,7 @@
             <ITEXT CH="Hello World"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Programs can be developed on the Raspberry Pi or on Microsoft Windows using the Visual Studio.  If they are developed on Windows, then the Mono target should be selected as described at:"/>
+            <ITEXT CH="Programs can be developed on the Raspberry Pi or on Microsoft Windows using the Visual Studio. Some information on development with Visual Studio is given a at:"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="https://erictummers.wordpress.com/2012/01/25/target-mono-from-visual-studio/"/>
             <para PARENT="Body text"/>
@@ -523,7 +527,7 @@
             <ITEXT CH="Then compile and run this example, by typing:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" gmcs HelloWorld.cs"/>
+            <ITEXT CH=" mcs HelloWorld.cs"/>
             <para PARENT="Code"/>
             <ITEXT CH=" mono HelloWorld.exe"/>
             <para PARENT="Code"/>
@@ -589,7 +593,11 @@
             <ITEXT CH=" I2CBus.Open(&quot;/dev/i2c-1&quot;);"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The method returns an I2CBus reference to the chosen bus.  This I2CBus class is part of the Rpi.I2C.Net namespace.  Therefore a using directive is needed. Thus, the code in the Main() method is:"/>
+            <ITEXT CH="The method returns an I2CBus reference to the chosen bus.  This I2CBus class is part of the "/>
+            <ITEXT FONT="Monaco Regular" CH="Rpi.I2C.Net"/>
+            <ITEXT CH=" namespace.  Therefore a using directive is needed. Thus, the code in the "/>
+            <ITEXT FONT="Monaco Regular" CH="Main()"/>
+            <ITEXT CH=" method is:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" using System;"/>
@@ -636,16 +644,30 @@
             <ITEXT CH=" bus.WriteByte(0x77, 0xD0); "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To perform (ii), the ReadBytes() method of the I2CBus class is used.  This method takes two arguments: the device address (integer) and the number of bytes to read (integer).  Unlike the WriteByte() method, this method returns a byte array (byte[]) containing the bytes read from the device in the order that they were read.  In this case, only one byte is being read:"/>
+            <ITEXT CH="To perform (ii), the "/>
+            <ITEXT FONT="Monaco Regular" CH="ReadBytes()"/>
+            <ITEXT CH=" method of the I2CBus class is used.  This method takes two arguments: the device address (integer) and the number of bytes to read (integer).  Unlike the "/>
+            <ITEXT FONT="Monaco Regular" CH="WriteByte()"/>
+            <ITEXT CH=" method, this method returns a byte array ("/>
+            <ITEXT FONT="Monaco Regular" CH="byte[]"/>
+            <ITEXT CH=") containing the bytes read from the device in the order that they were read.  In this case, only one byte is being read:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" byte[] results = bus.ReadBytes(0x77, 1);"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Assuming that all goes well, the results array should contain a single value that should be 0x55. This can be confirmed by using an if statement, comparing results[0] with 0x55. If results[0]  is indeed 0x55, then a BMP180 sensor is present and functional. If it is not, then perhaps there might be a wiring issue or the sensor is not working correctly."/>
+            <ITEXT CH="Assuming that all goes well, the results array should contain a single value that should be 0x55. This can be confirmed by using an if statement, comparing "/>
+            <ITEXT FONT="Monaco Regular" CH="results[0]"/>
+            <ITEXT CH=" with 0x55. If "/>
+            <ITEXT FONT="Monaco Regular" CH="results[0]"/>
+            <ITEXT CH="  is indeed 0x55, then a BMP180 sensor is present and functional. If it is not, then perhaps there might be a wiring issue or the sensor is not working correctly."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The complete code for the detection routine is contained in the Detect() method in the Program.cs file. "/>
+            <ITEXT CH="The complete code for the detection routine is contained in the "/>
+            <ITEXT FONT="Monaco Regular" CH="Detect()"/>
+            <ITEXT CH=" method in the "/>
+            <ITEXT FONT="Monaco Regular" CH="Program.cs"/>
+            <ITEXT CH=" file. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Reading the temperature"/>
@@ -689,7 +711,9 @@
             <ITEXT CH=" // constant AC1"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="A similar process is required for the other calibration constants.  Therefore, the functionality was written as a method called ReadSignedWord().  Note that constants AC4 to AC6 are unsigned, therefore another function is needed to read them.  For this reason, another method called ReadUnsignedWord() was implemented, within which the variable holding the final result is declared as ushort (unsigned short) as opposed to short (which is a signed type).  Finally, a method called InitParams() was implemented, which reads and stores all of the calibration constants by using the ReadSignedWord() and ReadUnsignedWord() methods.  The reader is strongly encouraged to read the implementation of these three methods to gain a clearer understanding."/>
+            <ITEXT CH="A similar process is required for the other calibration constants.  Therefore, the functionality was written as a method called "/>
+            <ITEXT FONT="Monaco Regular" CH="ReadSignedWord()"/>
+            <ITEXT CH=".  Note that constants AC4 to AC6 are unsigned, therefore another function is needed to read them.  For this reason, another method called ReadUnsignedWord() was implemented, within which the variable holding the final result is declared as ushort (unsigned short) as opposed to short (which is a signed type).  Finally, a method called InitParams() was implemented, which reads and stores all of the calibration constants by using the ReadSignedWord() and ReadUnsignedWord() methods.  The reader is strongly encouraged to read the implementation of these three methods to gain a clearer understanding."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="To read the temperature from the sensor, the value 0x2E is written to register address 0xF4 to begin the measurement process.  After a delay of 4.5 milliseconds, the result can be read from registers 0xF6 (MSB) and 0xF7 (LSB).  The  value read from the sensor is unsigned and is converted to a temperature value using the formula given on the data sheet, available from Sparkfun:"/>
@@ -1026,7 +1050,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="1906.00590558032" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="1925.84842526536" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
