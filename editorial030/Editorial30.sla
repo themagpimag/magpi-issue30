@@ -93,6 +93,15 @@
             <ITEXT CH="."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
+            <ITEXT CH="In this Issue, Olivier LeDiouris demonstrates how the Raspberry Pi can be used to enhance navigation data, sampling sensors over a long voyage.  João Matos explains how to produce an electronic tennis game with the GPIO pins, LEDs and numeric LED displays.  Philip Munts discusses the basics of controlling a small hobby DC motor with his expansion board.  Eric Ptak introduces a new P2P solution that allows a secure connection to Raspberry Pi projects that are not directly available on a public network connection.  Finally, Ian McAlpine rounds off the hardware section by presenting the new Raspberry Pi 2."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Programming is part of any Raspberry Pi project.  In this Issue, Mubarak Abdu-Aguye introduces the C# programming language with an I"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH="C project.  William Bell demonstrates how to use C++ inheritance and interface classes.  William also discusses another Scratch arcade game, with a two player air hockey simulation.  Finally, Martin Meier rounds off this Issue with a Python maze generator."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
