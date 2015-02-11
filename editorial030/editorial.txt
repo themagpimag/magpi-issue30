@@ -1,15 +1,16 @@
-﻿Welcome to Issue 29 of the MagPi, packed with the usual mixture of hardware projects and programming articles, providing lots of avenues for invention during December.
 
-With the Christmas holidays drawing near, what could be better than some new Raspberry Pi hardware.  For all those looking forward to building a high altitude capsule or autonomous submarine, the Model A+ provides many great features for a very low power budget.  Dougie Lawson presents a whistle-stop tour of the A+, comparing it to other Raspberry Pi Models.
+Welcome to Issue 30 of The MagPi and another bumper issue full of interesting articles and projects. Before we describe the content of this Issue, let us tell you about our new Kickstarter project to print Volume 3 of The MagPi (Issues 20 to 29) plus a superb new binder.  Many of you have asked us for printed copies of The MagPi.  Therefore, please check it out at:
+https://www.kickstarter.com/projects/themagpi/the-magpi-magazine-for-raspberry-pi-volume-3
+ 
+Did you miss our surprise?  Over the Christmas period we released a special edition of The MagPi... a massive 132 pages of articles from previous issues that we think are great for folks who are new to the Raspberry Pi.  You can download it for free from http://www.themagpi.com.
 
-On the subject of robots, computer vision can provide an image cognition solution within many autonomous robotics projects.  Derek Campbell sketches out more features of OpenCV (open source computer vision) image recognition software.
+In this Issue, Olivier LeDiouris demonstrates how the Raspberry Pi can be used to enhance navigation data, sampling sensors over a long voyage.  João Matos explains how to produce an electronic tennis game with the GPIO pins, LEDs and numeric LED displays.  Philip Munts discusses the basics of controlling a small hobby DC motor with his expansion board.  Eric Ptak introduces a new P2P solution that allows a secure connection to Raspberry Pi projects that are not directly available on a public network connection.  Finally, Ian McAlpine rounds off the hardware section by presenting the new Raspberry Pi 2.
 
-The Raspberry Pi is ideally suited as the hub of a sensor array or control unit, since it can be used to propagate information via a web server or other remote protocol.  In this Issue, John Shovic's presents his final article in the Project Curacao remote monitoring series, David Bannon demonstrates how to build and read a simple array of digital temperature sensors, and Brian Grawburg introduces his traffic light extension board.
+Programming is part of any Raspberry Pi project.  In this Issue, Mubarak Abdu-Aguye introduces the C# programming language with an I2C project.  William Bell demonstrates how to use C++ inheritance and interface classes.  William also discusses another Scratch arcade game, with a two player air hockey simulation.  Finally, Martin Meier rounds off this Issue with a Python maze generator.
 
-When developing software or projects, it is important to retain unique files that are part of the build.  In this Issue, Alec Clews continues his series on software repositories and using Git, and William Bell discusses the basics of adding external storage to the Raspberry Pi.
 
-Computer programming enables the Raspberry Pi to be used within many different applications.  This month, Jon Silvera discusses how to drive a robotic arm with FUZE BASIC, William Bell presents a simple space arcade game in Scratch and Paul Sutton introduces Python graphical user interfaces (GUIs).
 
-The MagPi will be taking a short break over Christmas and the first Issue of 2015 will be published at the start of February.
 
-Merry Christmas and best wishes for 2015.
+
+
+

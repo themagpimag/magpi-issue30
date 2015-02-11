@@ -81,9 +81,29 @@
             <PageItemAttributes/>
         </FRAMEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.662063584216" YPOS="190" WIDTH="538.267700195312" HEIGHT="483.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.268 0 538.268 0 538.268 0 538.268 0 538.268 483.5 538.268 483.5 538.268 483.5 538.268 483.5 0 483.5 0 483.5 0 483.5 0 483.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.268 0 538.268 0 538.268 0 538.268 0 538.268 483.5 538.268 483.5 538.268 483.5 538.268 483.5 0 483.5 0 483.5 0 483.5 0 483.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Welcome to Issue 30 of The MagPi.  This month, we are pleased to be launching a kickstarter for Volumes 1 (Issues 1-8), 2 (Issues 9-19) and 3 (Issues 20-29), together will high quality cordex binders."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="...add details...."/>
+            <ITEXT CH="Welcome to Issue 30 of The MagPi and another bumper issue full of interesting articles and projects. Before we describe the content of this Issue, let us tell you about our new Kickstarter project to print Volume 3 of The MagPi (Issues 20 to 29) plus a superb new binder.  Many of you have asked us for printed copies of The MagPi.  Therefore, please check it out at:"/>
+            <para PARENT="Body text"/>
+            <ITEXT FCOLOR="Blue" FSHADE="100" CH="https://www.kickstarter.com/projects/themagpi/the-magpi-magazine-for-raspberry-pi-volume-3"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Did you miss our surprise?  Over the Christmas period we released a special edition of The MagPi... a massive 132 pages of articles from previous issues that we think are great for folks who are new to the Raspberry Pi.  You can download it for free from "/>
+            <ITEXT FCOLOR="Blue" FSHADE="100" CH="http://www.themagpi.com"/>
+            <ITEXT CH="."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="In this Issue, Olivier LeDiouris demonstrates how the Raspberry Pi can be used to enhance navigation data, sampling sensors over a long voyage.  João Matos explains how to produce an electronic tennis game with the GPIO pins, LEDs and numeric LED displays.  Philip Munts discusses the basics of controlling a small hobby DC motor with his expansion board.  Eric Ptak introduces a new P2P solution that allows a secure connection to Raspberry Pi projects that are not directly available on a public network connection.  Finally, Ian McAlpine rounds off the hardware section by presenting the new Raspberry Pi 2."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Programming is part of any Raspberry Pi project.  In this Issue, Mubarak Abdu-Aguye introduces the C# programming language with an I"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH="C project.  William Bell demonstrates how to use C++ inheritance and interface classes.  William also discusses another Scratch arcade game, with a two player air hockey simulation.  Finally, Martin Meier rounds off this Issue with a Python maze generator."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
