@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.1.svn">
-    <DOCUMENT ANZPAGES="6" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="12" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="6" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -50,7 +50,8 @@
         <LAYERS NUMMER="12" LEVEL="4" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff6470"/>
         <LAYERS NUMMER="13" LEVEL="13" NAME="Image" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffaa00"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" docInfoMarks="1" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Monaco Regular"/>
             <Subset Name="FreeSans Bold"/>
             <Subset Name="FreeSans Regular"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -206,7 +207,7 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="220.080703735352" WIDTH="375.777221679688" HEIGHT="75.4192962646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="225.749995073935" WIDTH="375.777221679688" HEIGHT="75.4192962646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para LINESP="28"/>
             <ITEXT CH="Getting started with Mono and I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -218,28 +219,28 @@
             <ITEXT CH="Introduction"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The first version of the C# programming language was released in January 2002, alongside the Microsoft dotNet framework.  This framework which was intended to provide a secure runtime environment in a similar manner as Java and its associated virtual machine.  The C# programming language is similar to Java, where the syntax of both languages were inspired by C and C++."/>
+            <ITEXT CH="The first version of the C# programming language was released in January 2002, alongside the Microsoft .NET framework. This framework was intended to provide a secure runtime environment in a similar manner as Java and its associated virtual machine. The C# programming language is similar to Java, where the syntax of both languages was inspired by C and C++."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Although the initial releases of the dotNet framework ran exclusively on Microsoft Windows operating systems, the dotNet framework specification was released in 2000, which allowed anyone to implement it on any other operating system.  Fast forward a few years later, and Novell came up with the Mono project, which was aimed at providing a dotNet-compatible runtime environment for Linux (initially) and MacOS. "/>
+            <ITEXT CH="Although the initial releases of the .NET framework ran exclusively on Microsoft Windows operating systems, the .NET framework specification was released in 2000, which allowed anyone to implement it on any other operating system.  Fast forward a few years later and Novell came up with the Mono project, which was aimed at providing a .NET compatible runtime environment for Linux (initially) and MacOS. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Today, Mono is maintained by Xamarin Ltd and supported on Android, iOS and  Xamarin.  The current version of the Mono framework available in the Debian Wheezy Linux repositories is 3.2.8, which supports up to dotNet framework version 4.5. "/>
+            <ITEXT CH="Today, Mono is maintained by Xamarin Ltd and supported on Android, iOS and  Xamarin.  The current version of the Mono framework available in the Debian Wheezy Linux repository is 3.2.8, which supports up to .NET framework version 4.5. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Installing Mono"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To be able to run C# (and essentially, any application written in a dotNet language such as VB.NET, F#.NET, etc) on the Raspberry Pi, the Mono runtime environment has to be installed. For the most basic purposes, it is possible to just install the base mono-runtime package.  However, for the majority of development activities, it is necessary to install the complete package. Starting from the latest fully updated Raspbian Linux distribution, type:"/>
+            <ITEXT CH="To be able to run C# (and essentially, any application written in a .NET language such as VB.NET, F#.NET, etc) on the Raspberry Pi, the Mono runtime environment has to be installed. For the most basic purposes, it is possible to just install the base mono-runtime package.  However, for the majority of development activities, it is necessary to install the complete package. Starting from the latest fully updated Raspbian Linux distribution, type:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" sudo apt-get install -y mono-complete"/>
+            <ITEXT FONTSIZE="9" CH=" sudo apt-get install -y mono-complete"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="This will install a bundle of development tools and several dotNet libraries.  The installation will take several minutes to finish.  Once it has finished, the version of Mono installed can be verified by typing"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" mono --version"/>
+            <ITEXT FONTSIZE="9" CH=" mono --version"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="This should return something similar to:"/>
@@ -281,12 +282,13 @@
             <para PARENT="Body text"/>
             <ITEXT CH="The Linux module that handles I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C communication on the Raspberry is disabled by default in Raspbian Linux.  To enable the I"/>
+            <ITEXT CH="C communication on the Raspberry Pi is disabled by default in Raspbian. To enable the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C module, type:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" sudo raspi-config "/>
+            <ITEXT FONTSIZE="9" CH=" sudo raspi-config"/>
+            <ITEXT CH=" "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Then select the Advanced Options and then I"/>
@@ -304,7 +306,7 @@
             <ITEXT CH=" and "/>
             <ITEXT FONT="Monaco Regular" CH="No"/>
             <ITEXT CH=".  This will remove the "/>
-            <ITEXT FONT="Monaco Regular" CH="i2c-bcm2708"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="i2c-bcm2708"/>
             <ITEXT CH=" kernel module from the blacklist and load it."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -313,21 +315,21 @@
             <ITEXT CH="C bus, type:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" sudo apt-get install -y i2c-tools"/>
+            <ITEXT FONTSIZE="9" CH=" sudo apt-get install -y i2c-tools"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Then enable the "/>
-            <ITEXT FONT="Monaco Regular" CH="i2c-dev"/>
-            <ITEXT CH=" kernel module, by:"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="i2c-dev"/>
+            <ITEXT CH=" kernel module with,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" sudo nano /etc/modules"/>
+            <ITEXT FONTSIZE="9" CH=" sudo nano /etc/modules"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="and add then adding"/>
+            <ITEXT CH="and then add,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" i2c-dev"/>
+            <ITEXT FONTSIZE="9" CH=" i2c-dev"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="to the end of the file.  Save the file, shutdown the Raspberry Pi and disconnect it from its power source."/>
@@ -340,7 +342,7 @@
             <ITEXT FCOLOR="Blue" FSHADE="100" CH=" https://www.sparkfun.com/products/"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="11824"/>
-            <ITEXT CH="  The sensor was connected to the Raspberry Pi using a breadboard and four male-to-male jumper wires, as shown at the top of this page.  Pay attention to the power connections, to avoid damage to the sensor and the Raspberry Pi."/>
+            <ITEXT CH=". The sensor was connected to the Raspberry Pi using a breadboard and four male-to-male jumper wires, as shown at the top of this page.  Pay attention to the power connections, to avoid damage to the sensor and the Raspberry Pi."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -348,25 +350,29 @@
             <ITEXT CH="Then turn the Raspberry Pi on again and type:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" sudo i2cdetect –y 1"/>
+            <ITEXT FONTSIZE="9" CH=" sudo i2cdetect –y 1"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="This will run the "/>
-            <ITEXT FONT="Monaco Regular" CH="i2cdetect"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="i2cdetect"/>
             <ITEXT CH=" program, which will show us all devices on the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C bus. The –y part is to override a yes/no prompt by providing a default ‘yes’ answer, and 1 specifies the I"/>
+            <ITEXT CH="C bus. The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="–y"/>
+            <ITEXT CH=" part is to override a yes/no prompt by providing a default ‘yes’ answer and the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="1"/>
+            <ITEXT CH=" specifies the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C bus to be scanned.  The I"/>
+            <ITEXT CH="C bus to be scanned. The I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C bus number depends on the model of the Raspberry Pi, where more information can be found at:"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="http://elinux.org/RPi_Low-level_peripherals"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Typing the "/>
-            <ITEXT FONT="Monaco Regular" CH="i2detect"/>
-            <ITEXT CH=" command should produce which reports that a device with address "/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="i2cdetect"/>
+            <ITEXT CH=" command should produce, which reports that a device with address "/>
             <ITEXT FONT="Monaco Regular" CH="0x77"/>
             <ITEXT CH=" has been detected.  This device is the BMP180 sensor, where the address is hardcoded at the Bosch factory."/>
             <para PARENT="Body text"/>
@@ -378,15 +384,19 @@
             <para PARENT="Body title"/>
             <ITEXT CH="The I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C bus can be accessed from C# by installing Rpi.I2C.Net.dll written by Max Shmelev.  To get this package type:"/>
+            <ITEXT CH="C bus can be accessed from C# by installing "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net.dll"/>
+            <ITEXT CH=" written by Max Shmelev.  To get this package type:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" git clone https://github.com/mshmelev/RPi.I2C.Net"/>
+            <ITEXT FONTSIZE="9" CH=" git clone https://github.com/mshmelev/RPi.I2C. Net.git"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" .git"/>
-            <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The package contains classes and a supporting shared library called libnativei2c.so.  To use Rpi.I2C.Net.dll on Raspbian, the supporting library should be compiled by typing:"/>
+            <ITEXT CH="The package contains classes and a supporting shared library called "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="libnativei2c.so"/>
+            <ITEXT CH=". To use "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net.dll"/>
+            <ITEXT CH=" on Raspbian, the supporting library should be compiled by typing:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="9" CH=" cd RPi.I2C.Net/Lib/LibNativeI2C/src"/>
@@ -394,82 +404,84 @@
             <ITEXT FONTSIZE="9" CH=" make"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now set the LD_LIBRARY_PATH, to include the directory that contains the library."/>
+            <ITEXT CH="Now set the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="LD_LIBRARY_PATH"/>
+            <ITEXT CH=" to include the directory that contains the library."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" export LD_LIBRARY_PATH=$HOME/RPi.I2C.Net/Lib/LibNat"/>
+            <ITEXT FONTSIZE="9" CH=" export LD_LIBRARY_PATH=$HOME/RPi.I2C.Net/Lib/ "/>
             <para PARENT="Code"/>
-            <ITEXT CH=" iveI2C"/>
+            <ITEXT FONTSIZE="9" CH="LibNativeI2C"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now the Rpi.I2C.Net.dll library can be built:"/>
+            <ITEXT CH="Now the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net.dll"/>
+            <ITEXT CH=" library can be built,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" cd ~/Rpi.I2C.Net/RPi.I2C.Net"/>
+            <ITEXT FONTSIZE="9" CH=" cd ~/Rpi.I2C.Net/RPi.I2C.Net"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" xbuild RPi.I2C.Net.csproj"/>
+            <ITEXT FONTSIZE="9" CH=" xbuild RPi.I2C.Net.csproj"/>
             <para PARENT="Code"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
             <ITEXT CH="where the first command assumes the package was cloned into the users home directory.   When the package builds it will produce a warning, but will compile correctly."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="When mono runs it looks for .dll libraries in the present working directory and within the "/>
-            <ITEXT FONT="Monaco Regular" CH="MONO_PATH"/>
+            <ITEXT CH="When Mono runs it looks for .dll libraries in the present working directory and within the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="MONO_PATH"/>
             <ITEXT CH=" directory list.  Once the package has been built the "/>
-            <ITEXT FONT="Monaco Regular" CH="Rpi.I2C.Net.dll"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net.dll"/>
             <ITEXT CH=" file should be in the "/>
-            <ITEXT FONT="Monaco Regular" CH="bin/Debug"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="bin/Debug"/>
             <ITEXT CH=" directory of "/>
-            <ITEXT FONT="Monaco Regular" CH="RPi.I2C.Net"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="RPi.I2C.Net"/>
             <ITEXT CH=".  "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The "/>
-            <ITEXT FONT="Monaco Regular" CH="libnativei2c.so"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="libnativei2c.so"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="RPi.I2C.Net.dll"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="RPi.I2C.Net.dll"/>
             <ITEXT CH=" files should be made available to mono, either by editing "/>
-            <ITEXT FONT="Monaco Regular" CH="~/.bashrc"/>
-            <ITEXT CH=" and appending:"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="~/.bashrc"/>
+            <ITEXT CH=" and appending,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="8" CH=" i2c_net=&quot;$HOME/RPi.I2C.Net/RPi.I2C.Net/bin/Debug&quot;"/>
+            <ITEXT FONTSIZE="9" CH=" i2c_net=&quot;$HOME/RPi.I2C.Net/RPi.I2C.Net/bin/De bug&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" if [[ -z $MONO_PATH ]]; then"/>
+            <ITEXT FONTSIZE="9" CH=" if [[ -z $MONO_PATH ]]; then"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   export MONO_PATH=&quot;$i2c_net&quot;"/>
+            <ITEXT FONTSIZE="9" CH="   export MONO_PATH=&quot;$i2c_net&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" elif [[ $MONO_PATH != *&quot;$i2c_net&quot;* ]]; then"/>
+            <ITEXT FONTSIZE="9" CH=" elif [[ $MONO_PATH != *&quot;$i2c_net&quot;* ]]; then"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   export MONO_PATH=$MONO_PATH:&quot;$i2c_net&quot;"/>
+            <ITEXT FONTSIZE="9" CH="   export MONO_PATH=$MONO_PATH:&quot;$i2c_net&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" fi"/>
+            <ITEXT FONTSIZE="9" CH=" fi"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" unset i2c_net"/>
+            <ITEXT FONTSIZE="9" CH=" unset i2c_net"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" natlib=$HOME/RPi.I2C.Net/Lib/LibNativeI2C"/>
+            <ITEXT FONTSIZE="9" CH=" natlib=$HOME/RPi.I2C.Net/Lib/LibNativeI2C"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" if [[ -z $LD_LIBRARY_PATH ]]; then"/>
+            <ITEXT FONTSIZE="9" CH=" if [[ -z $LD_LIBRARY_PATH ]]; then"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   export LD_LIBRARY_PATH=&quot;$natlib&quot;"/>
+            <ITEXT FONTSIZE="9" CH="   export LD_LIBRARY_PATH=&quot;$natlib&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" elif [[ $LD_LIBRARY_PATH != *&quot;$natlib&quot;* ]]; then"/>
+            <ITEXT FONTSIZE="9" CH=" elif [[ $LD_LIBRARY_PATH != *&quot;$natlib&quot;* ]]; then"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:&quot;$natlib&quot;"/>
+            <ITEXT FONTSIZE="9" CH="   export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:&quot;$na tlib&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" fi"/>
+            <ITEXT FONTSIZE="9" CH=" fi"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" unset "/>
-            <ITEXT CH="natlib"/>
+            <ITEXT FONTSIZE="9" CH=" unset natlib"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="or by copying "/>
-            <ITEXT FONT="Monaco Regular" CH="libnativei2c.so"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="libnativei2c.so"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="RPi.I2C.Net.dll"/>
-            <ITEXT CH=" into the present working directory where the mono program is being run."/>
-            <para PARENT="Body text"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="RPi.I2C.Net.dll"/>
+            <ITEXT CH=" into the present working directory where the Mono program is being run."/>
             <para PARENT="Body text"/>
             <para PARENT="Body title"/>
             <ITEXT CH="Test program"/>
@@ -480,11 +492,9 @@
             <ITEXT CH="C library and the circuit, download the test program and run it:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" wget http://www.themagpi.com/resources/CSharp/Pi_I2"/>
+            <ITEXT FONTSIZE="9" CH=" wget http://www.themagpi.com/resources/CSharp/ Pi_I2CTest.exe"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" CTest.exe"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" mono Pi_I2CTest.exe"/>
+            <ITEXT FONTSIZE="9" CH=" mono Pi_I2CTest.exe"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The program will take sixty readings, print “Done” and then close. The output from the program should be something like this: "/>
@@ -497,43 +507,41 @@
             <ITEXT CH="Hello World"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Programs can be developed on the Raspberry Pi or on Microsoft Windows using the Visual Studio. Some information on development with Visual Studio is given a at:"/>
+            <ITEXT CH="Programs can be developed on the Raspberry Pi or on Microsoft Windows using Visual Studio. Some information on development with Visual Studio is given at:"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="https://erictummers.wordpress.com/2012/01/25/target-mono-from-visual-studio/"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="To build on the Raspberry Pi, use a text editor such as "/>
-            <ITEXT FONT="Monaco Regular" CH="nano"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="nano"/>
             <ITEXT CH=" or "/>
-            <ITEXT FONT="Monaco Regular" CH="emacs"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="emacs"/>
             <ITEXT CH=" and create a file called "/>
-            <ITEXT FONT="Monaco Regular" CH="HelloWorld.cs"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="HelloWorld.cs"/>
             <ITEXT CH=" that contains:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="8" CH=" using System;"/>
+            <ITEXT FONTSIZE="9" CH=" using System;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" public class HelloWorld {"/>
+            <ITEXT FONTSIZE="9" CH=" public class HelloWorld {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   public static void Main() {"/>
+            <ITEXT FONTSIZE="9" CH="   public static void Main() {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="     Console.WriteLine(&quot;Hello World!&quot;);"/>
+            <ITEXT FONTSIZE="9" CH="     Console.WriteLine(&quot;Hello World!&quot;);"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH="   }"/>
+            <ITEXT FONTSIZE="9" CH="   }"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" }"/>
+            <ITEXT FONTSIZE="9" CH=" }"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Then compile and run this example, by typing:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" mcs HelloWorld.cs"/>
+            <ITEXT FONTSIZE="9" CH=" mcs HelloWorld.cs"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" mono HelloWorld.exe"/>
+            <ITEXT FONTSIZE="9" CH=" mono HelloWorld.exe"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <para PARENT="Body title"/>
-            <para PARENT="Body title"/>
             <para PARENT="Body title"/>
             <para PARENT="Body title"/>
             <para PARENT="Body title"/>
@@ -543,25 +551,23 @@
             <ITEXT CH="Download and unpack the program files by typing:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="8" FCOLOR="Black" FSHADE="100" CH=" wget http://www.themagpi.com/resources/CSharp/Pi_I2C"/>
+            <ITEXT FONTSIZE="9" FCOLOR="Black" FSHADE="100" CH=" wget http://www.themagpi.com/resources/CSharp/ Pi_I2CTest.zip"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" FCOLOR="Black" FSHADE="100" CH=" Test.zip"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" FCOLOR="Black" FSHADE="100" CH=" unzip Pi_I2CTest.zip"/>
+            <ITEXT FONTSIZE="9" FCOLOR="Black" FSHADE="100" CH=" unzip Pi_I2CTest.zip"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Similar to the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C communication library, this package was developed using Microsoft Visual Studio.  The C# program files can be found in the "/>
-            <ITEXT FONT="Monaco Regular" CH="Pi_I2CTest/Pi_I2CTest/Pi_I2CTest"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Pi_I2CTest/Pi_I2CTest/Pi_I2CTest"/>
             <ITEXT CH=" directory.  The example program can be built and run by typing:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" cd Pi_I2CTest/Pi_I2CTest/Pi_I2CTest"/>
+            <ITEXT FONTSIZE="9" CH=" cd Pi_I2CTest/Pi_I2CTest/Pi_I2CTest"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" xbuild Pi_I2CTest.csproj"/>
+            <ITEXT FONTSIZE="9" CH=" xbuild Pi_I2CTest.csproj"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" mono bin/Debug/Pi_I2CTest.exe"/>
+            <ITEXT FONTSIZE="9" CH=" mono bin/Debug/Pi_I2CTest.exe"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -570,9 +576,11 @@
             <ITEXT CH="C readout program"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Pi_I2CTest program source code can be found in "/>
-            <ITEXT FONT="Monaco Regular" CH="Program.cs"/>
-            <ITEXT CH=".  This program contains commands to connect to the I"/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Pi_I2CTest"/>
+            <ITEXT CH=" program source code can be found in "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Program.cs"/>
+            <ITEXT CH=". This program contains commands to connect to the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C bus, take data and decode the values."/>
             <para PARENT="Body text"/>
@@ -582,39 +590,41 @@
             <ITEXT CH="C kernel modules have been setup as described earlier in this article, the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C buses will be visible as Linux devices "/>
-            <ITEXT FONT="Monaco Regular" CH="/dev/i2c-0"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="/dev/i2c-0"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="/dev/i2c-1"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="/dev/i2c-1"/>
             <ITEXT CH=".  A connection to the second I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C bus can be made by using"/>
+            <ITEXT CH="C bus can be made by using:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" I2CBus.Open(&quot;/dev/i2c-1&quot;);"/>
+            <ITEXT FONTSIZE="9" CH=" I2CBus.Open(&quot;/dev/i2c-1&quot;);"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The method returns an I2CBus reference to the chosen bus.  This I2CBus class is part of the "/>
-            <ITEXT FONT="Monaco Regular" CH="Rpi.I2C.Net"/>
-            <ITEXT CH=" namespace.  Therefore a using directive is needed. Thus, the code in the "/>
-            <ITEXT FONT="Monaco Regular" CH="Main()"/>
+            <ITEXT CH="The method returns an I2CBus reference to the chosen bus. This I2CBus class is part of the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net"/>
+            <ITEXT CH=" namespace. Therefore a "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="using"/>
+            <ITEXT CH=" directive is needed. Thus, the code in the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Main()"/>
             <ITEXT CH=" method is:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" using System;"/>
+            <ITEXT FONTSIZE="9" CH=" using System;"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" //other using directives"/>
+            <ITEXT FONTSIZE="9" CH=" //other using directives"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" using RPi.I2C.Net;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" //namespace and class declaration"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" static I2CBus bus;"/>
+            <ITEXT FONTSIZE="9" CH=" using RPi.I2C.Net;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" static void Main(string[] args) {"/>
+            <ITEXT FONTSIZE="9" CH=" //namespace and class declaration"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bus = I2CBus.Open(&quot;/dev/i2c-1&quot;);"/>
+            <ITEXT FONTSIZE="9" CH=" static I2CBus bus;"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" static void Main(string[] args) {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   bus = I2CBus.Open(&quot;/dev/i2c-1&quot;);"/>
             <para PARENT="Code"/>
             <ITEXT CH="Using the I2CBus reference, it is possible to read from and write to any devices on the bus.  In the code snippet below, the reference is declared with class scope such that it is accessible to other methods in the program."/>
             <para PARENT="Body text"/>
@@ -622,7 +632,7 @@
             <ITEXT CH="The BMP180 sensor contains a number of registers, each containing configuration or measurement data.  Configuration of the sensor can be performed by writing the appropriate bit combinations to the appropriate registers. Similarly, temperature and pressure measurements can be made by writing certain bits to certain registers, waiting for specified periods of time and then reading the contents of registers designated to contain the results of the measurements. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To explore basic read-write functionality, the program reads the chip ID register of the sensor.  This is specified on the datasheet for the BMP180 as being at 0xD0.  A correctly functioning BMP180 sensor should contain the value 0x55 in that register.  Therefore, to ensure that there is in fact a BMP180 sensor connected to the Raspberry Pi the program:"/>
+            <ITEXT CH="To explore basic read-write functionality, the program reads the chip ID register of the sensor.  This is specified on the datasheet for the BMP180 as being at 0xD0. A correctly functioning BMP180 sensor should contain the value 0x55 in that register.  Therefore, to ensure that there is in fact a BMP180 sensor connected to the Raspberry Pi, the program:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="1) Reads the value in register 0xD0"/>
@@ -633,170 +643,193 @@
             <ITEXT CH="To read a value from any BMP180 register, the address of the desired register should be written to the BMP180 and then a single byte is read back from the sensor.  The single byte thus read is the value in the register specified in the preceding write operation. Thus, to complete step 1) above,  the program:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="i) Writes the value 0xD0 to the BMP180 (which selects that register for the next operation)"/>
+            <ITEXT CH="a) Writes the value 0xD0 to the BMP180 (which selects that register for the next operation)"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="ii) Reads a single byte back from the BMP180"/>
+            <ITEXT CH="b) Reads a single byte back from the BMP180"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To perform (i), the value is written with the "/>
-            <ITEXT FONT="Monaco Regular" CH="WriteByte()"/>
+            <ITEXT CH="To perform (a), the value is written with the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="WriteByte()"/>
             <ITEXT CH=" method of the I2CBus class.  This method takes two arguments: the first is the device address (integer) and the second is the byte to be written (byte).  The device address for the BMP180 is 0x77 and the byte to be written is 0xD0: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" bus.WriteByte(0x77, 0xD0); "/>
+            <ITEXT FONTSIZE="9" CH=" bus.WriteByte(0x77, 0xD0);"/>
+            <ITEXT CH=" "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To perform (ii), the "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadBytes()"/>
-            <ITEXT CH=" method of the I2CBus class is used.  This method takes two arguments: the device address (integer) and the number of bytes to read (integer).  Unlike the "/>
-            <ITEXT FONT="Monaco Regular" CH="WriteByte()"/>
+            <ITEXT CH="To perform (b), the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadBytes()"/>
+            <ITEXT CH=" method of the I2CBus class is used. This method takes two arguments: the device address (integer) and the number of bytes to read (integer). Unlike the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="WriteByte()"/>
             <ITEXT CH=" method, this method returns a byte array ("/>
-            <ITEXT FONT="Monaco Regular" CH="byte[]"/>
-            <ITEXT CH=") containing the bytes read from the device in the order that they were read.  In this case, only one byte is being read:"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="byte[]"/>
+            <ITEXT CH=") containing the bytes read from the device, in the order that they were read.  In this case only one byte is being read:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" byte[] results = bus.ReadBytes(0x77, 1);"/>
+            <ITEXT FONTSIZE="9" CH=" byte[] results = bus.ReadBytes(0x77, 1);"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Assuming that all goes well, the results array should contain a single value that should be 0x55. This can be confirmed by using an if statement, comparing "/>
-            <ITEXT FONT="Monaco Regular" CH="results[0]"/>
-            <ITEXT CH=" with 0x55. If "/>
-            <ITEXT FONT="Monaco Regular" CH="results[0]"/>
-            <ITEXT CH="  is indeed 0x55, then a BMP180 sensor is present and functional. If it is not, then perhaps there might be a wiring issue or the sensor is not working correctly."/>
+            <ITEXT CH="Assuming that all goes well, the results array should contain a single value that should be 0x55. This can be confirmed by using an "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="if"/>
+            <ITEXT CH=" statement, comparing "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="results[0]"/>
+            <ITEXT CH=" with "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="0x55"/>
+            <ITEXT CH=". If "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="results[0]"/>
+            <ITEXT CH="  is indeed "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="0x55"/>
+            <ITEXT CH=", then a BMP180 sensor is present and functional. If it is not, then perhaps there might be a wiring issue or the sensor is not working correctly."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The complete code for the detection routine is contained in the "/>
-            <ITEXT FONT="Monaco Regular" CH="Detect()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Detect()"/>
             <ITEXT CH=" method in the "/>
-            <ITEXT FONT="Monaco Regular" CH="Program.cs"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Program.cs"/>
             <ITEXT CH=" file. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Reading the temperature"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The BMP180 has certain calibration constants, which are required to calculate the temperature and pressure read from the sensor. These constants are designated as AC1 to AC6, B1, B2, and MB to MD. They are all sixteen-bit values, stored in register pairs starting from address 0xAA to 0xBE. Therefore, AC1’s MSB and LSB are stored in 0xAA and 0xAB respectively and so on. "/>
-            <para PARENT="Body text"/>
+            <ITEXT CH="The BMP180 has certain calibration constants, which are required to calculate the temperature and pressure read from the sensor. These constants are designated as AC1 to AC6, B1, B2 and MB to MD. They are all 16-bit values, stored in register pairs starting from address 0xAA to 0xBE. Therefore, AC1’s MSB and LSB are stored in 0xAA and 0xAB respectively and so on. "/>
             <para PARENT="Body text"/>
             <ITEXT CH="For simplicity, only AC1 shall be considered.  To read it, a single byte should be read from addresses 0xAA and 0xAB.  Next, the first byte should be shifted by 8 positions to the left, such that it becomes the MSB.  Then the resultant value should be OR’ed with the second byte. This corresponds to:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" bus.WriteByte(0x77, 0xAA); // select the MSB of AC1"/>
+            <ITEXT FONTSIZE="9" CH=" // select the MSB of AC1"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" bus.WriteByte(0x77, 0xAA); "/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // read one byte from 0xAA"/>
+            <ITEXT FONTSIZE="9" CH=" // read one byte from 0xAA"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" byte[] result = bus.ReadBytes(0x77, 1); "/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" // select the LSB of AC1"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" bus.WriteByte(0x77, 0xAB);"/>
+            <ITEXT FONTSIZE="9" CH=" byte[] result = bus.ReadBytes(0x77, 1); "/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // read one byte from 0xAB"/>
+            <ITEXT FONTSIZE="9" CH=" // select the LSB of AC1"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" byte[] result2 = bus.ReadBytes(0x77, 1); "/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" // shift the MSB, store it in a 16bit variable"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" short finalValue = (short)(result[0] &lt;&lt; 8);"/>
+            <ITEXT FONTSIZE="9" CH=" bus.WriteByte(0x77, 0xAB);"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // OR the MSB with the LSB"/>
+            <ITEXT FONTSIZE="9" CH=" // read one byte from 0xAB"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" finalValue |= (short)result2[0]; "/>
+            <ITEXT FONTSIZE="9" CH=" byte[] result2 = bus.ReadBytes(0x77, 1); "/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // Variable finalValue now contains the calibration"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // constant AC1"/>
+            <ITEXT FONTSIZE="9" CH=" // shift the MSB, store it in a 16bit variable"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" short finalValue = (short)(result[0] &lt;&lt; 8);"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" // OR the MSB with the LSB"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" finalValue |= (short)result2[0]; "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" // Variable finalValue now contains the "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" // calibration constant AC1"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="A similar process is required for the other calibration constants.  Therefore, the functionality was written as a method called "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadSignedWord()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadSignedWord()"/>
             <ITEXT CH=".  Note that constants AC4 to AC6 are unsigned, therefore another function is needed to read them.  For this reason, another method called "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadUnsignedWord()"/>
-            <ITEXT CH=" was implemented, within which the variable holding the final result is declared as ushort (unsigned short) as opposed to short (which is a signed type).  Finally, a method called "/>
-            <ITEXT FONT="Monaco Regular" CH="InitParams()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadUnsignedWord()"/>
+            <ITEXT CH=" was implemented, within which the variable holding the final result is declared as "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ushort"/>
+            <ITEXT CH=" (unsigned short) as opposed to "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="short"/>
+            <ITEXT CH=" (which is a signed type).  Finally, a method called "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="InitParams()"/>
             <ITEXT CH=" was implemented, which reads and stores all of the calibration constants by using the "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadSignedWord()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadSignedWord()"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadUnsignedWord()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadUnsignedWord()"/>
             <ITEXT CH=" methods.  The reader is strongly encouraged to read the implementation of these three methods to gain a clearer understanding."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To read the temperature from the sensor, the value 0x2E is written to register address 0xF4 to begin the measurement process.  After a delay of 4.5 milliseconds, the result can be read from registers 0xF6 (MSB) and 0xF7 (LSB).  The  value read from the sensor is unsigned and is converted to a temperature value using the formula given on the data sheet, available from Sparkfun:"/>
+            <ITEXT CH="To read the temperature from the sensor, the value 0x2E is written to register address 0xF4 to begin the measurement process.  After a delay of 4.5 milliseconds, the result can be read from registers 0xF6 (MSB) and 0xF7 (LSB). The  value read from the sensor is unsigned and is converted to a temperature value using the formula given on the data sheet, available from Sparkfun,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="X1 = (UT-AC6) x AC5/2"/>
-            <ITEXT FEATURES="inherit superscript" CH="15"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="X1 = (UT-AC6) x AC5/2"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" FEATURES="inherit superscript" CH="15"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="X2 = MC x 2"/>
-            <ITEXT FEATURES="inherit superscript" CH="11"/>
-            <ITEXT CH="/(X1+MD)"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="X2 = MC x 2"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" FEATURES="inherit superscript" CH="11"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="/(X1+MD)"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="B5 = X1 + X2"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="B5 = X1 + X2"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="T = (B5 + 8)/2"/>
-            <ITEXT FEATURES="inherit superscript" CH="4"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="T = (B5 + 8)/2"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" FEATURES="inherit superscript" CH="4"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="where UT is the raw value read from the sensor.  To write multiple bytes at a time, the I2CBus instance provides a "/>
-            <ITEXT FONT="Monaco Regular" CH="WriteBytes()"/>
+            <ITEXT CH="where "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="UT"/>
+            <ITEXT CH=" is the raw value read from the sensor.  To write multiple bytes at a time, the I2CBus instance provides a "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="WriteBytes()"/>
             <ITEXT CH=" method.  This method differs from the "/>
-            <ITEXT FONT="Monaco Regular" CH="WriteByte()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="WriteByte()"/>
             <ITEXT CH=" method in that the second parameter is not a single byte but a byte array ("/>
-            <ITEXT FONT="Monaco Regular" CH="byte[]"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="byte[]"/>
             <ITEXT CH="), containing the bytes to be written.  This corresponds to:"/>
             <para PARENT="Body text"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // 0xF4 (address), 0x2E (data)"/>
+            <ITEXT FONTSIZE="9" CH=" // 0xF4 (address), 0x2E (data)"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" byte[] bytes = new byte[] { 0xF4, 0x2E }; "/>
+            <ITEXT FONTSIZE="9" CH=" byte[] bytes = new byte[] {0xF4,0x2E}; "/>
             <para PARENT="Code"/>
-            <ITEXT CH=" bus.WriteBytes(0x77, bytes); // address, then data "/>
+            <ITEXT FONTSIZE="9" CH=" // Address, then data  "/>
             <para PARENT="Code"/>
-            <ITEXT CH=" System.Threading.Thread.Sleep(7); // delay"/>
+            <ITEXT FONTSIZE="9" CH=" bus.WriteBytes(0x77,bytes); "/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" // Read raw value from source file"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" long ut = ReadUnsignedWord(0xF6, 0xF7);"/>
+            <ITEXT FONTSIZE="9" CH=" System.Threading.Thread.Sleep(7); // delay"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" // Convert ut to a temperature value"/>
+            <ITEXT FONTSIZE="9" CH=" // Read raw value from source file"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" long x1 = (long)((ut - AC6) * AC5/Math.Pow(2, 15));"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" long x2 = (long)(MC * Math.Pow(2, 11) / (x1 + MD));"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" long b5 = x1 + x2;"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" long temp = (long)((b5 + 8) / Math.Pow(2, 4));"/>
+            <ITEXT FONTSIZE="9" CH=" long ut = ReadUnsignedWord(0xF6,0xF7);"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" temp = temp * 0.1; // convert to degC"/>
+            <ITEXT FONTSIZE="9" CH=" // Convert ut to a temperature value"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" long x1 = (long)((ut-AC6)*AC5/Math.Pow(2,15));"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" long x2 = (long)(MC*Math.Pow(2,11)/(x1+MD));"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" long b5 = x1+x2;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" long temp = (long)((b5+8)/Math.Pow(2,4));"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" temp = temp * 0.1; // convert to degC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The code above is used in the "/>
-            <ITEXT FONT="Monaco Regular" CH="ReadTemperature()"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="ReadTemperature()"/>
             <ITEXT CH=" method.  Try reading the datasheet and comparing it with the code for reading the pressure. "/>
             <para PARENT="Body text"/>
             <ITEXT CH="Conclusion"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Rpi.I2C.Net library provides a well-designed, low-level interface to the I"/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Rpi.I2C.Net"/>
+            <ITEXT CH=" library provides a well-designed, low-level interface to the I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
             <ITEXT CH="C bus.  This makes it possible to write drivers for particular I"/>
             <ITEXT FEATURES="inherit superscript" CH="2"/>
-            <ITEXT CH="C devices with maximal flexibility.  A basic BMP180 driver is implemented in the "/>
-            <ITEXT FONT="Monaco Regular" CH="BMP180.cs"/>
+            <ITEXT CH="C devices with maximum flexibility. A basic BMP180 driver is implemented in the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="BMP180.cs"/>
             <ITEXT CH=" file."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Note also that error checking/exception handling code has been omitted both above and in the driver code.  In practice, all calls to the I2CBus methods should be wrapped in try-catch blocks. Finally, the "/>
-            <ITEXT FONT="Monaco Regular" CH="Dispose()"/>
+            <ITEXT CH="Note also that error checking/exception handling code has been omitted both above and in the driver code.  In practice, all calls to the I2CBus methods should be wrapped in "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="try-catch"/>
+            <ITEXT CH=" blocks. "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Finally, the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="Dispose()"/>
             <ITEXT CH=" method should be called on the I2CBus instance once it is no longer required. This explicitly ensures that other programs can access it after your program exits."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -947,7 +980,7 @@
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34708661126" YPOS="4484.06338582701" WIDTH="538.5883465" HEIGHT="365.43661417299" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 365.437 538.588 365.437 538.588 365.437 538.588 365.437 0 365.437 0 365.437 0 365.437 0 365.437 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 365.437 538.588 365.437 538.588 365.437 538.588 365.437 0 365.437 0 365.437 0 365.437 0 365.437 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="55">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347086614173" YPOS="4564.42322834646" WIDTH="257.9584252" HEIGHT="206.32677165354" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.958 0 257.958 0 257.958 0 257.958 0 257.958 206.327 257.958 206.327 257.958 206.327 257.958 206.327 0 206.327 0 206.327 0 206.327 0 206.327 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.958 0 257.958 0 257.958 0 257.958 0 257.958 206.327 257.958 206.327 257.958 206.327 257.958 206.327 0 206.327 0 206.327 0 206.327 0 206.327 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347091674805" YPOS="4547.25" WIDTH="257.958435058594" HEIGHT="223.500106811523" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.958 0 257.958 0 257.958 0 257.958 0 257.958 223.5 257.958 223.5 257.958 223.5 257.958 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.958 0 257.958 0 257.958 0 257.958 0 257.958 223.5 257.958 223.5 257.958 223.5 257.958 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -997,15 +1030,15 @@
             <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="410.75" YPOS="2018.97342519684" WIDTH="256.185433070867" HEIGHT="61.875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.185 0 256.185 0 256.185 0 256.185 0 256.185 61.875 256.185 61.875 256.185 61.875 256.185 61.875 0 61.875 0 61.875 0 61.875 0 61.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.185 0 256.185 0 256.185 0 256.185 0 256.185 61.875 256.185 61.875 256.185 61.875 256.185 61.875 0 61.875 0 61.875 0 61.875 0 61.875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="410.75" YPOS="2052.98917322834" WIDTH="256.185433070867" HEIGHT="61.875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.185 0 256.185 0 256.185 0 256.185 0 256.185 61.875 256.185 61.875 256.185 61.875 256.185 61.875 0 61.875 0 61.875 0 61.875 0 61.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.185 0 256.185 0 256.185 0 256.185 0 256.185 61.875 256.185 61.875 256.185 61.875 256.185 61.875 0 61.875 0 61.875 0 61.875 0 61.875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" Temperature: 27.9 Pressure: 938.918264411984"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" Temperature: 27.9 Pressure: 938.918264411984"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" Temperature: 27.9 Pressure: 938.933390108141"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" Temperature: 27.9 Pressure: 938.933390108141"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" Temperature: 27.9 Pressure: 939.001455765812"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" Temperature: 27.9 Pressure: 939.001455765812"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="8" CH=" Temperature: 27.9 Pressure: 938.948515806314"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" Temperature: 27.9 Pressure: 938.948515806314"/>
             <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1049,7 +1082,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347086614173" YPOS="2326.84842529841" WIDTH="256.561063" HEIGHT="194.120708559859" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.121 256.561 194.121 256.561 194.121 256.561 194.121 0 194.121 0 194.121 0 194.121 0 194.121 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.121 256.561 194.121 256.561 194.121 256.561 194.121 0 194.121 0 194.121 0 194.121 0 194.121 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347091674805" YPOS="2298.501953125" WIDTH="256.561065673828" HEIGHT="231.998046875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 231.998 256.561 231.998 256.561 231.998 256.561 231.998 0 231.998 0 231.998 0 231.998 0 231.998 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 231.998 256.561 231.998 256.561 231.998 256.561 231.998 0 231.998 0 231.998 0 231.998 0 231.998 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1057,23 +1090,23 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="411" YPOS="2240.59251968504" WIDTH="255.935433070867" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://erictummers.wordpress.com/2012/01/25/target-mono-from-visual-studio/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text93" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 31.5 255.935 31.5 255.935 31.5 255.935 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 31.5 255.935 31.5 255.935 31.5 255.935 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="411" YPOS="2266.10433070866" WIDTH="255.935433070867" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://erictummers.wordpress.com/2012/01/25/target-mono-from-visual-studio/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text93" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 31.5 255.935 31.5 255.935 31.5 255.935 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 31.5 255.935 31.5 255.935 31.5 255.935 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2460.47307089607" WIDTH="256.561063" HEIGHT="38.9914961" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 38.9915 256.561 38.9915 256.561 38.9915 256.561 38.9915 0 38.9915 0 38.9915 0 38.9915 0 38.9915 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 38.9915 256.561 38.9915 256.561 38.9915 256.561 38.9915 0 38.9915 0 38.9915 0 38.9915 0 38.9915 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2485.98488191969" WIDTH="256.561063" HEIGHT="38.9914961" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 38.9915 256.561 38.9915 256.561 38.9915 256.561 38.9915 0 38.9915 0 38.9915 0 38.9915 0 38.9915 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 38.9915 256.561 38.9915 256.561 38.9915 256.561 38.9915 0 38.9915 0 38.9915 0 38.9915 0 38.9915 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2341.47307089607" WIDTH="256.561063" HEIGHT="90.6377952456696" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 90.6378 256.561 90.6378 256.561 90.6378 256.561 90.6378 0 90.6378 0 90.6378 0 90.6378 0 90.6378 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 90.6378 256.561 90.6378 256.561 90.6378 256.561 90.6378 0 90.6378 0 90.6378 0 90.6378 0 90.6378 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2364.1502362504" WIDTH="256.561063" HEIGHT="90.6377952456696" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 90.6378 256.561 90.6378 256.561 90.6378 256.561 90.6378 0 90.6378 0 90.6378 0 90.6378 0 90.6378 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 90.6378 256.561 90.6378 256.561 90.6378 256.561 90.6378 0 90.6378 0 90.6378 0 90.6378 0 90.6378 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="1925.84842526536" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="1934.35236227323" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="2792.6751969189" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="2789.84055124961" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1085,15 +1118,15 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2018.00590558032" WIDTH="256.561063" HEIGHT="60.9940944196837" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 60.9941 256.561 60.9941 256.561 60.9941 256.561 60.9941 0 60.9941 0 60.9941 0 60.9941 0 60.9941 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 60.9941 256.561 60.9941 256.561 60.9941 256.561 60.9941 0 60.9941 0 60.9941 0 60.9941 0 60.9941 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.374370070867" YPOS="2052.02165361182" WIDTH="256.561063" HEIGHT="60.9940944196837" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 60.9941 256.561 60.9941 256.561 60.9941 256.561 60.9941 0 60.9941 0 60.9941 0 60.9941 0 60.9941 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 60.9941 256.561 60.9941 256.561 60.9941 256.561 60.9941 0 60.9941 0 60.9941 0 60.9941 0 60.9941 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="2952.67519693779" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="2947.00590559921" WIDTH="256.561063" HEIGHT="51.53740151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 51.5374 256.561 51.5374 256.561 51.5374 256.561 51.5374 0 51.5374 0 51.5374 0 51.5374 0 51.5374 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="3217.7696851" WIDTH="256.561063" HEIGHT="21.75913386" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 21.7591 256.561 21.7591 256.561 21.7591 256.561 21.7591 0 21.7591 0 21.7591 0 21.7591 0 21.7591 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 21.7591 256.561 21.7591 256.561 21.7591 256.561 21.7591 0 21.7591 0 21.7591 0 21.7591 0 21.7591 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="3212.66732289528" WIDTH="256.561063" HEIGHT="21.75913386" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 21.7591 256.561 21.7591 256.561 21.7591 256.561 21.7591 0 21.7591 0 21.7591 0 21.7591 0 21.7591 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 21.7591 256.561 21.7591 256.561 21.7591 256.561 21.7591 0 21.7591 0 21.7591 0 21.7591 0 21.7591 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1109,7 +1142,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.347086614173" YPOS="4285.33661426771" WIDTH="256.561063" HEIGHT="61.5925195905556" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 61.5925 256.561 61.5925 256.561 61.5925 256.561 61.5925 0 61.5925 0 61.5925 0 61.5925 0 61.5925 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 61.5925 256.561 61.5925 256.561 61.5925 256.561 61.5925 0 61.5925 0 61.5925 0 61.5925 0 61.5925 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.347091674805" YPOS="4271.25" WIDTH="256.561065673828" HEIGHT="75.6789398193359" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 75.6789 256.561 75.6789 256.561 75.6789 256.561 75.6789 0 75.6789 0 75.6789 0 75.6789 0 75.6789 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 75.6789 256.561 75.6789 256.561 75.6789 256.561 75.6789 0 75.6789 0 75.6789 0 75.6789 0 75.6789 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
