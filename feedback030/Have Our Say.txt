@@ -1,0 +1,16 @@
+Working on The MagPi from issue 6 onwards has been a fantastic experience. I've met, spoken to and interviewed some incredibly intelligent and interesting people who understand the need to increase the technical and critical thinking skills of the next generation. I've had my first programming article in print in issue 7's Python Pit, and proof read, tested and undertaken layout on dozens of other articles. Most of all I've had fun. Here's to The New MagPi.
+Colin Deady
+
+
+Sitting at work, issue 8 had come out. At the time, the magpi bird design was a bit rough around the edges. I decided I'd rebuild the logo in vector (thank you inkscape) to give it a nice crisp appearance at any scale. A small contribution, but one of many. From then on, I would offer my small contributions from issue 9 to 30. Working when I could for the community and mostly intent on staying in the shadows, my primary goal was to give to the community what I could and free myself from a feeling I had for a long time... design was a chore rather then something I loved. This community freed me, I thank you all for the wonderful experience.
+Bryan Butler
+
+
+In 2012, I joined the Raspberry Pi foundation forum after stumbling across this clever computer on a BBC website.  Here I met likeminded individuals who shared my interest and passion for supporting the project and it became a fantastic place to share ideas and pose questions on all things Pi.
+
+Very early on in the project, there was no documentation to support the usage of the Pi outside of the forum.  I felt that in order for it to be accessible to users of all ages and experience, a free to access medium for showing off it’s capabilities and wide range of applications was required.  This had to include initial setup instructions and the principles of coding in an easy and attractive format – thus The MagPi was born
+
+Over the course of 3 years we gained the support of both the community and the foundation and both our readership and writer base grew. We produced 30 issues full to the brim of articles ranging as far apart as monitoring weather in a remote island to cracking enigma codes! We were featured in journals including the Wall Street Journal, Wired to name a few and even Tweeted by the BBC’s technology reporters. 
+
+I am so proud of what we have achieved and thank you all for your support; especially those who helped us make The MagPi great.  I wish the Foundation the best of luck with taking over the magazine and know that it will be in safe hands.
+Ash Stone
